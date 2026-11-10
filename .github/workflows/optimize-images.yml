@@ -1,0 +1,46 @@
+name: Optimize images
+on:
+  push:
+    paths:
+      - 'raw/**'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pillow
+      - name: Convert raw to webp
+        run: |
+          python - <<'PY'
+          import os, re, glob
+          from PIL import Image
+          for f in sorted(glob.glob('raw/*/*')):
+              slug = os.path.basename(os.path.dirname(f))
+              stem, ext = os.path.splitext(os.path.basename(f))
+              stem = stem.lower()
+              if ext.lower() not in ('.jpg', '.jpeg', '.png', '.webp'):
+                  continue
+              m = re.fullmatch(r's?(\d+)', stem)
+              name = 'cover' if stem == 'cover' else ('s' + m.group(1) if m else None)
+              if not name:
+                  print('skip', f)
+                  continue
+              im = Image.open(f).convert('RGB')
+              im.thumbnail((1600, 1600) if name == 'cover' else (1400, 1400))
+              out = f'img/{slug}/{name}.webp'
+              os.makedirs(os.path.dirname(out), exist_ok=True)
+              im.save(out, 'WEBP', quality=80, method=6)
+              print(out, im.size)
+          PY
+      - name: Commit result
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add img
+          git diff --cached --quiet || (git commit -m "Optimize images" && git pull --rebase && git push)
