@@ -1,6 +1,226 @@
 {
- "updated": "2026-11-06 11:18",
+ "updated": "2026-11-10 09:37",
  "books": [
+  {
+   "slug": "krayon",
+   "title": "Sari dan Krayon Biru",
+   "en": "Sari and the Blue Crayon",
+   "attr": "Communicators",
+   "fase": 1,
+   "pos": "50% 50%",
+   "dense": 0,
+   "lang0": "bi",
+   "status": "Terbit",
+   "pages": [
+    {
+     "id": [
+      "Waktu menggambar di kelas.",
+      "Sari ingin menggambar langit.",
+      "Langit itu biru."
+     ],
+     "en": [],
+     "ill": "Kelas dengan meja bundar. Anak-anak menggambar. Sari duduk di dekat Bima. Bu Guru berdiri di kejauhan."
+    },
+    {
+     "id": [
+      "Tetapi krayon biru ada di meja Bima.",
+      "Hanya satu."
+     ],
+     "en": [],
+     "ill": "Kotak krayon Sari tidak punya warna biru. Di meja Bima ada satu krayon biru."
+    },
+    {
+     "id": [
+      "Sari ingin berkata, “Boleh aku pinjam?”",
+      "Tetapi kata-katanya hilang.",
+      "Hilang, hilang."
+     ],
+     "en": [],
+     "ill": "Sari membuka mulut, tetapi tidak ada gelembung kata. Pipinya merona."
+    },
+    {
+     "id": [
+      "Bima berbicara terus.",
+      "“Gambarku bola! Besar sekali! Bolaku menggelinding!”",
+      "Bima tidak melihat Sari."
+     ],
+     "en": [],
+     "ill": "Bima menggambar sambil berbicara dengan banyak gelembung kata. Ia tidak melihat Sari."
+    },
+    {
+     "id": [
+      "Sari tidak menyerah.",
+      "Ia mengambil kertas kecil.",
+      "Ia menggambar sebatang krayon. Krayon biru. *Draw.*"
+     ],
+     "en": [],
+     "ill": "Sari mengambil kertas kecil dan menggambar sebatang krayon biru dengan hati-hati."
+    },
+    {
+     "id": [
+      "Sari menyentuh lengan Bima pelan.",
+      "Ia menunjukkan gambarnya."
+     ],
+     "en": [],
+     "ill": "Sari menyentuh lengan Bima dengan lembut sambil mengangkat kertas kecilnya."
+    },
+    {
+     "id": [
+      "Bima berhenti bicara.",
+      "Bima melihat gambar itu. *Look.*"
+     ],
+     "en": [],
+     "ill": "Bima berhenti bicara, mulutnya tertutup, matanya menatap gambar Sari."
+    },
+    {
+     "id": [
+      "Bima diam.",
+      "Bima menunggu.",
+      "Bima mendengar. *Listen.*"
+     ],
+     "en": [],
+     "ill": "Bima menatap Sari dengan tenang. Gelembung kata di sekitarnya kosong dan sepi."
+    },
+    {
+     "id": [
+      "“Krayon biru?” tanya Bima.",
+      "Sari mengangguk."
+     ],
+     "en": [],
+     "ill": "Bima memiringkan kepala, bertanya. Sari mengangguk dengan senyum kecil."
+    },
+    {
+     "id": [
+      "Bima menyerahkan krayon biru.",
+      "Sari menggambar langit.",
+      "Langit yang biru. *Blue.*"
+     ],
+     "en": [],
+     "ill": "Sari menggambar langit biru. Bima tersenyum di sampingnya. Bu Guru tersenyum dari kejauhan."
+    },
+    {
+     "id": [
+      "Apa yang kamu lakukan kalau sulit mengatakannya dengan kata-kata?"
+     ],
+     "en": [
+      "What do you do when it is hard to say it in words?"
+     ],
+     "q": 1,
+     "ill": "Satu gambar besar langit biru dengan ruang kosong di sekitarnya untuk pertanyaan."
+    }
+   ],
+   "kg": "# Kartu Guru: Sari dan Krayon Biru\n\n*Fase 1 (EY1-EY2) · Atribut utama: Communicators · Prototipe untuk diuji*\n\n## Sekilas buku\n\nSari ingin meminjam krayon biru di meja Bima, tetapi kata-katanya hilang. Bima sibuk berbicara tentang gambarnya dan tidak melihat Sari. Sari menggambar krayon biru di kertas kecil dan menunjukkannya. Bima berhenti bicara, melihat, menunggu, lalu bertanya, “Krayon biru?” Buku ini menunjukkan Communicators di usia paling awal: menyampaikan dengan cara apa pun, dan mendengarkan dengan berhenti, menatap, dan menunggu.\n\n## Momen kunci (tunjuk bersama anak lewat gambar)\n\n- **Halaman 3:** Sari ingin berbicara tetapi kata-katanya hilang.\n- **Halaman 5-6:** Sari menggambar krayon biru dan menunjukkannya kepada Bima.\n- **Halaman 7-8:** Bima berhenti bicara, melihat gambar, dan menunggu.\n- **Halaman 9:** Bima bertanya, “Krayon biru?” dan Sari mengangguk.\n\n## Sebelum membaca (3-5 menit)\n\n- Tunjukkan sampul dan tanyakan, “Menurutmu ini siapa? Dia sedang apa?” Terima jawaban apa pun, termasuk menunjuk atau bergerak.\n- Siapkan opsi nyaman bagi anak yang tidak ingin menjawab: anak boleh menunjuk gambar atau hanya mendengarkan.\n\n## Tahun 1 (EY1): Pengenalan\n\n**Durasi:** 10-15 menit, dibacakan guru dengan gambar dan gerakan.\n\n**Fokus:** mengenali bahwa ada banyak cara menyampaikan, melihat contoh berhenti dan menatap saat orang lain menunjukkan sesuatu.\n\n**Pertanyaan 1:** “Sari ingin apa? Mengapa ia tidak mengatakannya?”\n\n- Contoh jawaban anak: “Krayon biru. Dia malu.” Atau anak menunjuk gambar.\n- Pertanyaan lanjutan: “Bagaimana Sari memberi tahu Bima?”\n\n**Pertanyaan 2:** “Apa yang Bima lakukan ketika Sari menunjukkan gambarnya?”\n\n- Contoh jawaban anak: “Berhenti. Lihat.”\n- Pertanyaan lanjutan: “Coba tunjukkan wajah Bima saat melihat dengan wajahmu.”\n\n**Pertanyaan 3:** “Bima bertanya apa? Sari menjawab bagaimana?”\n\n- Contoh jawaban anak: “Krayon biru? Sari mengangguk.”\n- Pertanyaan lanjutan: “Mengangguk itu artinya apa?”\n\n**Tugas:**\n\n- Menyampaikan keinginan lewat kartu gambar (air, krayon, mainan) tanpa kata-kata.\n- Permainan “berhenti, lihat, dengar”: guru memberi isyarat, anak berhenti bergerak, menatap, dan meletakkan tangan di telinga sebentar.\n\n**Bilingual:** guru membacakan, anak menirukan kata kunci dengan gerakan (*draw*: menggambar di udara, *look*: tangan di dekat mata, *listen*: tangan di telinga, *blue*: menunjuk benda biru).\n\n## Tahun 2 (EY2): Pendalaman\n\n**Durasi:** 15-20 menit, dengan ruang bagi anak untuk menjawab dan bermain peran.\n\n**Fokus:** mengenali berbagai cara menyampaikan, mengerti bahwa mendengarkan berarti berhenti, menatap, dan bertanya.\n\n**Pertanyaan 1:** “Selain berbicara, apa lagi cara menyampaikan sesuatu?”\n\n- Contoh jawaban anak: “Menggambar, menunjuk, menulis.”\n- Pertanyaan lanjutan: “Cara mana yang paling nyaman bagimu?”\n\n**Pertanyaan 2:** “Apa yang Bima lakukan sehingga ia mengerti Sari?”\n\n- Contoh jawaban anak: “Berhenti, lihat, tanya.”\n- Pertanyaan lanjutan: “Kapan kamu perlu berhenti bicara supaya mengerti temanmu?”\n\n**Pertanyaan 3:** “Apa yang kamu lakukan kalau sulit mengatakannya dengan kata-kata?”\n\n- Contoh jawaban anak: “Aku menunjuk atau menggambar.”\n- Pertanyaan lanjutan: “Bagaimana rasanya ketika temanmu mengerti?”\n\n**Tugas:**\n\n- “Kartu pesan”: anak menggambar pesan untuk teman, lalu teman bertanya “maksudmu ...?” dan anak mengangguk atau menggeleng.\n- “Aku dengar”: satu anak berbicara sebentar (sekitar 20 detik), lalu teman menyebutkan satu hal yang ia dengar.\n\n**Bilingual:** anak mengulang frasa pendek sendiri (*I draw it. I listen.*) dan mencocokkan kata Inggris dengan gambarnya.\n\n## Yang diamati (ringkasan; versi lengkap ada di Kartu Nilai Communicators)\n\n- **Terlihat seperti:** menunjuk, menggambar, atau bergerak untuk menjelaskan maksudnya, menatap orang yang berbicara, menunggu giliran, mengangguk saat mengerti.\n- **Terdengar seperti:** “Aku mau ini.”, “Giliranmu.”, “Aku dengar.”\n- **Bukan Communicators:** merengek atau berteriak tanpa menjelaskan maksudnya, memotong orang yang berbicara, berpura-pura mendengar, menutup telinga sambil terus berbicara.\n- **Catatan usia:** di EY1, menyampaikan lewat gambar atau gerak dan menatap sebentar sudah cukup. Di EY2, mulai amati apakah anak berhenti, menatap, dan bertanya saat temannya menunjukkan sesuatu.\n\n## Jangan lakukan\n\n- Jangan memaksa anak berbicara. Terima gambar, gerak, atau tulisan.\n- Jangan menyebut Sari “pemalu” sebagai kekurangan.\n- Jangan menyuruh anak diam dengan nada marah. Ajak mereka berhenti, melihat, dan mendengar.\n- Jangan menilai Communicators dari kefasihan berbicara.\n- Jangan menertawakan gambar atau cara anak menyampaikan sesuatu.\n- Jangan menyuruh anak berbicara di depan kelas.\n- Perhatikan anak yang sulit berbicara atau memiliki kebutuhan bahasa. Terima cara apa pun yang membuat pesannya sampai.\n- Jangan merangkum pelajaran untuk anak (“jadi kita harus mendengarkan”).\n\n## Kosakata kunci (Indonesia / Inggris)\n\nmenggambar / draw, melihat / look, mendengar / listen, biru / blue. Tambahan untuk EY2: pesan / message, menunggu / wait.\n\n## Untuk sesi kalibrasi guru\n\nBahas bersama:\n\n- Seorang anak berbicara terus sambil menggambar dan tidak melihat temannya. Apakah itu Communicators? Gunakan tiga pertanyaan penguji di Kartu Nilai.\n- Seorang anak pendiam menunjuk apa yang ia mau. Apakah itu Communicators?\n- Seorang anak berpura-pura mendengar tetapi tidak melihat orang yang berbicara. Apa yang kita amati?\n- Bagian kartu mana yang sulit dipakai untuk anak usia ini?"
+  },
+  {
+   "slug": "makanan",
+   "title": "Makanan Baru",
+   "en": "A New Food",
+   "attr": "Open-minded",
+   "fase": 1,
+   "pos": "50% 50%",
+   "dense": 0,
+   "lang0": "bi",
+   "status": "Terbit",
+   "pages": [
+    {
+     "id": [
+      "Nenek Ratri membawa sepiring kue.",
+      "Kuenya berwarna ungu."
+     ],
+     "en": [],
+     "ill": "Warung Nenek Ratri. Bima, Doni, dan Sari duduk di meja kayu. Nenek Ratri meletakkan sepiring kue ungu yang bundar. Ada uap tipis."
+    },
+    {
+     "id": [
+      "Bima melihat kuenya.",
+      "“Belum pernah lihat,” kata Bima.",
+      "Kuenya lain dari biasanya. *Different.*"
+     ],
+     "en": [],
+     "ill": "Close-up wajah Bima. Matanya lebar, tangannya menutup mulut."
+    },
+    {
+     "id": [
+      "Doni menjulurkan lidah.",
+      "“Hiii, aneh!”",
+      "Bima menggeleng. Ia tidak mau."
+     ],
+     "en": [],
+     "ill": "Doni menjulurkan lidah dengan wajah main-main, bukan jahat. Bima sedikit mundur."
+    },
+    {
+     "id": [
+      "Sari tidak berkata apa-apa.",
+      "Sari melihat kuenya.",
+      "Sari mencium kuenya. Hmmm."
+     ],
+     "en": [],
+     "ill": "Sari mendekatkan wajah ke kue dengan tenang, hidungnya hampir menyentuh piring."
+    },
+    {
+     "id": [
+      "Sari mengambil sedikit. Sedikit sekali.",
+      "Ia mencoba. *Try.*",
+      "“Manis,” kata Sari. *Taste.*"
+     ],
+     "en": [],
+     "ill": "Sari mengambil sepotong kecil sekali dan mengunyah. Wajahnya heran."
+    },
+    {
+     "id": [
+      "Bima melihat Sari.",
+      "Bima melihat kuenya.",
+      "Bima mencium kuenya. Hmmm."
+     ],
+     "en": [],
+     "ill": "Bima melihat Sari, lalu melihat kue. Dua gelembung pikiran: wajah Sari dan kue ungu."
+    },
+    {
+     "id": [
+      "Bima mengambil sedikit. Sedikit sekali.",
+      "Ia mengunyah pelan-pelan."
+     ],
+     "en": [],
+     "ill": "Bima mengambil sepotong kecil, mengunyah pelan-pelan dengan mata setengah terpejam."
+    },
+    {
+     "id": [
+      "Bima diam.",
+      "“Aku belum suka,” kata Bima. “Tidak apa-apa.”",
+      "Nenek Ratri tersenyum. “Boleh.”"
+     ],
+     "en": [],
+     "ill": "Bima menelan, wajahnya tenang. Nenek Ratri tersenyum hangat."
+    },
+    {
+     "id": [
+      "Doni melihat Bima.",
+      "“Maaf,” kata Doni. “Ini bukan aneh. Ini baru.” *New.*"
+     ],
+     "en": [],
+     "ill": "Doni melihat Bima, wajahnya berubah lembut. Tangannya menunjuk kue."
+    },
+    {
+     "id": [
+      "Mereka duduk bersama.",
+      "Kuenya masih di piring. Ungu dan bundar."
+     ],
+     "en": [],
+     "ill": "Mereka bertiga duduk berdekatan. Piring kue ungu di tengah, masih ada sebagian."
+    },
+    {
+     "id": [
+      "Apa yang pernah kamu coba, padahal awalnya belum yakin?"
+     ],
+     "en": [
+      "What have you tried, even though you weren’t sure at first?"
+     ],
+     "q": 1,
+     "ill": "Satu gambar besar kue ungu di piring dengan ruang kosong di sekitarnya untuk pertanyaan."
+    }
+   ],
+   "kg": "# Kartu Guru: Makanan Baru\n\n*Fase 1 (EY1-EY2) · Atribut utama: Open-minded · Prototipe untuk diuji*\n\n## Sekilas buku\n\nNenek Ratri menyajikan kue ungu yang belum pernah dilihat Bima. Doni berkata “Hiii, aneh!”, sedangkan Sari melihat dan menciumnya dulu. Bima melihat Sari, lalu mencoba sedikit dan berkata, “Aku belum suka, tidak apa-apa.” Doni mengganti kata “aneh” dengan “baru”. Buku ini menunjukkan Open-minded di usia paling awal: melihat, mencium, dan mencoba sedikit, tanpa harus menyukainya.\n\n## Momen kunci (tunjuk bersama anak lewat gambar)\n\n- **Halaman 2-3:** Bima menutup mulut dan Doni berkata “aneh”. Perhatikan wajah Bima.\n- **Halaman 4-5:** Sari melihat, mencium, lalu mencoba sedikit sekali.\n- **Halaman 7-8:** Bima mencoba sedikit dan berkata, “Aku belum suka, tidak apa-apa.” Nenek Ratri menjawab, “Boleh.”\n- **Halaman 9:** Doni berkata, “Ini bukan aneh. Ini baru.”\n\n## Sebelum membaca (3-5 menit)\n\n- Tunjukkan sampul dan tanyakan, “Menurutmu ini apa? Warnanya apa?” Terima jawaban apa pun, termasuk menunjuk atau bergerak.\n- Ingat bahwa makanan sangat terkait dengan keluarga dan kebiasaan anak. Jangan menyebut makanan yang biasa dimakan anak mana pun “aneh”.\n\n## Tahun 1 (EY1): Pengenalan\n\n**Durasi:** 10-15 menit, dibacakan guru dengan gambar dan gerakan.\n\n**Fokus:** memperhatikan hal baru lewat mata, hidung, dan tangan, menyebut “baru”, meniru mencoba sedikit.\n\n**Pertanyaan 1:** “Kuenya warna apa? Bima kelihatan bagaimana?”\n\n- Contoh jawaban anak: “Ungu.” Atau anak menunjuk gambar atau menirukan wajah Bima.\n- Pertanyaan lanjutan: “Coba tunjukkan wajah Bima dengan wajahmu.”\n\n**Pertanyaan 2:** “Sari melakukan apa sebelum mencoba kuenya?”\n\n- Contoh jawaban anak: “Lihat. Cium.”\n- Pertanyaan lanjutan: “Setelah itu, Sari mengambil berapa banyak?”\n\n**Pertanyaan 3:** “Bima bilang apa setelah mencoba?”\n\n- Contoh jawaban anak: “Belum suka.”\n- Pertanyaan lanjutan: “Apakah boleh belum suka?”\n\n**Tugas:**\n\n- “Kotak benda baru”: sediakan benda aman untuk dilihat, diraba, dan dicium (daun, kain bertekstur, buah yang sudah dikenal sekolah). Anak boleh memilih ikut atau hanya melihat.\n- Bila ada aktivitas mencicipi, hanya dengan persetujuan sekolah dan keluarga, setelah memeriksa alergi, dan hanya sedikit.\n\n**Bilingual:** guru membacakan, anak menirukan kata kunci dengan gerakan (*new*: tangan terbuka, *try*: menunjuk, *taste*: menjulurkan lidah dengan tenang, *different*: menunjuk dua benda).\n\n## Tahun 2 (EY2): Pendalaman\n\n**Durasi:** 15-20 menit, dengan ruang bagi anak untuk menjawab dan bermain peran.\n\n**Fokus:** membedakan “aneh” dan “baru”, menyampaikan perasaan setelah mencoba, menghormati pilihan orang lain.\n\n**Pertanyaan 1:** “Mengapa Doni berkata ‘ini bukan aneh, ini baru’? Apa bedanya?”\n\n- Contoh jawaban anak: “Aneh itu bikin sedih. Baru itu cuma belum kenal.”\n- Pertanyaan lanjutan: “Bagaimana perasaan Bima saat Doni berkata ‘aneh’?”\n\n**Pertanyaan 2:** “Bima belum suka, tapi bilang ‘tidak apa-apa’. Apakah boleh tidak suka?”\n\n- Contoh jawaban anak: “Boleh, yang penting sudah coba.”\n- Pertanyaan lanjutan: “Apa yang bisa kamu katakan kalau belum suka?”\n\n**Pertanyaan 3:** “Apa yang pernah kamu coba, padahal awalnya belum yakin?”\n\n- Contoh jawaban anak: “Aku pernah coba naik seluncuran.”\n- Pertanyaan lanjutan: “Bagaimana rasanya setelah mencoba?”\n\n**Tugas:**\n\n- Bermain peran “aneh jadi baru”: guru menyebut hal yang biasa dianggap “aneh”, dan anak mencoba mengganti kata itu dengan “baru” atau “belum kenal”.\n- Menggambar sesuatu yang pernah dicoba anak, awalnya ragu.\n\n**Bilingual:** anak mengulang frasa pendek sendiri (*I try a little. It is new.*) dan mencocokkan kata dengan gambar.\n\n## Yang diamati (ringkasan; versi lengkap ada di Kartu Nilai Open-minded)\n\n- **Terlihat seperti:** melihat, mencium, atau menyentuh hal baru sebelum menolak, mencoba sedikit, bertanya tentang hal yang berbeda.\n- **Terdengar seperti:** “Ini apa?”, “Aku coba sedikit ya.”, “Aku belum suka, tidak apa-apa.”\n- **Bukan Open-minded:** mencoba karena dipaksa, langsung menolak tanpa melihat, menyebut hal baru “aneh” atau “jelek”, berpura-pura suka supaya diterima.\n- **Catatan usia:** di EY1, anak melihat, mencium, dan menyentuh sudah cukup. Di EY2, mulai amati apakah anak mengganti kata “aneh” dengan kata yang lebih ramah.\n\n## Jangan lakukan\n\n- Jangan memaksa anak mencoba atau memakan sesuatu.\n- Jangan menuntut anak menyukai apa yang dicoba. “Belum suka” adalah jawaban yang sah.\n- Jangan memberi atau mencicipkan makanan tanpa memeriksa alergi, kebijakan sekolah, dan kebutuhan makanan keluarga.\n- Jangan menyebut makanan atau kebiasaan keluarga anak mana pun “aneh”.\n- Jangan memuji berlebihan anak yang mencoba atau mengejek yang menolak.\n- Jangan menyebut Doni “nakal”. Katakan bahwa ia belajar mengganti kata.\n- Jangan merangkum pelajaran untuk anak (“jadi kita harus mencoba hal baru”).\n\n## Kosakata kunci (Indonesia / Inggris)\n\nbaru / new, mencoba / try, rasa / taste, beda / different. Tambahan untuk EY2: aneh dan baru (membedakan kata).\n\n## Untuk sesi kalibrasi guru\n\nBahas bersama:\n\n- Seorang anak menjulurkan lidah dan berkata “hiii” pada makanan yang ditawarkan. Apakah itu belum Open-minded? Bagaimana menanggapinya tanpa mempermalukan?\n- Seorang anak mencoba makanan karena guru menatapnya. Apakah itu Open-minded?\n- Seorang anak menolak mencoba, tetapi menonton temannya dengan penasaran. Apa yang kita amati?\n- Bagian kartu mana yang sulit dipakai untuk anak usia ini?"
+  },
   {
    "slug": "mimi",
    "title": "Pelukan untuk Mimi",
@@ -9,10 +229,10 @@
    "fase": 1,
    "pos": "50% 50%",
    "dense": 0,
+   "lang0": "bi",
    "status": "Terbit",
    "pages": [
     {
-     "main": "id",
      "id": [
       "Hari itu langit berwarna abu-abu.",
       "Mimi tidur di bawah bangku."
@@ -21,7 +241,6 @@
      "ill": "Siang hari di kampung. Langit abu-abu. Warung Nenek Ratri kecil, bangku kayu, Mimi si kucing belang tidur di bawah bangku."
     },
     {
-     "main": "id",
      "id": [
       "Tes, tes, tes.",
       "Hujan turun. *Rain.*"
@@ -30,7 +249,6 @@
      "ill": "Titik hujan pertama jatuh di tanah. Sari berdiri di pintu warung dan melihat keluar."
     },
     {
-     "main": "id",
      "id": [
       "DUAR!",
       "Mimi terbangun. Badannya gemetar."
@@ -39,7 +257,6 @@
      "ill": "Kilat besar. Kata DUAR! ditulis besar. Mimi terbangun, matanya lebar."
     },
     {
-     "main": "id",
      "id": [
       "Sari melihat Mimi.",
       "Mimi gemetar.",
@@ -49,7 +266,6 @@
      "ill": "Sari memandang Mimi dari jauh, alisnya khawatir."
     },
     {
-     "main": "id",
      "id": [
       "Bima datang. “Mimi, ayo main bola!”",
       "Mimi masuk lebih dalam ke bawah bangku."
@@ -58,7 +274,6 @@
      "ill": "Bima berlari masuk, basah kuyup, tangannya terulur membawa bola. Mimi mundur lebih dalam ke bawah bangku."
     },
     {
-     "main": "id",
      "id": [
       "Doni datang. “Hiii! Hantu!”",
       "Mimi gemetar lebih keras."
@@ -67,7 +282,6 @@
      "ill": "Doni membuat wajah seram dengan tangan seperti cakar, tersenyum lebar. Mimi menutup mata."
     },
     {
-     "main": "id",
      "id": [
       "Sari duduk.",
       "Dekat, dekat sekali.",
@@ -77,7 +291,6 @@
      "ill": "Sari duduk di lantai dekat sekali dengan Mimi, tidak menyentuhnya. Suasana tenang, warna hangat."
     },
     {
-     "main": "id",
      "id": [
       "DUAR!",
       "Sari tetap di sana."
@@ -86,7 +299,6 @@
      "ill": "Kilat lagi. DUAR! dalam huruf lebih kecil. Sari tetap di tempatnya, Mimi menoleh ragu."
     },
     {
-     "main": "id",
      "id": [
       "Pelan-pelan, Sari memeluk Mimi. *Hug.*",
       "“Aku di sini.” *I’m here.*"
@@ -95,7 +307,6 @@
      "ill": "Mimi mendekat pelan. Sari memeluknya dengan lembut. Wajah keduanya tenang."
     },
     {
-     "main": "id",
      "id": [
       "Mimi berhenti gemetar.",
       "Rrrr... rrrr...",
@@ -105,7 +316,6 @@
      "ill": "Mimi memejamkan mata setengah, badannya tidak lagi gemetar. Garis kecil menunjukkan dengkurannya."
     },
     {
-     "main": "id",
      "id": [
       "Bima duduk. Doni duduk.",
       "Mereka duduk bersama. *Together.*"
@@ -114,7 +324,6 @@
      "ill": "Bima dan Doni duduk tenang di dekat Sari dan Mimi. Tidak ada lagi bola dan cakar."
     },
     {
-     "main": "id",
      "id": [
       "Hujan reda.",
       "Mimi tidur di pangkuan Sari."
@@ -123,7 +332,6 @@
      "ill": "Hujan mulai reda. Nenek Ratri meletakkan teh. Mimi tidur di pangkuan Sari."
     },
     {
-     "main": "id",
      "id": [
       "Apa yang membuatmu merasa lebih baik saat takut?"
      ],
@@ -137,6 +345,262 @@
    "kg": "# Kartu Guru: Pelukan untuk Mimi\n\n*Fase 1 (EY1-EY2) · Atribut utama: Caring · Pendukung: Communicator · Prototipe untuk diuji*\n\n## Sekilas buku\n\nHujan dan petir membuat Mimi si kucing gemetar. Bima mengajak main bola dan Doni menakut-nakuti, dan keduanya berniat baik tetapi tidak cocok dengan kebutuhan Mimi. Sari tidak berkata banyak. Ia duduk dekat, tetap hadir, lalu memeluk. Buku ini menunjukkan Caring sebagai hadir dan peka pada apa yang dibutuhkan, bukan sekadar berbuat sesuatu.\n\n## Momen kunci (tunjuk bersama anak lewat gambar)\n\n- **Halaman 3:** DUAR! Mimi gemetar. Perhatikan wajah dan badan Mimi.\n- **Halaman 5-6:** Bima dan Doni datang dengan niat baik, tetapi Mimi justru makin takut. Bantuan perlu cocok dengan kebutuhan.\n- **Halaman 7:** Sari duduk dekat tanpa berkata apa-apa. Hadir sudah merupakan tindakan.\n- **Halaman 9:** Sari memeluk pelan dan berkata, “Aku di sini.”\n- **Halaman 11:** Semua duduk bersama dengan tenang.\n\n## Sebelum membaca (3-5 menit)\n\n- Tunjukkan sampul dan tanya, “Menurutmu ini siapa? Dia sedang apa?” Terima jawaban apa pun, termasuk menunjuk atau bergerak.\n- Siapkan opsi nyaman untuk anak yang takut suara petir: menutup telinga, duduk dekat guru, atau memeluk boneka.\n\n## Tahun 1 (EY1): Pengenalan\n\n**Durasi:** 10-15 menit, dibacakan guru dengan banyak gambar dan gerakan.\n\n**Fokus:** memperhatikan gambar, menamai perasaan sederhana (takut, tenang), meniru tindakan lembut.\n\n**Pertanyaan 1:** “Mimi kenapa?”\n\n- Contoh jawaban anak: “Takut.” Atau anak menunjuk gambar, atau menirukan gemetar.\n- Pertanyaan lanjutan: “Mimi kelihatan bagaimana? Coba tunjukkan dengan badanmu.”\n\n**Pertanyaan 2:** “Sari melakukan apa?”\n\n- Contoh jawaban anak: “Peluk.”\n- Pertanyaan lanjutan: “Setelah dipeluk, Mimi jadi bagaimana?”\n\n**Pertanyaan 3 (boleh dilewati):** “Kamu pernah takut?” Anak boleh tidak menjawab.\n\n**Tugas:**\n\n- Memeluk boneka kucing dengan lembut sambil berkata, “Aku di sini.”\n- Memilih kartu wajah (takut atau tenang) untuk Mimi sebelum dan sesudah dipeluk.\n\n**Bilingual:** guru membacakan, anak ikut menirukan kata kunci dengan gerakan (*rain*: jari seperti hujan, *hug*: memeluk diri sendiri, *together*: duduk berdekatan, *I’m here*: tangan di dada).\n\n## Tahun 2 (EY2): Pendalaman\n\n**Durasi:** 15-20 menit, dengan ruang bagi anak untuk menjawab dan bermain peran.\n\n**Fokus:** menghubungkan perasaan dengan tindakan, menyadari bahwa bantuan perlu cocok dengan kebutuhan, mulai menyebutkan sendiri apa yang menolong.\n\n**Pertanyaan 1:** “Kenapa Mimi tidak mau main bola dengan Bima?”\n\n- Contoh jawaban anak: “Dia takut.”\n- Pertanyaan lanjutan: “Apa yang Mimi butuhkan saat itu?”\n\n**Pertanyaan 2:** “Apa yang dilakukan Sari sehingga Mimi jadi tenang?”\n\n- Contoh jawaban anak: “Duduk dekat. Peluk.”\n- Pertanyaan lanjutan: “Sari tidak banyak bicara. Menurutmu kenapa?”\n\n**Pertanyaan 3:** “Kalau temanmu takut, apa yang bisa kamu lakukan?”\n\n- Contoh jawaban anak: “Peluk dia. Temani dia. Panggil Bu Guru.”\n- Pertanyaan lanjutan: “Bagaimana kamu tahu temanmu mau dipeluk?” Arahkan ke melihat wajahnya dan bertanya, “Boleh aku peluk?”\n\n**Tugas:**\n\n- Bermain peran berpasangan: satu anak jadi “teman yang takut”, satu lagi mencoba menolong dengan cara yang cocok.\n- Memilih kartu bantuan yang cocok (duduk dekat, bertanya, memeluk, atau memberi ruang) untuk gambar anak yang sedang takut.\n\n**Bilingual:** anak mengulang frasa pendek sendiri dan mencocokkan kata Inggris dengan gambarnya (*rain, hug, together, I’m here*).\n\n## Yang diamati (ringkasan; versi lengkap ada di Kartu Nilai Caring)\n\n- **Terlihat seperti:** mendekati teman yang sedih, memeluk, menemani, menawarkan mainan.\n- **Terdengar seperti:** “Kamu sedih?”, “Aku di sini.”, “Mau ini?”\n- **Bukan Caring:** memeluk karena disuruh lalu langsung pergi, menjawab “iya” supaya dipuji, memaksakan bantuan.\n- **Catatan usia:** di EY1, anak memperhatikan atau meniru sudah cukup. Di EY2, mulai amati apakah anak menyesuaikan bantuan dengan apa yang dibutuhkan temannya.\n\n## Jangan lakukan\n\n- Jangan memaksa anak memeluk teman atau boneka. Tawarkan sebagai pilihan.\n- Jangan menyebut Bima atau Doni “nakal”. Katakan bahwa mereka ingin menolong, tetapi caranya belum cocok.\n- Jangan membacakan suara petir terlalu menakutkan. Cukup tegas dan ritmis.\n- Jangan menuntut anak bercerita tentang ketakutannya sendiri.\n- Jangan merangkum pelajaran untuk anak (“jadi kita harus...”). Biarkan mereka menunjukkan dengan gambar, gerakan, atau kata-kata mereka.\n- Jangan mengoreksi pelafalan bahasa Inggris anak di depan teman.\n\n## Kosakata kunci (Indonesia / Inggris)\n\nhujan / rain, peluk / hug, bersama / together, aku di sini / I’m here. Tambahan untuk EY2: takut / scared, tenang / calm.\n\n## Untuk sesi kalibrasi guru\n\nBahas bersama:\n\n- Bima mengajak Mimi main bola. Apakah itu Caring? Bagaimana kamu menjelaskannya kepada anak dengan tiga pertanyaan penguji di Kartu Nilai?\n- Anak EY1 memeluk boneka karena disuruh guru, lalu langsung pergi. Apa yang kita amati, dan apa langkah selanjutnya?\n- Bagian kartu mana yang sulit dipakai untuk anak usia ini?"
   },
   {
+   "slug": "seluncuran",
+   "title": "Seluncuran yang Tinggi",
+   "en": "The Tall Slide",
+   "attr": "Risk-takers",
+   "fase": 1,
+   "pos": "50% 50%",
+   "dense": 0,
+   "lang0": "bi",
+   "status": "Terbit",
+   "pages": [
+    {
+     "id": [
+      "Ada seluncuran baru di halaman sekolah.",
+      "Tinggi. Tinggi sekali."
+     ],
+     "en": [],
+     "ill": "Halaman sekolah. Seluncuran merah yang tinggi. Doni berdiri di bawahnya dan menatap ke atas. Bu Guru berdiri di dekat tangga, memperhatikan."
+    },
+    {
+     "id": [
+      "Doni melihat ke atas.",
+      "Ia ingin mencoba.",
+      "Tetapi perutnya terasa geli."
+     ],
+     "en": [],
+     "ill": "Close-up wajah Doni. Matanya lebar, tangannya memegang bajunya."
+    },
+    {
+     "id": [
+      "Bima sudah di atas.",
+      "“Cepat, cepat, Doni!” teriak Bima.",
+      "Doni menggeleng."
+     ],
+     "en": [],
+     "ill": "Bima sudah di tangga atas, melambai dengan semangat. Doni menggeleng di bawah."
+    },
+    {
+     "id": [
+      "Sari duduk di dekat tangga.",
+      "Sari tidak berkata “cepat”.",
+      "Sari hanya menemani."
+     ],
+     "en": [],
+     "ill": "Sari duduk dekat tangga bawah, tenang, tidak menarik atau mendorong."
+    },
+    {
+     "id": [
+      "Doni naik satu anak tangga.",
+      "Satu. *Step.*",
+      "Lalu ia turun lagi."
+     ],
+     "en": [],
+     "ill": "Doni menaikkan satu kaki ke anak tangga pertama dengan hati-hati."
+    },
+    {
+     "id": [
+      "“Pelan-pelan saja,” kata Doni. *Slowly.*",
+      "Bima berhenti berteriak.",
+      "Bima menunggu."
+     ],
+     "en": [],
+     "ill": "Doni di bawah dengan senyum kecil. Bima di atas berhenti berteriak, menunggu."
+    },
+    {
+     "id": [
+      "Besok, Doni naik dua anak tangga.",
+      "Dua.",
+      "Sari duduk di dekatnya."
+     ],
+     "en": [],
+     "ill": "Keesokan harinya. Doni di anak tangga kedua. Sari duduk di dekatnya."
+    },
+    {
+     "id": [
+      "Hari ketiga, Doni naik sampai atas.",
+      "Kakinya gemetar.",
+      "“Aku takut,” kata Doni. “Tapi aku coba.” *Try.*"
+     ],
+     "en": [],
+     "ill": "Doni di puncak, memegang pegangan, kakinya gemetar. Bu Guru berdiri dekat tangga."
+    },
+    {
+     "id": [
+      "Wuuuss!",
+      "Doni meluncur."
+     ],
+     "en": [],
+     "ill": "Doni meluncur. Bajunya berkibar, matanya terpejam lalu terbuka."
+    },
+    {
+     "id": [
+      "Doni sampai di bawah.",
+      "Ia masih sedikit takut.",
+      "Tetapi ia tersenyum.",
+      "“Mau lagi?” tanya Sari.",
+      "“Mau,” kata Doni. “Pelan-pelan.” *Again.*"
+     ],
+     "en": [],
+     "ill": "Doni di bawah, terengah-engah, tersenyum. Sari dan Bima tersenyum."
+    },
+    {
+     "id": [
+      "Apa yang pernah kamu coba pelan-pelan?"
+     ],
+     "en": [
+      "What have you tried slowly?"
+     ],
+     "q": 1,
+     "ill": "Satu gambar besar seluncuran merah dengan ruang kosong di sekitarnya untuk pertanyaan."
+    }
+   ],
+   "kg": "# Kartu Guru: Seluncuran yang Tinggi\n\n*Fase 1 (EY1-EY2) · Atribut utama: Risk-takers · Prototipe untuk diuji*\n\n## Sekilas buku\n\nDoni takut pada seluncuran baru yang tinggi. Bima mendesak “Cepat, cepat!”, sedangkan Sari hanya menemani tanpa mendorong. Doni naik satu anak tangga, lalu dua, lalu sampai atas dengan kaki gemetar dan berkata, “Aku takut. Tapi aku coba.” Buku ini menunjukkan Risk-takers di usia paling awal: mencoba selangkah demi selangkah, dengan ditemani, dan boleh takut.\n\n## Momen kunci (tunjuk bersama anak lewat gambar)\n\n- **Halaman 2-3:** Doni ingin mencoba tetapi takut. Bima berteriak “Cepat!”\n- **Halaman 4:** Sari menemani tanpa mendorong.\n- **Halaman 5-7:** Doni naik satu anak tangga, lalu dua. Bima berhenti berteriak dan menunggu.\n- **Halaman 8:** Doni di atas dengan kaki gemetar dan berkata, “Aku takut. Tapi aku coba.”\n- **Halaman 10:** Doni masih sedikit takut, tetapi tersenyum dan berkata “Mau lagi, pelan-pelan.”\n\n## Sebelum membaca (3-5 menit)\n\n- Tunjukkan sampul dan tanyakan, “Menurutmu ini apa? Doni kelihatan bagaimana?” Terima jawaban apa pun, termasuk menunjuk atau bergerak.\n- Siapkan opsi nyaman bagi anak yang takut ketinggian: duduk dekat guru atau hanya melihat gambar.\n\n## Tahun 1 (EY1): Pengenalan\n\n**Durasi:** 10-15 menit, dibacakan guru dengan gambar, hitungan, dan gerakan.\n\n**Fokus:** menyebut perasaan takut, menghitung langkah, mengenali bahwa mencoba boleh pelan-pelan.\n\n**Pertanyaan 1:** “Doni melihat seluncuran. Dia merasa bagaimana?”\n\n- Contoh jawaban anak: “Takut.” Atau anak menunjuk gambar atau menirukan wajah Doni.\n- Pertanyaan lanjutan: “Coba tunjukkan wajah Doni dengan wajahmu.”\n\n**Pertanyaan 2:** “Hari pertama Doni naik berapa anak tangga? Hari kedua?”\n\n- Contoh jawaban anak: “Satu. Dua.”\n- Pertanyaan lanjutan: “Mari kita hitung bersama: satu, dua.”\n\n**Pertanyaan 3:** “Siapa yang menemani Doni?”\n\n- Contoh jawaban anak: “Sari.”\n- Pertanyaan lanjutan: “Apa yang Sari lakukan? Apakah Sari berteriak?”\n\n**Tugas:**\n\n- Naik tangga kecil atau balok rendah satu per satu sambil menghitung, di tempat yang aman dan dengan pengawasan guru. Anak boleh berhenti kapan saja.\n- Memilih kartu wajah (takut atau tenang) untuk Doni di awal dan di akhir cerita.\n\n**Bilingual:** guru membacakan, anak menirukan kata kunci dengan gerakan (*step*: jari melangkah, *slowly*: gerakan lambat, *try*: menunjuk ke depan, *again*: tangan memutar).\n\n## Tahun 2 (EY2): Pendalaman\n\n**Durasi:** 15-20 menit, dengan ruang bagi anak untuk menjawab dan bermain peran.\n\n**Fokus:** memahami bahwa takut boleh, bahwa mencoba bisa pelan-pelan, dan bahwa mendesak tidak membantu.\n\n**Pertanyaan 1:** “Bima berkata ‘cepat, cepat’. Apa yang terjadi? Mengapa Doni naik pelan-pelan?”\n\n- Contoh jawaban anak: “Doni takut. Kalau cepat dia tidak mau.”\n- Pertanyaan lanjutan: “Apa yang Bima lakukan setelah itu?”\n\n**Pertanyaan 2:** “Doni takut, tetapi mencoba. Apakah boleh takut?”\n\n- Contoh jawaban anak: “Boleh.”\n- Pertanyaan lanjutan: “Apa yang bisa kamu katakan kalau kamu takut tetapi ingin mencoba?”\n\n**Pertanyaan 3:** “Apa yang pernah kamu coba pelan-pelan?”\n\n- Contoh jawaban anak: “Aku pernah naik tangga di rumah.”\n- Pertanyaan lanjutan: “Bagaimana rasanya setelah kamu mencoba?”\n\n**Tugas:**\n\n- “Satu langkah lebih”: anak memilih hal kecil dan aman yang agak baru (misalnya menuang air sendiri atau menaiki tangga rendah), mencobanya dengan pendamping, lalu menggambarnya.\n- Bermain peran: satu anak ragu mencoba, satu anak menemani tanpa mendorong.\n\n**Bilingual:** anak mengulang frasa pendek sendiri (*I try slowly.*) dan mencocokkan kata Inggris dengan gambarnya.\n\n## Yang diamati (ringkasan; versi lengkap ada di Kartu Nilai Risk-takers)\n\n- **Terlihat seperti:** mendekati hal yang sulit selangkah demi selangkah, berhenti saat butuh lalu mencoba lagi, meminta ditemani.\n- **Terdengar seperti:** “Aku coba pelan-pelan.”, “Temani aku ya.”, “Aku mau coba lagi.”\n- **Bukan Risk-takers:** mencoba karena ditantang atau diejek, melakukan hal berbahaya supaya terlihat berani, berpura-pura tidak takut.\n- **Catatan usia:** di EY1, anak mengenali perasaan takut dan mencoba satu langkah sudah cukup. Di EY2, mulai amati apakah anak memilih mencoba sendiri dan mau berhenti saat perlu.\n\n## Jangan lakukan\n\n- Jangan memaksa anak naik atau mencoba. Anak boleh berhenti.\n- Jangan membiarkan anak mencoba sesuatu yang tinggi atau berisiko tanpa pengawasan orang dewasa.\n- Jangan mengejek anak yang turun atau tidak jadi.\n- Jangan membuat lomba siapa yang paling berani atau paling cepat.\n- Jangan membandingkan anak yang berani dengan yang takut.\n- Jangan menyuruh anak berkata “aku berani” bila ia tidak merasa begitu.\n- Jangan menyebut Bima “nakal”. Katakan bahwa ia bersemangat dan belajar menunggu.\n- Jangan merangkum pelajaran untuk anak (“jadi kita harus berani”).\n\n## Kosakata kunci (Indonesia / Inggris)\n\nlangkah / step, pelan-pelan / slowly, mencoba / try, lagi / again. Tambahan untuk EY2: takut / afraid.\n\n## Untuk sesi kalibrasi guru\n\nBahas bersama:\n\n- Seorang anak naik seluncuran karena ditantang temannya. Apakah itu Risk-takers? Gunakan tiga pertanyaan penguji di Kartu Nilai.\n- Seorang anak berkata “aku tidak takut” tetapi tubuhnya kaku. Apa yang kita amati?\n- Seorang anak mau naik satu anak tangga lalu turun. Apakah itu cukup untuk usia ini?\n- Bagian kartu mana yang sulit dipakai untuk anak usia ini?"
+  },
+  {
+   "slug": "batu",
+   "title": "Batu Giliran",
+   "en": "The Turn Stone",
+   "attr": "Communicators",
+   "fase": 2,
+   "pos": "50% 50%",
+   "dense": 0,
+   "lang0": "en",
+   "status": "Terbit",
+   "pages": [
+    {
+     "id": [
+      "Hari hujan. Kelas duduk melingkar.",
+      "Bu Guru membawa sebuah batu licin."
+     ],
+     "en": [
+      "It was a rainy day. The class sat in a circle.",
+      "Bu Guru brought a smooth stone."
+     ],
+     "ill": "Hari hujan. Anak-anak duduk melingkar di lantai kelas. Bu Guru membawa sebuah batu licin yang bulat."
+    },
+    {
+     "id": [
+      "“Aku mau main bola di dalam!” “Aku mau bercanda!” “Aku mau bertanya!”",
+      "Semua berbicara. Tidak ada yang mendengar."
+     ],
+     "en": [
+      "“I want to play ball inside!” “I want to tell jokes!” “I want to ask a question!”",
+      "Everyone talked. Nobody listened."
+     ],
+     "ill": "Bima, Doni, dan Lintang berbicara bersamaan. Gelembung kata mereka saling bertabrakan. Sari duduk menunggu dengan tangan di pangkuan."
+    },
+    {
+     "id": [
+      "Bu Guru mengangkat batu.",
+      "“Yang memegang batu berbicara. Yang lain mendengarkan.” *Turn.*"
+     ],
+     "en": [
+      "Bu Guru lifted the stone.",
+      "“Whoever holds the stone speaks. Everyone else listens.”"
+     ],
+     "ill": "Bu Guru mengangkat batu dengan tenang. Anak-anak berhenti dan menatap."
+    },
+    {
+     "id": [
+      "Lintang memegang batu. Ia bercerita tentang permainan tebak gambar.",
+      "Bima ingin menyela. Bima menahan mulutnya."
+     ],
+     "en": [
+      "Lintang held the stone. He talked about a guessing-picture game.",
+      "Bima wanted to jump in. Bima held his mouth shut."
+     ],
+     "ill": "Lintang memegang batu dan berbicara. Bima menahan mulutnya dengan kedua tangan."
+    },
+    {
+     "id": [
+      "Lintang selesai.",
+      "Bima mengulang: “Kamu bilang kita bisa main tebak gambar, ya?” *Repeat.*",
+      "Lintang mengangguk."
+     ],
+     "en": [
+      "Lintang finished.",
+      "Bima repeated: “You said we can play a guessing-picture game, right?”",
+      "Lintang nodded."
+     ],
+     "ill": "Lintang selesai. Bima mengangkat tangan dan berbicara dengan tenang. Lintang mengangguk."
+    },
+    {
+     "id": [
+      "Giliran Sari. Batu itu ada di tangannya.",
+      "Sari menarik napas. Ia berbicara dengan jelas.",
+      "“Aku punya ide. Kita buat rumah-rumahan dari kardus di pojok kelas.” *Speak.*"
+     ],
+     "en": [
+      "It was Sari’s turn. The stone was in her hands.",
+      "Sari took a breath. She spoke clearly.",
+      "“I have an idea. Let’s build a little house from cardboard in the corner of the class.”"
+     ],
+     "ill": "Batu berpindah ke Sari. Sari menarik napas dan menatap teman-temannya."
+    },
+    {
+     "id": [
+      "Semua mendengarkan. *Listen.*",
+      "Tidak ada yang menyela."
+     ],
+     "en": [
+      "Everyone listened.",
+      "Nobody interrupted."
+     ],
+     "ill": "Semua anak menatap Sari. Doni menaruh tangan di telinganya. Tidak ada yang menyela."
+    },
+    {
+     "id": [
+      "Bima memegang batu lagi.",
+      "“Kamu bilang kita bisa membuat rumah dari kardus, ya?”",
+      "“Ya,” kata Sari. “Rumah kardus.”"
+     ],
+     "en": [
+      "Bima held the stone again.",
+      "“You said we can build a house from cardboard, right?”",
+      "“Yes,” said Sari. “A cardboard house.”"
+     ],
+     "ill": "Bima memegang batu lagi dan menatap Sari. Sari mengangguk."
+    },
+    {
+     "id": [
+      "Doni lupa dan berbicara sebelum gilirannya.",
+      "Bu Guru hanya menunjuk batu.",
+      "Doni tertawa. “Maaf, aku tunggu.”"
+     ],
+     "en": [
+      "Doni forgot and spoke before his turn.",
+      "Bu Guru only pointed to the stone.",
+      "Doni laughed. “Sorry, I’ll wait.”"
+     ],
+     "ill": "Doni membuka mulut sebelum gilirannya. Bu Guru menunjuk batu dengan lembut. Doni tertawa dan menutup mulutnya."
+    },
+    {
+     "id": [
+      "Kelas menjadi tenang. Ide Sari didengar dan diulang.",
+      "Semua ingin membuat rumah kardus."
+     ],
+     "en": [
+      "The class became calm. Sari’s idea was heard and repeated.",
+      "Everyone wanted to make a cardboard house."
+     ],
+     "ill": "Anak-anak melingkar dengan wajah gembira, membayangkan rumah kardus."
+    },
+    {
+     "id": [
+      "Apa yang terjadi saat semua orang mendengarkan satu orang?"
+     ],
+     "en": [
+      "What happens when everyone listens to one person?"
+     ],
+     "q": 1,
+     "ill": "Satu gambar besar batu licin di tengah lingkaran dengan ruang kosong untuk pertanyaan."
+    }
+   ],
+   "kg": "# Kartu Guru: Batu Giliran\n\n*Fase 2 (Grade 1-2) · Atribut utama: Communicators · Prototipe untuk diuji*\n\n## Sekilas buku\n\nSaat hujan, semua anak berbicara sekaligus dan tidak ada yang mendengar. Bu Guru memperkenalkan sebuah batu licin: yang memegang batu berbicara, yang lain mendengarkan. Bima, yang tadi paling keras, menahan mulutnya dan mengulang apa yang ia dengar dari Lintang dan Sari. Sari menunggu gilirannya lalu menyampaikan idenya dengan jelas. Doni masih lupa dan berbicara lebih dulu, dan Bu Guru hanya menunjuk batu. Buku ini menunjukkan Communicators sebagai menunggu, berbicara dengan jelas, dan menunjukkan bahwa kita mendengar dengan mengulang.\n\n## Momen kunci (tunjuk bersama anak lewat gambar)\n\n- **Halaman 2:** Semua berbicara sekaligus dan tidak ada yang mendengar.\n- **Halaman 4-5:** Bima menahan mulutnya, lalu mengulang apa yang ia dengar dari Lintang.\n- **Halaman 6:** Sari menunggu gilirannya, lalu berbicara dengan jelas.\n- **Halaman 8:** Bima mengulang ide Sari dan Sari berkata, “Ya.”\n- **Halaman 9:** Doni lupa menunggu, dan Bu Guru hanya menunjuk batu.\n\n## Sebelum membaca (3-5 menit)\n\n- Tanyakan: “Pernahkah banyak orang berbicara bersamaan? Bagaimana rasanya?” Anak boleh tidak menjawab.\n- Sepakati aturan kelas: yang memegang benda giliran berbicara, dan anak boleh berkata “aku lewat”.\n\n## Tahun 1 (Grade 1): Pengenalan\n\n**Durasi:** sekitar 15 menit, dibacakan guru dengan gambar dan jeda.\n\n**Fokus:** melihat apa yang terjadi saat semua berbicara bersamaan, memahami aturan benda giliran, mengenali mengulang.\n\n**Pertanyaan 1:** “Apa yang terjadi saat semua anak berbicara bersamaan?”\n\n- Contoh jawaban anak: “Tidak ada yang mendengar.”\n- Pertanyaan lanjutan: “Bagaimana rasanya kalau tidak ada yang mendengarmu?”\n\n**Pertanyaan 2:** “Apa aturan batu giliran? Siapa yang berbicara, dan siapa yang mendengarkan?”\n\n- Contoh jawaban anak: “Yang pegang batu bicara. Yang lain dengar.”\n- Pertanyaan lanjutan: “Apa yang Bima lakukan saat ia ingin menyela?”\n\n**Pertanyaan 3:** “Apa yang Bima lakukan setelah Lintang selesai?”\n\n- Contoh jawaban anak: “Dia mengulang.”\n- Pertanyaan lanjutan: “Mengapa Bima mengulang?”\n\n**Tugas:**\n\n- Kelas memakai benda giliran yang lunak (bola kain) dalam diskusi singkat sekitar tiga menit.\n- Menyusun kartu “Aku bicara” dan “Aku dengar” dan menggambar gerakan masing-masing.\n\n**Bilingual:** guru membacakan kalimat Indonesia lalu Inggris. Anak mencocokkan kata kunci dengan gerakan (*turn, listen, repeat, speak*).\n\n## Tahun 2 (Grade 2): Pendalaman\n\n**Durasi:** 15-20 menit, dengan waktu bertukar pendapat berpasangan.\n\n**Fokus:** memahami mengapa mengulang membantu, membedakan menunggu dari mengalah, mengenali bahwa belajar menunggu butuh waktu.\n\n**Pertanyaan 1:** “Mengapa mengulang apa yang kamu dengar itu membantu?”\n\n- Contoh jawaban anak: “Supaya temannya tahu kita mendengar, dan supaya tidak salah.”\n- Pertanyaan lanjutan: “Kapan kamu perlu mengulang apa yang temanmu katakan?”\n\n**Pertanyaan 2:** “Sari menunggu gilirannya lalu berbicara sampai selesai. Apakah menunggu sama dengan mengalah?”\n\n- Contoh jawaban anak: “Beda. Sari tetap bicara saat gilirannya.”\n- Pertanyaan lanjutan: “Apa bedanya menunggu giliran dengan tidak pernah bicara?”\n\n**Pertanyaan 3:** “Doni lupa dan berbicara lebih dulu. Apa yang Bu Guru dan Doni lakukan? Kapan kamu lupa menunggu?”\n\n- Contoh jawaban anak: “Bu Guru menunjuk batu. Doni bilang maaf dan menunggu.”\n- Pertanyaan lanjutan: “Apa yang membantumu ingat menunggu?”\n\n**Tugas:**\n\n- Diskusi lima menit dengan benda giliran dan mengulang sebelum menanggapi.\n- Menulis kalimat: “Aku dengar kamu bilang ... Menurutku ...”\n- “Kartu aku dengar” berpasangan: anak mengulang satu hal yang didengar dari temannya.\n\n**Bilingual:** anak membaca pasangan kalimat sendiri dan mencocokkan kata *turn, listen, repeat, speak* dengan gambarnya.\n\n## Yang diamati (ringkasan; versi lengkap ada di Kartu Nilai Communicators)\n\n- **Terlihat seperti:** mengangkat tangan, berbicara dengan jelas, menunggu teman selesai, mengulang apa yang didengar dengan kata sendiri.\n- **Terdengar seperti:** “Boleh aku bicara?”, “Kamu bilang ... ya?”, “Silakan selesai dulu.”\n- **Bukan Communicators:** berebut bicara atau memotong, berbicara paling keras supaya didengar, mengalah terus tanpa pernah menyampaikan idenya, menyebut “iya” tanpa benar-benar mendengar.\n- **Catatan usia:** di Grade 1, cukup jika anak menunggu dan mau mengulang satu hal. Di Grade 2, mulai amati apakah anak menyampaikan idenya dengan jelas dan mengulang sebelum menanggapi.\n\n## Jangan lakukan\n\n- Jangan menjadikan benda giliran sebagai hukuman atau hadiah.\n- Jangan memaksa anak berbicara saat memegang benda giliran. Izinkan “aku lewat”.\n- Jangan membiarkan anak yang paling lantang selalu mendapat giliran pertama.\n- Jangan menyebut Bima “berisik”. Katakan bahwa ia sedang belajar menunggu.\n- Jangan memuji Sari sebagai anak “penurut”. Fokus pada isi idenya dan caranya menyampaikan.\n- Jangan memotong anak yang sedang memegang benda giliran.\n- Gunakan benda giliran yang lunak atau ringan, bukan batu keras.\n- Jangan merangkum pelajaran untuk anak (“jadi kita harus mendengarkan”).\n\n## Kosakata kunci (Indonesia / Inggris)\n\ngiliran / turn, mendengarkan / listen, mengulang / repeat, berbicara / speak. Tambahan untuk Tahun 2: menunggu / wait, jelas / clear.\n\n## Untuk sesi kalibrasi guru\n\nBahas bersama:\n\n- Seorang anak selalu menunggu dan tidak pernah memegang benda giliran. Apakah itu Communicators? Gunakan tiga pertanyaan penguji di Kartu Nilai.\n- Seorang anak mengulang apa yang temannya katakan, tetapi dengan nada mengejek. Apa yang kita amati?\n- Seorang anak berbicara dengan jelas tetapi tidak pernah menunggu temannya selesai. Apakah itu Communicators?\n- Bagian kartu mana yang sulit dipakai untuk anak usia ini?"
+  },
+  {
    "slug": "bima",
    "title": "Bekal Bima",
    "en": "Bima’s Lunch",
@@ -144,10 +608,10 @@
    "fase": 2,
    "pos": "68% 50%",
    "dense": 0,
+   "lang0": "en",
    "status": "Terbit",
    "pages": [
     {
-     "main": "id",
      "id": [
       "Waktu istirahat tiba. Anak-anak duduk di bawah pohon dan membuka kotak bekal."
      ],
@@ -156,7 +620,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Bekal Doni kecil. Hanya nasi sedikit dan satu telur dadar kecil.",
       "“Tidak apa-apa,” pikir Doni. “Ini cukup.”"
@@ -167,7 +630,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Bima berlari ke arah mereka. **Brukk!**",
       "Kakinya tersandung akar. Kotak bekalnya jatuh, dan nasinya tumpah ke tanah."
@@ -178,7 +640,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Bima memegang kotak kosongnya. Matanya basah.",
       "Perutnya berbunyi. **Kriuuuk.**"
@@ -189,7 +650,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Lintang melihat Bima.",
       "“Aku kasih sedikit,” kata Lintang. “Tapi besok kamu ganti, ya!”",
@@ -202,7 +662,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Doni melihat bekalnya. Kecil sekali. Ia juga lapar.",
       "Doni melihat Bima. Lalu ia melihat bekalnya lagi."
@@ -213,7 +672,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Doni berpikir lama. Lalu ia membagi telurnya jadi dua.",
       "“Ini buat kamu,” katanya. “Tidak perlu diganti.”"
@@ -224,7 +682,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Bima tersenyum. “Terima kasih, Doni.”",
       "Doni makan setengahnya. Hanya sedikit. Perutnya masih bilang, “Kriuuk.”"
@@ -235,7 +692,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Doni masih sedikit lapar.",
       "Tetapi dadanya terasa hangat."
@@ -246,7 +702,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Kalau kamu jadi Doni, apa yang akan kamu pilih?"
      ],
@@ -259,6 +714,483 @@
    "kg": "# Kartu Guru: Bekal Bima\n\n*Fase 2 (Grade 1-2) · Atribut utama: Caring · Pendukung: Reflective · Prototipe untuk diuji*\n\n## Sekilas buku\n\nBekal Bima tumpah ke tanah. Lintang menawarkan sedikit dengan syarat “besok ganti”. Doni, yang bekalnya sendiri kecil, menimbang lama lalu membagi telurnya tanpa syarat. Ia tetap sedikit lapar di akhir, tetapi dadanya terasa hangat. Buku ini menunjukkan bahwa Caring adalah pilihan yang punya harga, dan harga itu nyata.\n\n## Momen kunci (tunjuk bersama anak)\n\n- **Halaman 4:** Bima memegang kotak kosong, matanya basah. Perhatikan perasaan Bima.\n- **Halaman 5:** Lintang memberi dengan syarat. Anak diajak melihat bedanya dengan Doni, tanpa menghakimi Lintang.\n- **Halaman 6:** Doni menimbang. Ini momen terpenting, ada dua pilihan dan keduanya terasa berat.\n- **Halaman 7:** Doni memberi tanpa syarat.\n- **Halaman 9:** Perut Doni masih lapar tetapi dadanya hangat. Dua perasaan bisa ada bersamaan.\n\n## Sebelum membaca (3-5 menit)\n\n- Tanyakan secara umum: “Pernahkah kamu merasa sangat lapar atau sedih karena sesuatu jatuh atau hilang?” Anak boleh tidak menjawab.\n- Ingat bahwa bekal anak berbeda-beda. Jangan membandingkan atau menyebut siapa yang punya banyak atau sedikit.\n\n## Tahun 1 (Grade 1): Pengenalan\n\n**Durasi:** sekitar 15 menit, dibacakan guru dengan gambar dan jeda untuk bertanya.\n\n**Fokus:** menceritakan ulang, mengenali perasaan, melihat bahwa ada pilihan.\n\n**Pertanyaan 1:** “Apa yang terjadi pada bekal Bima?”\n\n- Contoh jawaban anak: “Jatuh, tumpah.”\n- Pertanyaan lanjutan: “Bima merasa bagaimana? Dari mana kamu tahu?”\n\n**Pertanyaan 2:** “Doni memilih apa?”\n\n- Contoh jawaban anak: “Dia bagi telurnya.”\n- Pertanyaan lanjutan: “Apa yang Doni lihat dan pikirkan sebelum memutuskan?”\n\n**Pertanyaan 3:** “Di akhir cerita, perut Doni bagaimana? Dadanya bagaimana?”\n\n- Contoh jawaban anak: “Masih lapar, tapi hangat.”\n- Pertanyaan lanjutan: “Bisakah dua perasaan itu ada sekaligus?”\n\n**Tugas:**\n\n- Menyusun kartu gambar urutan kejadian: bekal jatuh, Doni menimbang, Doni berbagi, Bima tersenyum.\n- Menggambar Doni dengan dua gelembung: satu untuk perutnya, satu untuk dadanya.\n\n**Bilingual:** guru membacakan kalimat Indonesia lalu Inggris. Anak mencocokkan kartu gambar dengan kata kunci (*lunchbox, share, hungry, warm*).\n\n## Tahun 2 (Grade 2): Pendalaman\n\n**Durasi:** 15-20 menit, dengan waktu untuk bertukar pendapat berpasangan.\n\n**Fokus:** memahami pilihan dan akibatnya, membedakan memberi dengan syarat dan tanpa syarat, menyatakan pilihan sendiri.\n\n**Pertanyaan 1:** “Apa bedanya cara Lintang dan cara Doni memberi?”\n\n- Contoh jawaban anak: “Lintang minta diganti. Doni tidak.”\n- Pertanyaan lanjutan: “Apakah Lintang jahat? Apa yang mungkin ia pikirkan?” Arahkan agar anak tidak menghakimi, tetapi melihat dua cara memberi.\n\n**Pertanyaan 2:** “Di Halaman 6, pilihan apa yang dimiliki Doni?”\n\n- Contoh jawaban anak: “Makan sendiri atau bagi.”\n- Pertanyaan lanjutan: “Apa yang terjadi kalau ia memilih makan sendiri? Kalau ia memilih berbagi?”\n\n**Pertanyaan 3:** “Kalau kamu jadi Doni, apa yang akan kamu pilih? Kenapa?”\n\n- Contoh jawaban anak: “Aku bagi.” atau “Aku tidak bagi, karena aku juga lapar.”\n- Pertanyaan lanjutan: “Terima kasih sudah jujur. Adakah cara lain untuk menolong Bima, selain memberikan bekalmu?” Arahkan ke ide seperti memanggil guru atau berbagi sedikit.\n\n**Tugas:**\n\n- Menggambar dua kolom “Kalau aku memilih A” dan “Kalau aku memilih B”, masing-masing dengan akibatnya.\n- Menulis satu kalimat: “Aku akan memilih ... karena ...”\n\n**Bilingual:** anak membaca pasangan kalimat sendiri dan mencari kata yang punya arti sama dalam dua bahasa (misalnya “ganti” dan *pay back*).\n\n## Yang diamati (ringkasan; versi lengkap ada di Kartu Nilai Caring)\n\n- **Terlihat seperti:** berbagi walau ada yang dikorbankan, menanyakan apa yang dibutuhkan teman, meminta maaf setelah menyakiti.\n- **Terdengar seperti:** “Ini buat kamu.”, “Mau main bareng?”, “Maaf, aku tidak sengaja.”\n- **Bukan Caring:** berbagi karena takut dimarahi atau hanya saat ada yang melihat, berbagi lalu menagih balasan.\n- **Catatan usia:** di Grade 1, cukup jika anak melihat bahwa ada pilihan dan merasakan dampaknya pada orang lain. Di Grade 2, mulai amati apakah anak bisa menjelaskan pilihan dan akibatnya.\n\n## Jangan lakukan\n\n- Jangan memaksa anak berbagi bekal, dan jangan menjadikan berbagi makanan sebagai tugas wajib.\n- Jangan membandingkan ukuran bekal anak atau menyinggung siapa yang punya lebih banyak.\n- Jangan menyebut Lintang “pelit” atau “jahat”. Bahas dua cara memberi, bukan dua jenis anak.\n- Jangan menghakimi jawaban jujur seperti “aku tidak bagi”. Terima dulu, tanyakan alasannya, lalu ajak mencari cara lain.\n- Jangan merangkum pelajaran untuk anak (“jadi kita harus berbagi...”).\n- Bila ada aktivitas yang melibatkan makanan, perhatikan alergi dan kebijakan sekolah. Gunakan kartu gambar atau makanan tiruan.\n\n## Kosakata kunci (Indonesia / Inggris)\n\nbekal / lunchbox, berbagi / share, lapar / hungry, hangat / warm. Tambahan untuk Tahun 2: pilihan / choice, ganti atau membalas / pay back.\n\n## Untuk sesi kalibrasi guru\n\nBahas bersama:\n\n- Seorang anak membagi bekalnya setelah guru berkata, “Siapa yang mau berbagi?” Apakah itu Caring? Bagaimana kita menggunakan tiga pertanyaan penguji di Kartu Nilai?\n- Seorang anak berkata, “Aku kasih, tapi besok kamu ganti ya.” Bagaimana menanggapinya tanpa mempermalukan?\n- Bagian kartu mana yang sulit dipakai untuk anak usia ini?"
   },
   {
+   "slug": "cara",
+   "title": "Cara Lain Bermain",
+   "en": "Another Way to Play",
+   "attr": "Open-minded",
+   "fase": 2,
+   "pos": "50% 50%",
+   "dense": 0,
+   "lang0": "en",
+   "status": "Terbit",
+   "pages": [
+    {
+     "id": [
+      "Waktu istirahat tiba. Anak-anak bermain kejar-kejaran.",
+      "Lintang yang memimpin."
+     ],
+     "en": [
+      "It was break time. The children played tag.",
+      "Lintang was the leader."
+     ],
+     "ill": "Lapangan sekolah saat istirahat. Lintang, Sari, Bima, dan Doni bersiap bermain kejar-kejaran."
+    },
+    {
+     "id": [
+      "“Aturannya begini,” kata Lintang. “Yang kena jadi penjaga. Itu saja.”"
+     ],
+     "en": [
+      "“The rule is this,” said Lintang. “Whoever gets tagged becomes the catcher. That’s all.”"
+     ],
+     "ill": "Lintang berdiri tegak, satu jari terangkat, wajahnya yakin."
+    },
+    {
+     "id": [
+      "Sari mengangkat tangan pelan.",
+      "“Di rumahku aturannya lain,” katanya. “Yang kena jadi patung. Teman bisa menyentuhnya supaya hidup lagi.”"
+     ],
+     "en": [
+      "Sari raised her hand slowly.",
+      "“At my house the rule is different,” she said. “Whoever gets tagged becomes a statue. A friend can touch them to bring them back to life.”"
+     ],
+     "ill": "Sari mengangkat tangan pelan. Wajahnya tenang, bukan takut."
+    },
+    {
+     "id": [
+      "Lintang menggeleng.",
+      "“Tidak. Cara yang benar cuma satu. Cara ini.”"
+     ],
+     "en": [
+      "Lintang shook his head.",
+      "“No. There is only one right way. This way.”"
+     ],
+     "ill": "Lintang menggeleng, tangannya bersilang. Sari menunduk sedikit."
+    },
+    {
+     "id": [
+      "Bima mengangkat bahu. “Terserah,” katanya.",
+      "Doni melompat. “Aku mau coba cara Sari!”"
+     ],
+     "en": [
+      "Bima shrugged. “Whatever,” he said.",
+      "Doni jumped. “I want to try Sari’s way!”"
+     ],
+     "ill": "Bima mengangkat bahu dengan wajah datar. Doni melompat kecil dengan mata berbinar."
+    },
+    {
+     "id": [
+      "Doni dan Sari mulai bermain. Seru sekali!",
+      "Bima ikut berlari.",
+      "Lintang berdiri sendirian di pinggir lapangan."
+     ],
+     "en": [
+      "Doni and Sari began to play. It looked so fun!",
+      "Bima ran along too.",
+      "Lintang stood alone at the edge of the field."
+     ],
+     "ill": "Doni, Sari, dan Bima bermain patung dengan gembira. Lintang berdiri sendirian di pinggir lapangan."
+    },
+    {
+     "id": [
+      "Lintang melihat teman-temannya tertawa.",
+      "Ia ingin ikut. Tapi dalam hati ia masih berkata, “Caraku yang benar.”"
+     ],
+     "en": [
+      "Lintang watched his friends laughing.",
+      "He wanted to join. But in his head he still said, “My way is the right way.”"
+     ],
+     "ill": "Close-up wajah Lintang. Ia melihat teman-temannya tertawa, alisnya berkerut, ada gelembung pikiran “Caraku benar” dan gambar teman tertawa."
+    },
+    {
+     "id": [
+      "Lintang berjalan pelan.",
+      "“Boleh aku coba cara Sari?” tanyanya.",
+      "“Boleh,” kata Sari."
+     ],
+     "en": [
+      "Lintang walked over slowly.",
+      "“Can I try Sari’s way?” he asked.",
+      "“Of course,” said Sari."
+     ],
+     "ill": "Lintang berjalan pelan mendekat. Sari menoleh dengan senyum kecil."
+    },
+    {
+     "id": [
+      "Lintang kena. Ia jadi patung!",
+      "Doni menyentuhnya. Hup! Lintang hidup lagi dan tertawa."
+     ],
+     "en": [
+      "Lintang got tagged. He became a statue!",
+      "Doni touched him. Whoosh! Lintang came back to life and laughed."
+     ],
+     "ill": "Lintang membeku seperti patung dengan pose lucu. Doni menyentuh bahunya. Lintang melompat dan tertawa."
+    },
+    {
+     "id": [
+      "“Ternyata aku suka yang patung!” kata Bima. “Tadi aku bilang terserah, padahal aku penasaran.”"
+     ],
+     "en": [
+      "“Turns out I like the statue game!” said Bima. “I said ‘whatever’, but I was really curious.”"
+     ],
+     "ill": "Keempat anak duduk berdekatan, napas terengah, tersenyum. Bima berbicara dengan tangan terangkat."
+    },
+    {
+     "id": [
+      "“Aku tetap suka caraku,” kata Lintang. “Tapi caramu juga seru.”",
+      "Besok mereka akan bermain dua cara."
+     ],
+     "en": [
+      "“I still like my way,” said Lintang. “But your way is fun too.”",
+      "Tomorrow, they would play both ways."
+     ],
+     "ill": "Lintang mengangkat dua jari, tersenyum lebar."
+    },
+    {
+     "id": [
+      "Apa yang kamu temukan saat mencoba cara temanmu?"
+     ],
+     "en": [
+      "What did you find when you tried your friend’s way?"
+     ],
+     "q": 1,
+     "ill": "Satu gambar besar anak-anak bermain, dengan ruang kosong untuk pertanyaan."
+    }
+   ],
+   "kg": "# Kartu Guru: Cara Lain Bermain\n\n*Fase 2 (Grade 1-2) · Atribut utama: Open-minded · Prototipe untuk diuji*\n\n## Sekilas buku\n\nLintang memimpin permainan kejar-kejaran dengan aturannya sendiri. Sari menyampaikan aturan lain dari rumahnya (yang kena jadi patung dan bisa dihidupkan lagi), tetapi Lintang berkata bahwa cara yang benar hanya satu. Bima berkata “terserah”, Doni penasaran dan mencoba. Akhirnya Lintang mau mencoba dan berkata, “Aku tetap suka caraku, tapi caramu juga seru.” Buku ini menunjukkan Open-minded sebagai kesediaan memberi kesempatan pada cara lain tanpa harus meninggalkan pendapat sendiri.\n\n## Momen kunci (tunjuk bersama anak lewat gambar)\n\n- **Halaman 3:** Sari menyampaikan aturan yang berbeda dengan tenang.\n- **Halaman 4:** Lintang berkata, “Cara yang benar cuma satu.” Perhatikan wajah Sari.\n- **Halaman 5:** Bima berkata “terserah”, sedangkan Doni berkata “Aku mau coba.”\n- **Halaman 8:** Lintang bertanya, “Boleh aku coba cara Sari?”\n- **Halaman 10-11:** Bima mengakui bahwa ia sebenarnya penasaran, dan Lintang berkata, “Aku tetap suka caraku, tapi caramu juga seru.”\n\n## Sebelum membaca (3-5 menit)\n\n- Tanyakan: “Permainan apa yang kamu suka? Adakah aturan yang berbeda di rumahmu?” Anak boleh tidak menjawab.\n- Sepakati aturan kelas: kita boleh bermain dengan cara yang berbeda, dan kita tidak menunjuk teman sebagai contoh.\n\n## Tahun 1 (Grade 1): Pengenalan\n\n**Durasi:** sekitar 15 menit, dibacakan guru dengan gambar dan jeda.\n\n**Fokus:** menceritakan ulang, mengenali dua cara bermain, melihat Lintang mencoba cara lain.\n\n**Pertanyaan 1:** “Apa aturan Lintang dan apa aturan Sari?”\n\n- Contoh jawaban anak: “Lintang: yang kena jadi penjaga. Sari: yang kena jadi patung.”\n- Pertanyaan lanjutan: “Menurutmu mana yang seru? Kenapa?”\n\n**Pertanyaan 2:** “Apa yang Lintang lakukan di Halaman 8? Mengapa itu sulit?”\n\n- Contoh jawaban anak: “Dia bilang boleh coba.”\n- Pertanyaan lanjutan: “Apa yang membuat Lintang akhirnya mau mencoba?”\n\n**Pertanyaan 3:** “Bima bilang ‘terserah’, lalu bilang ‘ternyata aku suka’. Apa yang terjadi?”\n\n- Contoh jawaban anak: “Dia coba, terus suka.”\n- Pertanyaan lanjutan: “Apa yang bisa Bima katakan sejak awal?”\n\n**Tugas:**\n\n- Kelas bermain satu permainan sederhana dengan dua aturan berbeda, di tempat yang aman dan dengan pengawasan guru, lalu menggambar aturan yang disukai.\n- Menyusun kartu “cara A” dan “cara B” untuk satu permainan.\n\n**Bilingual:** guru membacakan kalimat Indonesia lalu Inggris. Anak mencocokkan kata kunci dengan gerakan (*rule, different, try, together*).\n\n## Tahun 2 (Grade 2): Pendalaman\n\n**Durasi:** 15-20 menit, dengan waktu bertukar pendapat berpasangan.\n\n**Fokus:** memberi kesempatan pada cara lain, tetap punya pendapat sendiri, membedakan terbuka dari ikut-ikutan atau berkata “terserah”.\n\n**Pertanyaan 1:** “Lintang tetap suka caranya, tetapi mau mencoba cara Sari. Apakah ia jadi ikut-ikutan?”\n\n- Contoh jawaban anak: “Tidak, dia tetap punya pendapatnya.”\n- Pertanyaan lanjutan: “Apa bedanya terbuka dan ikut-ikutan?”\n\n**Pertanyaan 2:** “Bima berkata ‘terserah’. Apakah itu terbuka? Kenapa?”\n\n- Contoh jawaban anak: “Bukan, dia tidak bilang maunya apa.”\n- Pertanyaan lanjutan: “Apa yang bisa Bima katakan supaya teman-temannya tahu?”\n\n**Pertanyaan 3:** “Kapan kamu pernah merasa caramu satu-satunya yang benar?”\n\n- Contoh jawaban anak: “Waktu main bola, aku maunya aturanku.”\n- Pertanyaan lanjutan: “Apa yang terjadi saat kamu mencoba cara temanmu?”\n\n**Tugas:**\n\n- “Dua cara”: anak memilih satu kegiatan sederhana, bertanya kepada teman bagaimana caranya, mencobanya, lalu menyelesaikan kalimat “Aku tetap suka ... tapi ... juga ...”.\n- Papan kelas “Cara-cara kita” berisi cara bermain atau mengerjakan sesuatu yang berbeda-beda.\n\n**Bilingual:** anak membaca pasangan kalimat sendiri dan mencocokkan kata *rule* dan “aturan”, serta *fun* dan “seru”.\n\n## Yang diamati (ringkasan; versi lengkap ada di Kartu Nilai Open-minded)\n\n- **Terlihat seperti:** mengikuti aturan permainan teman walau berbeda, bertanya bagaimana cara teman, mengakui bahwa cara lain juga bisa berhasil.\n- **Terdengar seperti:** “Di tempatmu mainnya bagaimana?”, “Ayo coba caramu.”\n- **Bukan Open-minded:** menyebut caranya sendiri satu-satunya yang benar, ikut hanya supaya diterima lalu mengejek, mengalah terus tanpa pernah menyuarakan pendapat sendiri.\n- **Catatan usia:** di Grade 1, cukup jika anak mengakui adanya cara lain dan mau mencoba. Di Grade 2, mulai amati apakah anak tetap punya pendapat sendiri sambil mencoba cara lain.\n\n## Jangan lakukan\n\n- Jangan menyebut Lintang “keras kepala” atau “sombong”. Bahas keyakinannya pada satu cara, bukan kepribadiannya.\n- Jangan meminta anak meninggalkan cara yang ia sukai. Lintang boleh tetap menyukai caranya.\n- Jangan menyamakan “terserah” dengan terbuka.\n- Jangan memilih aturan mana yang “terbaik” untuk anak.\n- Jangan memuji Sari sebagai anak yang “penurut” atau “pendiam”. Fokus pada isi aturannya.\n- Jangan mengadakan permainan fisik tanpa pengawasan dan tempat yang aman.\n- Jangan merangkum pelajaran untuk anak (“jadi kita harus mencoba cara teman”).\n\n## Kosakata kunci (Indonesia / Inggris)\n\naturan / rule, beda / different, mencoba / try, bersama / together, seru / fun.\n\n## Untuk sesi kalibrasi guru\n\nBahas bersama:\n\n- Seorang anak mencoba aturan temannya supaya diterima, lalu mengejek aturan itu setelah teman pergi. Apakah itu Open-minded?\n- Seorang anak berkata “terserah” setiap kali diberi pilihan. Apa yang kita amati, dan bagaimana menanggapinya?\n- Seorang anak berkata, “Aku mau coba, tapi aku tetap suka caraku.” Apakah itu Open-minded? Gunakan tiga pertanyaan penguji.\n- Bagian kartu mana yang sulit dipakai untuk anak usia ini?"
+  },
+  {
+   "slug": "sepeda",
+   "title": "Sepeda Tanpa Roda Tambahan",
+   "en": "No More Training Wheels",
+   "attr": "Risk-takers",
+   "fase": 2,
+   "pos": "50% 50%",
+   "dense": 0,
+   "lang0": "en",
+   "status": "Terbit",
+   "pages": [
+    {
+     "id": [
+      "Doni punya sepeda baru. Di belakangnya ada dua roda kecil."
+     ],
+     "en": [
+      "Doni had a new bike. There were two little wheels at the back."
+     ],
+     "ill": "Sore hari di lapangan datar dekat sekolah. Doni berdiri di samping sepeda kecilnya yang punya dua roda tambahan."
+    },
+    {
+     "id": [
+      "Teman-temannya bisa naik sepeda tanpa roda kecil. Doni juga ingin."
+     ],
+     "en": [
+      "His friends could ride without the little wheels. Doni wanted to, too."
+     ],
+     "ill": "Beberapa anak lain bersepeda tanpa roda tambahan. Doni memandang mereka dengan iri dan ragu."
+    },
+    {
+     "id": [
+      "Ayah Doni melepas roda kecil itu.",
+      "“Aku mau coba,” kata Doni."
+     ],
+     "en": [
+      "Doni’s father took the little wheels off.",
+      "“I want to try,” said Doni."
+     ],
+     "ill": "Ayah Doni memutar kunci untuk melepas roda tambahan. Doni memperhatikan dengan wajah serius."
+    },
+    {
+     "id": [
+      "Bima berteriak, “Ayo turun dari bukit! Berani!”",
+      "Doni melihat turunan yang panjang. Ia menggeleng."
+     ],
+     "en": [
+      "Bima shouted, “Come down the hill! Be brave!”",
+      "Doni looked at the long slope. He shook his head."
+     ],
+     "ill": "Bima di atas bukit kecil menunjuk turunan yang panjang. Doni di bawah, menggeleng."
+    },
+    {
+     "id": [
+      "“Aku mau di lapangan datar,” kata Doni.",
+      "Ia memakai helm. Ia memakai pelindung lutut."
+     ],
+     "en": [
+      "“I want to try on the flat field,” said Doni.",
+      "He put on his helmet. He put on his knee pads."
+     ],
+     "ill": "Doni memakai helm dan pelindung lutut di lapangan datar."
+    },
+    {
+     "id": [
+      "Sari memegang bagian belakang sadel.",
+      "“Aku pegang sebentar,” kata Sari."
+     ],
+     "en": [
+      "Sari held the back of the seat.",
+      "“I’ll hold it for a moment,” said Sari."
+     ],
+     "ill": "Sari memegang bagian belakang sadel sepeda Doni dengan kedua tangan."
+    },
+    {
+     "id": [
+      "Doni mengayuh. Goyang, goyang.",
+      "Sari melepas.",
+      "Satu meter. Dua meter. Tiga meter."
+     ],
+     "en": [
+      "Doni pedaled. Wobble, wobble.",
+      "Sari let go.",
+      "One meter. Two meters. Three meters."
+     ],
+     "ill": "Doni mengayuh dengan sepeda sedikit goyang. Sari melepas. Garis kecil menunjukkan jarak: 1, 2, 3 meter."
+    },
+    {
+     "id": [
+      "Brukk! Doni jatuh.",
+      "Lututnya sedikit lecet. Doni diam sebentar."
+     ],
+     "en": [
+      "Thud! Doni fell.",
+      "His knee had a little scrape. Doni was quiet for a moment."
+     ],
+     "ill": "Doni jatuh pelan di rumput. Lututnya sedikit lecet. Ia diam sebentar."
+    },
+    {
+     "id": [
+      "Doni menarik napas.",
+      "“Aku jatuh,” katanya. “Aku coba lagi.”"
+     ],
+     "en": [
+      "Doni took a breath.",
+      "“I fell,” he said. “I’ll try again.”"
+     ],
+     "ill": "Doni berdiri, memegang stang, wajahnya tenang."
+    },
+    {
+     "id": [
+      "Lintang mencatat di bukunya: *Hari ini, 3 meter.*",
+      "Doni mencoba lagi. Empat meter!",
+      "Lalu ia jatuh lagi, dan tertawa."
+     ],
+     "en": [
+      "Lintang wrote in his notebook: Today, 3 meters.",
+      "Doni tried again. Four meters!",
+      "Then he fell again, and laughed."
+     ],
+     "ill": "Lintang duduk dengan buku catatan, menulis angka. Doni mengayuh lagi."
+    },
+    {
+     "id": [
+      "Doni belum jago. Tetapi hari ini ia lebih jauh dari kemarin."
+     ],
+     "en": [
+      "Doni was not good at it yet. But today he went farther than yesterday."
+     ],
+     "ill": "Doni tertawa di rumput dengan helm miring. Teman-temannya duduk di dekatnya."
+    },
+    {
+     "id": [
+      "Apa yang pernah kamu coba lagi setelah jatuh?"
+     ],
+     "en": [
+      "What have you tried again after falling?"
+     ],
+     "q": 1,
+     "ill": "Satu gambar besar sepeda Doni di lapangan datar dengan ruang kosong untuk pertanyaan."
+    }
+   ],
+   "kg": "# Kartu Guru: Sepeda Tanpa Roda Tambahan\n\n*Fase 2 (Grade 1-2) · Atribut utama: Risk-takers · Prototipe untuk diuji*\n\n## Sekilas buku\n\nDoni melepas roda tambahan sepedanya dan ingin mencoba. Bima mengajaknya turun dari bukit, tetapi Doni memilih lapangan datar dengan helm dan pelindung lutut. Sari memegangi sadel sebentar, Doni mengayuh beberapa meter, jatuh, lalu berkata, “Aku jatuh, aku coba lagi.” Buku ini menunjukkan Risk-takers sebagai pilihan mencoba dengan persiapan, dan menerima bahwa jatuh adalah bagian dari belajar.\n\n## Momen kunci (tunjuk bersama anak lewat gambar)\n\n- **Halaman 4:** Bima mengajak turun dari bukit, dan Doni menggeleng.\n- **Halaman 5:** Doni memilih lapangan datar dan memakai helm serta pelindung lutut.\n- **Halaman 7-8:** Doni mengayuh tiga meter, lalu jatuh dan diam sebentar.\n- **Halaman 9:** Doni berkata, “Aku jatuh. Aku coba lagi.”\n- **Halaman 10-11:** Doni belum jago, tetapi lebih jauh dari kemarin.\n\n## Sebelum membaca (3-5 menit)\n\n- Tanyakan secara umum: “Pernahkah kamu mencoba sesuatu yang baru dan sulit?” Anak boleh tidak menjawab.\n- Ingat bahwa tidak semua anak punya atau bisa bersepeda. Fokuskan pada “mencoba hal baru yang sulit”, bukan pada sepedanya.\n\n## Tahun 1 (Grade 1): Pengenalan\n\n**Durasi:** sekitar 15 menit, dibacakan guru dengan gambar dan jeda.\n\n**Fokus:** menceritakan ulang, mengenali persiapan, mengenali bahwa jatuh boleh dan bisa dicoba lagi.\n\n**Pertanyaan 1:** “Apa yang Doni pakai sebelum mencoba? Mengapa?”\n\n- Contoh jawaban anak: “Helm dan pelindung lutut. Supaya tidak sakit.”\n- Pertanyaan lanjutan: “Apa lagi yang membuat Doni merasa aman?”\n\n**Pertanyaan 2:** “Bima mengajak turun dari bukit. Doni memilih apa? Mengapa?”\n\n- Contoh jawaban anak: “Lapangan datar. Soalnya bukitnya tinggi.”\n- Pertanyaan lanjutan: “Apakah Doni takut? Apakah itu boleh?”\n\n**Pertanyaan 3:** “Apa yang Doni katakan setelah jatuh?”\n\n- Contoh jawaban anak: “Aku coba lagi.”\n- Pertanyaan lanjutan: “Apa yang kamu lakukan kalau kamu jatuh atau salah?”\n\n**Tugas:**\n\n- Menyusun kartu urutan: memakai pelindung, memilih tempat datar, jatuh, mencoba lagi.\n- Menggambar Doni dengan perlengkapannya.\n\n**Bilingual:** guru membacakan kalimat Indonesia lalu Inggris. Anak mencocokkan kata kunci dengan gerakan (*fall, again, try, practice*).\n\n## Tahun 2 (Grade 2): Pendalaman\n\n**Durasi:** 15-20 menit, dengan waktu bertukar pendapat berpasangan.\n\n**Fokus:** membedakan berani dan nekat, menghargai kemajuan kecil, mencoba lagi setelah gagal.\n\n**Pertanyaan 1:** “Apa bedanya cara Bima dan cara Doni? Mana yang berani, mana yang nekat?”\n\n- Contoh jawaban anak: “Bima langsung dari bukit. Doni mulai dari datar.”\n- Pertanyaan lanjutan: “Mengapa Doni disebut berani walaupun ia memilih pelan-pelan?”\n\n**Pertanyaan 2:** “Doni belum jago, tetapi lebih jauh dari kemarin. Mengapa kemajuan kecil penting?”\n\n- Contoh jawaban anak: “Karena dia belajar sedikit-sedikit.”\n- Pertanyaan lanjutan: “Apa yang membantu Doni terus mencoba?”\n\n**Pertanyaan 3:** “Apa yang pernah kamu coba, jatuh atau salah, lalu coba lagi?”\n\n- Contoh jawaban anak: “Aku pernah salah menulis huruf, lalu kutulis lagi.”\n- Pertanyaan lanjutan: “Bagaimana rasanya setelah kamu mencoba lagi?”\n\n**Tugas:**\n\n- “Catatan Lintang”: anak memilih satu keterampilan baru yang aman (misalnya mengikat tali sepatu atau melompat tali) dan mencatat kemajuannya selama seminggu.\n- Menyelesaikan kalimat: “Aku belum bisa ..., tetapi aku mencoba ...”\n\n**Bilingual:** anak membaca pasangan kalimat sendiri dan mencocokkan kata *fall, again, try, practice* dengan gambarnya.\n\n## Yang diamati (ringkasan; versi lengkap ada di Kartu Nilai Risk-takers)\n\n- **Terlihat seperti:** memilih mencoba hal baru, berlatih beberapa kali, meminta bantuan saat perlu, merayakan kemajuan kecil, memakai pelindung yang sesuai.\n- **Terdengar seperti:** “Aku belum bisa, tapi aku coba.”, “Aku jatuh, aku coba lagi.”, “Bisa tolong pegangi sebentar?”\n- **Bukan Risk-takers:** nekat tanpa memeriksa keselamatan, menolak mencoba apa pun supaya tidak terlihat gagal, mengejek teman yang gagal, menyalahkan alat atau orang lain saat gagal.\n- **Catatan usia:** di Grade 1, cukup jika anak mengenali persiapan dan mau mencoba lagi. Di Grade 2, mulai amati apakah anak membedakan berani dari nekat.\n\n## Jangan lakukan\n\n- Jangan mengajak anak ke tempat berisiko seperti bukit atau jalan, dan jangan menantang anak secara fisik.\n- Jangan menyuruh anak bersepeda atau melakukan kegiatan fisik tanpa pengawasan, tempat aman, dan perlengkapan pelindung.\n- Jangan menertawakan anak yang jatuh atau salah.\n- Jangan membuat lomba kecepatan atau jarak.\n- Jangan menyebut Bima “jahat”. Bahas perbedaan berani dan nekat.\n- Jangan memuji hanya anak yang paling jauh atau paling cepat.\n- Jangan membandingkan kemajuan antar anak.\n- Jangan merangkum pelajaran untuk anak (“jadi kita harus berani”).\n\n## Kosakata kunci (Indonesia / Inggris)\n\njatuh / fall, lagi / again, mencoba / try, berlatih / practice. Tambahan untuk Tahun 2: pelindung / protection, kemajuan / progress.\n\n## Untuk sesi kalibrasi guru\n\nBahas bersama:\n\n- Seorang anak melompat dari tempat tinggi karena ditantang temannya. Apakah itu Risk-takers? Gunakan tiga pertanyaan penguji di Kartu Nilai.\n- Seorang anak menolak mencoba apa pun supaya tidak terlihat kalah. Apa yang kita amati?\n- Seorang anak jatuh, lalu menyalahkan alatnya. Bagaimana menanggapinya?\n- Bagian kartu mana yang sulit dipakai untuk anak usia ini?"
+  },
+  {
+   "slug": "dua",
+   "title": "Dua Cerita, Satu Kejadian",
+   "en": "Two Stories, One Day",
+   "attr": "Open-minded",
+   "fase": 3,
+   "pos": "50% 50%",
+   "dense": 1,
+   "lang0": "en",
+   "status": "Terbit",
+   "pages": [
+    {
+     "id": [
+      "Pada hari Sabtu, angin bertiup kencang di lapangan tepi sungai. Hampir seluruh kampung datang membawa layang-layang. Langit penuh warna merah, kuning, dan hijau."
+     ],
+     "en": [
+      "On Saturday, a strong wind blew across the field by the river. Almost the whole kampung had come with kites. The sky was full of red, yellow, and green."
+     ],
+     "ch": [
+      "Bab 1 — Hari Angin Kencang",
+      "The Day of the Strong Wind"
+     ]
+    },
+    {
+     "id": [
+      "Bima berlari paling cepat. Layangannya naik tinggi sekali, jauh lebih tinggi daripada yang lain. “Lihat! Punyaku paling tinggi!” teriaknya sambil tertawa."
+     ],
+     "en": [
+      "Bima ran the fastest. His kite climbed higher than all the others. “Look! Mine is the highest!” he shouted, laughing."
+     ]
+    },
+    {
+     "id": [
+      "Sari berdiri di dekat sungai. Angin menarik benangnya sangat keras. Tiba-tiba benang itu putus. Layangannya terbang jauh melewati sungai dan menghilang di balik pohon."
+     ],
+     "en": [
+      "Sari stood near the river. The wind pulled hard on her string. Suddenly the string snapped. Her kite flew away across the river and disappeared behind the trees."
+     ]
+    },
+    {
+     "id": [
+      "Nara berdiri di pinggir lapangan tanpa membawa layang-layang. Ia belum pernah melihat langit seramai itu.",
+      "Lintang berlari ke sana kemari dengan buku catatan kecil. “Anginnya datang dari mana? Kenapa layangan bisa naik?” tanyanya kepada semua orang. Tetapi ia terlalu sibuk bertanya sehingga tidak sempat mendengarkan jawaban siapa pun."
+     ],
+     "en": [
+      "Nara stood at the edge of the field without a kite. She had never seen a sky so busy.",
+      "Lintang ran here and there with a small notebook. “Where does the wind come from? Why do kites go up?” he asked everyone. But he was so busy asking that he never listened to anyone’s answer."
+     ]
+    },
+    {
+     "id": [
+      "Pada hari Senin, Bu Guru berkata, “Kita akan menulis satu cerita kelas tentang Hari Layang-layang. Lintang, kamu penulisnya.”",
+      "Lintang senang. Ia membuka buku catatannya."
+     ],
+     "en": [
+      "On Monday, Bu Guru said, “We are going to write one class story about Kite Day. Lintang, you are the writer.”",
+      "Lintang was happy. He opened his notebook."
+     ],
+     "ch": [
+      "Bab 2 — Tugas Bu Guru",
+      "Bu Guru’s Assignment"
+     ]
+    },
+    {
+     "id": [
+      "“Hari itu seru sekali!” kata Bima langsung. “Anginnya kencang dan layanganku terbang paling tinggi!”",
+      "Lintang menulis: *Hari itu seru sekali.*"
+     ],
+     "en": [
+      "“The day was so much fun!” said Bima right away. “The wind was strong and my kite flew the highest!”",
+      "Lintang wrote: The day was so much fun."
+     ]
+    },
+    {
+     "id": [
+      "“Buatku tidak seru,” kata Sari pelan. “Hari itu menakutkan. Benang layanganku putus dan layanganku hilang.”",
+      "Lintang menggeleng. “Itu kan cuma kamu yang takut. Semua orang senang. Cerita kelas harus satu, dan harus yang benar.”",
+      "Sari terdiam dan menunduk."
+     ],
+     "en": [
+      "“For me it wasn’t fun,” Sari said quietly. “The day was scary. My string snapped and my kite was gone.”",
+      "Lintang shook his head. “That’s just you being scared. Everyone else was happy. A class story has to be one story, and it has to be the right one.”",
+      "Sari went quiet and looked down."
+     ]
+    },
+    {
+     "id": [
+      "“Buatku hari itu confusing,” kata Nara, “tapi juga beautiful.” Lintang hanya melambaikan tangan. “Nanti saja, Nara.”"
+     ],
+     "en": [
+      "“For me the day was confusing,” said Nara, “but also beautiful.” Lintang just waved his hand. “Later, Nara.”"
+     ]
+    },
+    {
+     "id": [
+      "Malam itu Lintang membaca kalimat di bukunya: *Hari itu seru sekali.* Entah kenapa kalimat itu terasa kurang pas, seperti sepatu yang sedikit terlalu kecil.",
+      "Keesokan paginya, Bu Guru berjalan melewatinya dan bertanya pelan, “Lintang, apakah satu kejadian boleh punya lebih dari satu cerita?” Ia tidak menunggu jawaban dan kembali menulis di papan."
+     ],
+     "en": [
+      "That night, Lintang read the sentence in his notebook: The day was so much fun. Somehow it did not fit, like a shoe that is a little too small.",
+      "The next morning, Bu Guru walked past him and asked softly, “Lintang, can one day have more than one story?” She did not wait for an answer and went back to writing on the board."
+     ],
+     "ch": [
+      "Bab 3 — Mendengarkan Sampai Selesai",
+      "Listening to the End"
+     ]
+    },
+    {
+     "id": [
+      "Lintang berpikir sepanjang istirahat. Lalu ia menghampiri Sari di bawah pohon beringin dan duduk. Untuk pertama kalinya, ia tidak langsung bertanya.",
+      "“Ceritakan versimu,” katanya. “Aku akan mendengarkan sampai selesai.”"
+     ],
+     "en": [
+      "Lintang thought all through break. Then he went to Sari under the banyan tree and sat down. For the first time, he did not start with a question.",
+      "“Tell me your version,” he said. “I will listen until you are done.”"
+     ]
+    },
+    {
+     "id": [
+      "Sari bercerita pelan. Angin begitu kencang sampai tangannya sakit memegang benang. Waktu benangnya putus, ia melihat layangannya semakin kecil sampai hilang. Ia ingin menangis, tetapi semua orang sedang tertawa dan bersorak, jadi ia merasa seperti satu-satunya orang yang sedih.",
+      "Lintang tidak memotong. Ketika Sari selesai, ia berkata, “Aku mengerti kenapa kamu berpikir hari itu menakutkan.”"
+     ],
+     "en": [
+      "Sari spoke softly. The wind was so strong that her hand hurt from holding the string. When the string snapped, she watched her kite get smaller and smaller until it was gone. She wanted to cry, but everyone was laughing and cheering, so she felt like the only sad person.",
+      "Lintang did not interrupt. When Sari finished, he said, “I understand why you thought the day was scary.”"
+     ]
+    },
+    {
+     "id": [
+      "Lalu Nara datang, dan Lintang bertanya kepadanya. Kali ini ia menunggu jawabannya. Nara bercerita bahwa di tempat ia dulu tinggal, langit biasanya kelabu dan sepi. Di sini ia melihat begitu banyak warna naik ke langit lewat seutas benang tipis. Ia tidak mengerti bagaimana semuanya bisa terbang, dan itu membuatnya bingung sekaligus terpesona."
+     ],
+     "en": [
+      "Then Nara came over, and Lintang asked her. This time he waited for her answer. Nara said that where she used to live, the sky was usually gray and quiet. Here she saw so many colors rising into the sky on a thin thread. She did not understand how it all could fly, and that made her confused and amazed at the same time."
+     ]
+    },
+    {
+     "id": [
+      "Lintang membuka buku catatannya dan menatap kalimat pertamanya. Ia sadar bahwa ia mendengar cerita Bima lebih dulu karena Bima yang paling keras, dan ia sudah memutuskan sebelum mendengar yang lain. Pelan-pelan ia menulis di bawahnya: *Aku tadi salah menilai.*"
+     ],
+     "en": [
+      "Lintang opened his notebook and looked at his first sentence. He realized he had heard Bima’s story first because Bima was the loudest, and he had decided before hearing anyone else. Slowly he wrote underneath: I judged too quickly."
+     ]
+    },
+    {
+     "id": [
+      "Pada hari Rabu, cerita kelas selesai. Judulnya *Hari Layang-layang*, dan isinya tiga bagian: cerita seru milik Bima, cerita menakutkan milik Sari, dan cerita bingung tapi indah milik Nara.",
+      "Bima ragu ketika Lintang membacakannya. “Kenapa cerita Sari harus ada? Nanti hari yang seru jadi tidak seru.”"
+     ],
+     "en": [
+      "On Wednesday, the class story was done. Its title was Kite Day, and it had three parts: Bima’s fun story, Sari’s scary story, and Nara’s confusing but beautiful story.",
+      "Bima hesitated when Lintang read it aloud. “Why does Sari’s story have to be in there? It will make our fun day not fun.”"
+     ],
+     "ch": [
+      "Bab 4 — Satu Hari, Tiga Cerita",
+      "One Day, Three Stories"
+     ]
+    },
+    {
+     "id": [
+      "Lintang tidak langsung menjawab. Ia bertanya, “Menurutmu, apakah cerita Sari tidak benar?”",
+      "Bima berpikir lama. “Benar,” katanya akhirnya. “Aku tidak tahu layangannya hilang waktu itu. Aku sibuk melihat layanganku sendiri.”"
+     ],
+     "en": [
+      "Lintang did not answer right away. He asked, “Do you think Sari’s story is not true?”",
+      "Bima thought for a long time. “It’s true,” he finally said. “I didn’t know her kite was gone. I was too busy watching my own.”"
+     ]
+    },
+    {
+     "id": [
+      "“Jadi hari layang-layang punya tiga warna,” kata Doni, “seperti layangan yang kita terbangkan.” Semua tertawa, dan Sari tersenyum kecil.",
+      "Bu Guru menempelkan cerita itu di papan. Hari itu masih satu hari yang sama. Bedanya, sekarang kelas punya tiga cara untuk mengingatnya."
+     ],
+     "en": [
+      "“So Kite Day has three colors,” said Doni, “just like the kites we flew.” Everyone laughed, and Sari smiled a little.",
+      "Bu Guru pinned the story to the board. It was still the same one day. The only difference was that now the class had three ways to remember it."
+     ]
+    },
+    {
+     "id": [
+      "Kapan kamu pernah menilai terlalu cepat sebelum mendengar cerita lengkapnya?"
+     ],
+     "en": [
+      "When have you judged something too quickly, before hearing the whole story?"
+     ],
+     "q": 1
+    }
+   ],
+   "kg": "# Kartu Guru: Dua Cerita, Satu Kejadian\n\n*Fase 3 (Grade 3-4) · Atribut utama: Open-minded · Pendukung: Inquirers · Prototipe untuk diuji*\n\n## Sekilas buku\n\nSetelah Hari Layang-layang, tiga anak menceritakan hari yang sama dengan rasa yang berbeda: seru (Bima), menakutkan (Sari), dan bingung tetapi indah (Nara). Lintang, penulis cerita kelas, awalnya ingin memilih satu versi “yang benar”. Setelah mendengarkan sampai selesai, ia menyadari bahwa ia sudah memutuskan sebelum mendengar semuanya, lalu menulis ketiganya. Buku ini menunjukkan Open-minded sebagai kesediaan menunda penilaian dan mengubahnya setelah mendengar.\n\n## Momen kunci (tandai bersama anak)\n\n- **Bab 1:** Ketiga anak mengalami hari yang sama dengan cara yang berbeda. Lintang sibuk bertanya, tetapi tidak sempat mendengar.\n- **Bab 2:** Lintang berkata “Cerita kelas harus satu, dan harus yang benar”, lalu menolak cerita Sari dan Nara.\n- **Bab 3:** Lintang meminta Sari bercerita dan mendengarkan sampai selesai. Ia berkata, “Aku mengerti kenapa kamu berpikir hari itu menakutkan.”\n- **Bab 3:** Lintang menyadari bahwa ia sudah memutuskan setelah mendengar Bima yang paling keras, lalu menulis “Aku tadi salah menilai.”\n- **Bab 4:** Bima ragu, lalu mengakui bahwa cerita Sari benar karena ia sendiri tidak melihat layangan Sari hilang.\n\n## Sebelum membaca (5 menit)\n\n- Tanyakan secara umum: “Pernahkah dua orang menceritakan kejadian yang sama dengan cara berbeda?” Anak boleh tidak menjawab.\n- Sepakati aturan kelas: kita mendengarkan sampai selesai, dan kita tidak menunjuk teman sebagai contoh.\n\n## Tahun 1 (Grade 3): Pengenalan\n\n**Durasi:** dua sesi sekitar 20-30 menit (Bab 1-2 dan Bab 3-4).\n\n**Fokus:** menceritakan ulang tiga versi, mengenali bahwa satu kejadian bisa punya beberapa cerita, melihat perubahan penilaian Lintang.\n\n**Pertanyaan 1:** “Apa cerita Bima, Sari, dan Nara tentang hari yang sama?”\n\n- Contoh jawaban anak: “Bima bilang seru, Sari bilang menakutkan, Nara bingung tapi indah.”\n- Pertanyaan lanjutan: “Menurutmu, siapa yang benar?” Arahkan agar anak melihat bahwa masing-masing benar dari tempatnya berdiri.\n\n**Pertanyaan 2:** “Apa yang Lintang lakukan di Bab 3 yang berbeda dari Bab 2?”\n\n- Contoh jawaban anak: “Dia mendengarkan sampai selesai.”\n- Pertanyaan lanjutan: “Apa yang ia tulis di bukunya? Mengapa?”\n\n**Pertanyaan 3:** “Mengapa Bima awalnya ragu?”\n\n- Contoh jawaban anak: “Dia takut harinya jadi tidak seru.”\n- Pertanyaan lanjutan: “Apa yang membuat Bima berubah pikiran?”\n\n**Tugas:**\n\n- “Satu kejadian, tiga cerita”: anak-anak mengamati satu kejadian di kelas (misalnya sebuah gambar yang sama atau sebuah permainan), lalu menggambar atau menulis apa yang dilihat tiga teman yang berbeda.\n- Menyusun kartu “versiku” dan “versimu” untuk satu kejadian sederhana.\n\n**Bilingual:** guru membacakan kalimat Indonesia lalu Inggris. Anak mencocokkan kata kunci (*story, version, listen, true*).\n\n## Tahun 2 (Grade 4): Pendalaman\n\n**Durasi:** dua atau tiga sesi sekitar 30 menit, ditambah tugas mandiri.\n\n**Fokus:** menunda penilaian, membedakan “benar dari tempatnya” dan “keliru”, mengubah penilaian dengan alasan, menghubungkan dengan hidup sendiri.\n\n**Pertanyaan 1:** “Mengapa Lintang berkata cerita kelas harus satu yang benar? Apa yang ia lewatkan?”\n\n- Contoh jawaban anak: “Dia sudah memutuskan setelah mendengar Bima.”\n- Pertanyaan lanjutan: “Mengapa kita sering lebih percaya pada cerita yang paling keras? Bagaimana kita bisa menyadarinya?”\n\n**Pertanyaan 2:** “Apa bedanya cerita yang berbeda dengan cerita yang bohong?”\n\n- Contoh jawaban anak: “Semuanya jujur, tapi rasanya berbeda.”\n- Pertanyaan lanjutan: “Adakah hal yang hanya punya satu jawaban yang benar? Bagaimana kita membedakannya dari pengalaman yang berbeda-beda?” Arahkan agar anak membedakan fakta dan pengalaman.\n\n**Pertanyaan 3:** “Kapan kamu pernah menilai terlalu cepat? Apa yang kamu lewatkan?”\n\n- Contoh jawaban anak: “Aku mengira temanku marah, padahal dia sedang sedih.”\n- Pertanyaan lanjutan: “Apa yang bisa kamu lakukan agar tidak terlalu cepat menilai?”\n\n**Tugas:**\n\n- Menulis ulang satu kejadian (nyata atau karangan) dari dua sudut pandang.\n- Bertanya kepada tiga orang tentang satu kejadian yang sama, lalu membandingkan jawabannya.\n- Menulis jurnal singkat: “Aku tadi salah menilai karena ...”\n\n**Bilingual:** anak membaca kedua bahasa dan membandingkan cara menyampaikan “versi” dan “sudut pandang”. Kosakata tambahan: sudut pandang / *point of view*, menilai / *judge*, bukti / *evidence*.\n\n## Yang diamati (ringkasan; versi lengkap ada di Kartu Nilai Open-minded)\n\n- **Terlihat seperti:** meminta kedua pihak bercerita, menunda penilaian, mengubah penilaian setelah mendengar sisi lain.\n- **Terdengar seperti:** “Ceritakan versimu.”, “Aku tadi salah menilai.”, “Aku mengerti kenapa kamu berpikir begitu.”\n- **Bukan Open-minded:** berkata “terserah” tanpa mendengarkan, mendengarkan sambil menyiapkan bantahan, menganggap semua pendapat sama benarnya tanpa mempertimbangkan, memihak yang paling populer.\n- **Catatan usia:** di Grade 3, cukup jika anak melihat bahwa satu kejadian bisa punya beberapa cerita. Di Grade 4, mulai amati apakah anak menunda penilaiannya dan mengubahnya dengan alasan.\n\n## Jangan lakukan\n\n- Jangan memilih “versi yang benar” untuk anak. Biarkan mereka melihat bahwa masing-masing benar dari tempatnya.\n- Jangan menyebut Lintang “salah” atau “sombong”. Bahas penilaian yang terlalu cepat, bukan kepribadian.\n- Jangan menyamakan semua pendapat sebagai sama benarnya. Untuk Grade 4, bantu anak membedakan fakta dan pengalaman.\n- Jangan memaksa anak menjelaskan perasaannya, terutama yang biasanya jarang didengar.\n- Jangan menunjuk anak yang sering menilai cepat sebagai contoh di depan kelas.\n- Jangan menirukan cara bicara Nara untuk bercanda.\n- Jangan merangkum pelajaran untuk anak (“jadi kita harus mendengarkan...”).\n\n## Kosakata kunci (Indonesia / Inggris)\n\ncerita / story, versi / version, mendengarkan / listen, benar / true, menilai / judge. Tambahan untuk Tahun 2: sudut pandang / point of view, bukti / evidence.\n\n## Untuk sesi kalibrasi guru\n\nBahas bersama:\n\n- Seorang anak berkata “terserah” ketika dua temannya bercerita berbeda. Apakah itu Open-minded? Gunakan tiga pertanyaan penguji di Kartu Nilai.\n- Seorang anak mengubah pendapatnya hanya karena temannya yang lebih banyak berpihak ke sisi lain. Apakah itu Open-minded atau ikut-ikutan?\n- Bagaimana membedakan Open-minded dari Communicators saat anak mendengarkan dengan baik? (Petunjuk: mendengarkan agar bersedia menilai ulang, atau mendengarkan agar pesan sampai benar.)\n- Bagian kartu mana yang sulit dipakai untuk anak usia ini?"
+  },
+  {
    "slug": "nara",
    "title": "Suara Nara",
    "en": "Nara’s Voice",
@@ -266,10 +1198,10 @@
    "fase": 3,
    "pos": "72% 50%",
    "dense": 1,
+   "lang0": "en",
    "status": "Terbit",
    "pages": [
     {
-     "main": "id",
      "id": [
       "Nara baru dua minggu tinggal di kampung Teduh. Sebelumnya ia tinggal jauh di seberang lautan, di kota yang dingin, tempat orang berbicara dalam bahasa lain. Di kampung ini, semuanya terasa baru: bau tanah sehabis hujan, kokok ayam di pagi hari, dan teman-teman yang berbicara terlalu cepat."
      ],
@@ -282,7 +1214,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Kadang kata-kata Nara bercampur seperti adonan kue.",
       "“Kampung ini cozy banget,” katanya pada Sari.",
@@ -295,7 +1226,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Pada hari Senin, Bu Guru meminta setiap anak bercerita tentang tempat favoritnya di kampung. Satu per satu mereka maju ke depan kelas. Lintang bercerita tentang sungai kecil. Bima bercerita tentang lapangan tempat ia bermain bola."
      ],
@@ -308,7 +1238,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Lalu tiba giliran Nara. Jantungnya berdebar.",
       "“Tempat favoritku... the old banyan tree, pohon beringin di belakang sekolah,” katanya pelan.",
@@ -321,7 +1250,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Beberapa anak terkikik. Doni, yang selalu melucu kalau sedang gugup, menirukan dengan suara panjang, “At hoooome!”",
       "Seluruh kelas tertawa. Bima ikut tertawa, keras, sebelum sempat berpikir."
@@ -332,7 +1260,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Lalu ia melihat wajah Nara. Senyum Nara hilang seperti lilin yang ditiup angin.",
       "“Sudah,” bisik Nara.",
@@ -345,7 +1272,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Sepulang sekolah, Bima mampir ke warung Nenek Ratri. Ia tidak membeli apa-apa. Mimi si kucing naik ke pangkuannya.",
       "“Wajahmu seperti kerupuk basah, Bima,” kata Nenek Ratri."
@@ -360,7 +1286,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Bima menceritakan semuanya. Nenek tidak menceramahinya. Ia hanya mengaduk tehnya pelan-pelan dan bertanya, “Waktu kamu tertawa tadi, apa yang kamu tertawakan?” Bima berpikir lama.",
       "“Aku tidak tahu. Aku cuma ikut-ikutan.”",
@@ -375,7 +1300,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "“Hm,” kata Nenek.",
       "“Jadi ada dua hal yang sedang bertengkar di dalam dirimu.” Ia tidak mengatakan hal mana yang harus menang. Ia hanya mengelus kepala Mimi dan berkata, “Kalau besok pagi kamu bisa mengulang satu hal, apa yang akan kamu ulang?”"
@@ -386,7 +1310,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Pagi itu Nara duduk sendirian di bawah pohon beringin. Jantung Bima berdetak seperti kentongan. Dari jauh Doni melambai.",
       "“Bima! Ayo main!” Bima menoleh ke Doni. Lalu ke Nara. Langkah pertama terasa paling berat, tetapi kakinya melangkah juga ke arah pohon beringin."
@@ -401,7 +1324,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "“Nara, kemarin aku ikut tertawa. Itu tidak baik. Maaf.” Nara tidak menjawab.",
       "“Tapi aku suka kata cozy,” lanjut Bima.",
@@ -414,7 +1336,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Lintang datang sambil bertanya, “Cozy itu dieja bagaimana?” Sari duduk tanpa suara di sisi Nara. Doni berdiri jauh, ragu, lalu mendekat.",
       "“Kozi?” katanya.",
@@ -429,7 +1350,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Tidak semua anak bergabung. Dua anak di pojok masih berbisik-bisik. Tetapi di bawah pohon beringin kini ada lima anak yang duduk berdekatan.",
       "“Besok aku mau presentasi lagi,” kata Nara.",
@@ -444,7 +1364,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Kapan berdiri bersama teman terasa sulit, dan mengapa tetap penting?"
      ],
@@ -457,6 +1376,163 @@
    "kg": "# Kartu Guru: Suara Nara\n\n*Fase 3 (Grade 3-4) · Atribut utama: Caring · Pendukung: Open-minded, Risk-taker · Prototipe untuk diuji*\n\n## Sekilas buku\n\nNara, anak baru yang bahasanya bercampur, ditertawakan saat presentasi. Bima ikut tertawa, lalu bergulat antara ingin membela dan takut ditertawakan temannya. Buku ini menunjukkan Caring sebagai tindakan yang berani, bukan sekadar sikap baik hati.\n\n## Momen kunci (tandai bersama anak)\n\n- **Bab 2:** Bima tertawa “sebelum sempat berpikir”. Niatnya tidak jahat, tetapi dampaknya nyata.\n- **Bab 2:** Senyum Nara hilang. Anak diajak melihat dampak sebuah tawa.\n- **Bab 3:** Nenek Ratri bertanya dan tidak menceramahi. Ada “dua hal yang bertengkar” di dalam Bima.\n- **Bab 4:** Bima melangkah ke Nara dan minta maaf. Langkah pertama terasa paling berat.\n- **Bab 4:** Doni menertawakan dirinya sendiri. Perhatikan bedanya dengan tawa di Bab 2.\n- **Akhir:** Dua anak masih berbisik. Peduli tidak selalu membuat semua orang setuju.\n\n## Sebelum membaca (5 menit)\n\n- Ajak anak mengingat: “Kapan kamu pernah jadi orang baru di suatu tempat?” Anak boleh memilih diam dan tidak harus bercerita.\n- Sepakati aturan kelas: tidak ada jawaban salah soal perasaan, dan kita tidak menunjuk teman sebagai contoh.\n\n## Tahun 1 (Grade 3): Pengenalan\n\n**Fokus:** memahami cerita, mengenali perasaan, melihat dampak.\n\n**Pertanyaan 1:** “Apa yang dirasakan Nara saat kelas tertawa?”\n\n- Contoh jawaban anak: “Sedih, malu.”\n- Pertanyaan lanjutan: “Dari mana kamu tahu? Apa yang berubah di wajahnya?”\n\n**Pertanyaan 2:** “Mengapa Bima tertawa?”\n\n- Contoh jawaban anak: “Ikut-ikutan.”\n- Pertanyaan lanjutan: “Apakah ia ingin menyakiti Nara? Apa yang terjadi pada Nara?”\n\n**Pertanyaan 3:** “Apa yang Bima lakukan keesokan paginya?”\n\n- Contoh jawaban anak: “Minta maaf.”\n- Pertanyaan lanjutan: “Apa yang membuat langkah itu sulit?”\n\n**Tugas:** menggambar atau menulis dua perasaan Bima, sebelum dan sesudah ia melangkah ke Nara.\n\n**Bilingual:** guru atau teman membacakan bagian Inggris, anak fokus pada kata kunci.\n\n## Tahun 2 (Grade 4): Pendalaman\n\n**Fokus:** sudut pandang, alasan, hubungan dengan hidup sendiri, tindakan.\n\n**Pertanyaan 1:** “Apa dua hal yang bertengkar di dalam Bima? Mana yang menang, dan apa buktinya di cerita?”\n\n- Contoh jawaban anak: “Takut ditertawakan dan ingin menolong.”\n- Pertanyaan lanjutan: “Pernahkah kamu merasa seperti itu?”\n\n**Pertanyaan 2:** “Kalau cerita ini dituturkan oleh Doni, apa yang ia rasakan?”\n\n- Contoh jawaban anak: “Gugup, takut dianggap tidak lucu.”\n- Pertanyaan lanjutan: “Apa bedanya niat dan dampak?”\n\n**Pertanyaan 3:** “Selain Bima, apa yang bisa dilakukan anak lain yang melihat kejadian itu?”\n\n- Contoh jawaban anak: “Duduk di dekat Nara.”\n- Pertanyaan lanjutan: “Langkah kecil apa yang paling mungkin kamu lakukan minggu ini?”\n\n**Tugas:** menulis surat singkat untuk Nara, atau merencanakan satu tindakan peduli kecil di kelas.\n\n**Bilingual:** anak membaca kedua bahasa sendiri dan membandingkan bagaimana satu kalimat terdengar dalam dua bahasa (misalnya “cozy banget” dan “so cozy”).\n\n## Yang diamati (ringkasan; versi lengkap ada di Kartu Nilai Caring)\n\n- **Terlihat seperti:** mendekati teman yang dikucilkan, menawarkan bantuan tanpa memaksa.\n- **Terdengar seperti:** “Mau aku temani?”, “Maaf, tadi aku tidak baik.”\n- **Bukan Caring:** menolong demi dipuji, patuh tanpa peduli perasaan orang lain, menyenangkan semua orang, mengasihani dari atas.\n\n## Jangan lakukan\n\n- Jangan menyebut Bima atau Doni “jahat”. Arahkan ke niat dan dampak.\n- Jangan merangkum pelajaran untuk anak (“jadi kita harus...”). Biarkan anak merumuskan sendiri.\n- Jangan meminta anak mengaku siapa yang pernah menertawakan teman.\n- Jangan terburu mengisi keheningan. Beri waktu berpikir 5-10 detik.\n- Jangan menirukan logat atau campuran bahasa Nara untuk bercanda.\n\n## Kosakata kunci (Indonesia / Inggris)\n\nnyaman / cozy, tersesat / lost, di rumah / at home, tertawa / laugh, maaf / sorry, berani / brave. Tambahan untuk Tahun 2: niat / intention, dampak / impact.\n\n## Untuk sesi kalibrasi guru\n\nBahas bersama:\n\n- Momen mana yang menurutmu paling menunjukkan Caring, dan mengapa?\n- Apakah tawa Bima di Bab 2 berarti ia tidak peduli? Bagaimana kamu membedakannya?\n- Bagian kartu mana yang sulit dipakai atau membingungkan?"
   },
   {
+   "slug": "panggung",
+   "title": "Panggung Doni",
+   "en": "Doni's Stage",
+   "attr": "Risk-takers",
+   "fase": 3,
+   "pos": "50% 50%",
+   "dense": 1,
+   "lang0": "en",
+   "status": "Terbit",
+   "pages": [
+    {
+     "id": [
+      "Pada hari Senin, Bu Guru mengumumkan Pentas Kelas hari Jumat. “Setiap anak akan menunjukkan sesuatu,” katanya. “Doni, kamu akan bercerita lucu.”",
+      "Seluruh kelas bersorak. Doni tersenyum lebar, tetapi perutnya terasa seperti ada batu kecil di dalamnya."
+     ],
+     "en": [
+      "On Monday, Bu Guru announced the Class Show for Friday. “Every child will show something,” she said. “Doni, you will tell a funny story.”",
+      "The whole class cheered. Doni smiled widely, but his stomach felt as if it had a small stone inside."
+     ],
+     "ch": [
+      "Bab 1 — Pentas Kelas",
+      "The Class Show"
+     ]
+    },
+    {
+     "id": [
+      "“Aku jadi penonton saja,” katanya sambil mengangkat tangan. “Penonton juga penting, kan?”",
+      "Semua tertawa. Bu Guru juga tersenyum. “Giliranmu tetap hari Jumat, Doni.”",
+      "Doni ikut tertawa. Tetapi di dalam, ia tidak merasa lucu sama sekali."
+     ],
+     "en": [
+      "“I’ll just be in the audience,” he said, raising his hand. “The audience is important too, right?”",
+      "Everyone laughed. Bu Guru smiled too. “Your turn is still on Friday, Doni.”",
+      "Doni laughed along. But inside, he did not feel funny at all."
+     ]
+    },
+    {
+     "id": [
+      "Sepulang sekolah, Doni duduk di bawah pohon beringin bersama Sari. Ia mulai bercanda lagi. “Kalau aku pura-pura sakit gigi, Bu Guru percaya tidak, ya?”",
+      "Sari tidak tertawa. Ia menatap Doni dan bertanya pelan, “Kamu takut?”"
+     ],
+     "en": [
+      "After school, Doni sat under the banyan tree with Sari. He started joking again. “If I pretend to have a toothache, do you think Bu Guru will believe me?”",
+      "Sari did not laugh. She looked at Doni and asked softly, “Are you scared?”"
+     ],
+     "ch": [
+      "Bab 2 — Takut yang Tidak Lucu",
+      "Fear That Isn’t Funny"
+     ]
+    },
+    {
+     "id": [
+      "Doni membuka mulut untuk melucu lagi. Tetapi tidak ada lelucon yang keluar.",
+      "“Iya,” katanya akhirnya. “Aku takut tidak ada yang tertawa.”",
+      "Sari tidak berkata, “Kamu pasti berhasil.” Ia hanya bertanya, “Mau latihan di depanku?”"
+     ],
+     "en": [
+      "Doni opened his mouth to make another joke. But no joke came out.",
+      "“Yes,” he finally said. “I’m afraid nobody will laugh.”",
+      "Sari did not say, “You’ll definitely do well.” She only asked, “Do you want to practice in front of me?”"
+     ]
+    },
+    {
+     "id": [
+      "Bima lewat sambil memantulkan bola. “Latihan? Tidak usah! Naik saja, pasti lucu!”",
+      "“Kalau aku lupa ceritanya?” tanya Doni.",
+      "“Ya sudah, tidak usah dipikirkan!” kata Bima sambil berlari pergi.",
+      "Doni menggeleng. “Aku mau siap dulu,” katanya kepada Sari."
+     ],
+     "en": [
+      "Bima passed by, bouncing a ball. “Practice? No need! Just go up there, it’ll be funny!”",
+      "“What if I forget the story?” asked Doni.",
+      "“Then forget it, don’t think about it!” said Bima as he ran off.",
+      "Doni shook his head. “I want to be ready first,” he told Sari."
+     ]
+    },
+    {
+     "id": [
+      "Pada hari Selasa dan Rabu, Doni berlatih di depan Sari. Pertama kali, ia lupa bagian tengah cerita. Kedua kali, ia terburu-buru. Ketiga kali, ia sampai di akhir, walaupun suaranya masih bergetar.",
+      "“Bagian ayam itu lucu,” kata Sari."
+     ],
+     "en": [
+      "On Tuesday and Wednesday, Doni practiced in front of Sari. The first time, he forgot the middle of the story. The second time, he rushed. The third time, he reached the end, even though his voice was still shaking.",
+      "“The chicken part is funny,” said Sari."
+     ],
+     "ch": [
+      "Bab 3 — Latihan dan Rencana Cadangan",
+      "Practice and a Backup Plan"
+     ]
+    },
+    {
+     "id": [
+      "Nara mendengar dari kejauhan dan menghampiri mereka. “Doni,” katanya, “kamu tidak harus perfect. Kamu cuma harus try.”",
+      "Pada hari Rabu sore, Bu Guru berhenti di dekat meja Doni dan bertanya, tanpa menyuruh apa pun, “Doni, kalau kamu lupa saat di atas panggung, apa yang akan kamu lakukan?”"
+     ],
+     "en": [
+      "Nara heard from a distance and came over. “Doni,” she said, “you don’t have to be perfect. You just have to try.”",
+      "On Wednesday afternoon, Bu Guru stopped by Doni’s desk and asked, without telling him what to do, “Doni, if you forget your lines on stage, what will you do?”"
+     ]
+    },
+    {
+     "id": [
+      "Doni terdiam. Ia belum memikirkannya. Malam itu, ia menulis di buku catatannya: *Kalau lupa: tarik napas, tersenyum, lanjut ke bagian ayam.* Ia membacanya tiga kali sampai hafal."
+     ],
+     "en": [
+      "Doni was silent. He had not thought about it. That night, he wrote in his notebook: If I forget: breathe, smile, go on to the chicken part. He read it three times until he knew it by heart."
+     ]
+    },
+    {
+     "id": [
+      "Pada hari Jumat, kaki Doni terasa seperti agar-agar. Ketika namanya dipanggil, ia berdiri, berjalan ke depan, dan memandang seluruh kelas. Jantungnya berdebar sangat keras.",
+      "Ia mulai bercerita tentang seekor ayam yang mengira dirinya burung. Beberapa anak tertawa. Beberapa hanya memandang. Sari duduk di baris depan dan tertawa paling keras."
+     ],
+     "en": [
+      "On Friday, Doni’s legs felt like jelly. When his name was called, he stood up, walked to the front, and looked at the whole class. His heart was pounding hard.",
+      "He began telling a story about a chicken that thought it was a bird. Some children laughed. Some just watched. Sari sat in the front row and laughed the loudest."
+     ],
+     "ch": [
+      "Bab 4 — Di Atas Panggung",
+      "On the Stage"
+     ]
+    },
+    {
+     "id": [
+      "Lalu Doni lupa. Bagian tengah ceritanya hilang dari kepalanya seperti layang-layang yang putus talinya. Ia diam. Satu detik. Dua detik. Tiga detik.",
+      "Ia menarik napas. Ia tersenyum. Ia melanjutkan ke bagian ayam."
+     ],
+     "en": [
+      "Then Doni forgot. The middle of his story slipped out of his head like a kite with a snapped string. He was silent. One second. Two seconds. Three seconds.",
+      "He took a breath. He smiled. He went on to the chicken part."
+     ]
+    },
+    {
+     "id": [
+      "Ceritanya sedikit melompat, tetapi sampai ke akhir. Tidak semua orang tertawa. Namun sebagian besar mendengarkan sampai selesai, dan itu sudah cukup bagi Doni.",
+      "Ketika ia turun dari panggung, lututnya masih gemetar. “Kamu lupa bagian tengah!” bisik Bima.",
+      "“Iya,” kata Doni. “Dan aku tetap sampai akhir.”"
+     ],
+     "en": [
+      "His story jumped a little, but it reached the end. Not everyone laughed. But most people listened all the way through, and that was enough for Doni.",
+      "When he stepped off the stage, his knees were still shaking. “You forgot the middle part!” Bima whispered.",
+      "“Yes,” said Doni. “And I still made it to the end.”"
+     ]
+    },
+    {
+     "id": [
+      "Kapan kamu takut mencoba, tetapi tetap melakukannya?"
+     ],
+     "en": [
+      "When have you been afraid to try something, but did it anyway?"
+     ],
+     "q": 1
+    }
+   ],
+   "kg": "# Kartu Guru: Panggung Doni\n\n*Fase 3 (Grade 3-4) · Atribut utama: Risk-takers · Pendukung: Reflective · Prototipe untuk diuji*\n\n## Sekilas buku\n\nDoni ditunjuk bercerita lucu di Pentas Kelas, tetapi ia takut tidak ada yang tertawa dan mencoba menghindar dengan bercanda. Setelah mengakui rasa takutnya dengan jujur kepada Sari, ia berlatih, menyiapkan rencana cadangan, lalu tetap naik panggung. Ia lupa bagian tengah ceritanya, tetapi menarik napas, tersenyum, dan melanjutkan. Buku ini menunjukkan Risk-takers sebagai keberanian yang disertai persiapan, bukan hilangnya rasa takut.\n\n## Momen kunci (tandai bersama anak)\n\n- **Bab 1:** Doni berkata, “Aku jadi penonton saja,” untuk menghindar dengan bercanda.\n- **Bab 2:** Doni mengaku, “Aku takut tidak ada yang tertawa,” tanpa melucu. Bima berkata, “Tidak usah latihan, naik saja,” dan Doni memilih bersiap.\n- **Bab 3:** Doni berlatih tiga kali. Bu Guru bertanya, “Kalau kamu lupa, apa yang akan kamu lakukan?” Doni menulis rencana cadangan: tarik napas, tersenyum, lanjut.\n- **Bab 4:** Doni lupa, diam tiga detik, lalu menjalankan rencananya. Ia berkata, “Dan aku tetap sampai akhir.”\n\n## Sebelum membaca (5 menit)\n\n- Tanyakan secara umum: “Pernahkah kamu merasa gugup sebelum tampil atau mencoba sesuatu?” Anak boleh tidak menjawab.\n- Sepakati aturan kelas: kita menghargai usaha, dan tidak menertawakan teman yang lupa atau salah.\n\n## Tahun 1 (Grade 3): Pengenalan\n\n**Durasi:** dua sesi sekitar 20-30 menit (Bab 1-2 dan Bab 3-4).\n\n**Fokus:** mengenali rasa takut dan cara menghindarinya, melihat persiapan dan rencana cadangan, memahami bahwa berani tidak sama dengan sempurna.\n\n**Pertanyaan 1:** “Mengapa Doni berkata ‘Aku jadi penonton saja’? Apa yang sebenarnya ia rasakan?”\n\n- Contoh jawaban anak: “Dia takut.”\n- Pertanyaan lanjutan: “Apa yang berubah ketika ia berkata jujur kepada Sari?”\n\n**Pertanyaan 2:** “Apa saja yang Doni siapkan sebelum naik panggung?”\n\n- Contoh jawaban anak: “Latihan, dan rencana kalau lupa.”\n- Pertanyaan lanjutan: “Mengapa itu membuatnya lebih berani?”\n\n**Pertanyaan 3:** “Apa yang terjadi saat Doni lupa? Apa yang ia lakukan?”\n\n- Contoh jawaban anak: “Napas, senyum, lanjut.”\n- Pertanyaan lanjutan: “Apakah penampilannya harus sempurna supaya disebut berani?”\n\n**Tugas:**\n\n- Menulis “rencana cadangan” untuk satu hal yang membuatmu gugup (misalnya membaca di depan kelas), dalam tiga langkah.\n- Latihan berpasangan: tampil satu menit di depan satu teman. Teman hanya boleh memberi komentar yang membantu.\n\n**Bilingual:** guru membacakan kalimat Indonesia lalu Inggris. Anak mencocokkan kata kunci (*afraid, practice, plan, try*).\n\n## Tahun 2 (Grade 4): Pendalaman\n\n**Durasi:** dua atau tiga sesi sekitar 30 menit, ditambah tugas mandiri.\n\n**Fokus:** menimbang risiko dan manfaat, membedakan berani dan nekat, merefleksikan hasil yang tidak sempurna.\n\n**Pertanyaan 1:** “Bima berkata ‘tidak usah latihan, naik saja’. Apa bedanya dengan cara Doni? Mengapa Doni disebut berani padahal ia takut?”\n\n- Contoh jawaban anak: “Doni bersiap, Bima nekat.”\n- Pertanyaan lanjutan: “Apa bedanya berani dan nekat?”\n\n**Pertanyaan 2:** “Apa yang Doni pertaruhkan di atas panggung? Apa yang ia dapatkan?”\n\n- Contoh jawaban anak: “Dia mungkin ditertawakan. Dia dapat pengalaman.”\n- Pertanyaan lanjutan: “Bagaimana kamu menimbang untung dan ruginya sebelum mencoba?”\n\n**Pertanyaan 3:** “Kapan kamu takut mencoba tetapi tetap melakukannya? Apa persiapanmu?”\n\n- Contoh jawaban anak: “Aku pernah ikut lomba mewarnai walau takut kalah.”\n- Pertanyaan lanjutan: “Apa yang kamu pelajari dari hasilnya?”\n\n**Tugas:**\n\n- Membuat daftar “Risiko, manfaat, persiapan, rencana cadangan” untuk satu hal baru yang ingin dicoba.\n- Menulis jurnal singkat setelah mencoba: “Apa yang berhasil, apa yang tidak, apa yang akan kucoba lagi.”\n\n**Bilingual:** anak membaca kedua bahasa dan membandingkan kata “berani”, “nekat”, *brave*, dan *reckless*. Kosakata tambahan: risiko / *risk*, rencana cadangan / *backup plan*, bersiap / *prepare*.\n\n## Yang diamati (ringkasan; versi lengkap ada di Kartu Nilai Risk-takers)\n\n- **Terlihat seperti:** berlatih lebih dulu, menyiapkan rencana cadangan, mengakui rasa takut dengan jujur, tetap mencoba di depan orang lain, belajar dari hasilnya.\n- **Terdengar seperti:** “Aku takut, tapi aku sudah siap.”, “Kalau lupa, aku punya rencana cadangan.”, “Itu tidak berhasil, aku coba cara lain.”\n- **Bukan Risk-takers:** mengambil risiko hanya karena ditantang atau demi dipuji, menghindari mencoba dengan terus melucu, menyalahkan keadaan setelah gagal, berani tetapi membahayakan orang lain.\n- **Catatan usia:** di Grade 3, cukup jika anak melihat bahwa takut itu boleh dan persiapan membantu. Di Grade 4, mulai amati apakah anak menimbang risiko dan menyiapkan rencana cadangan.\n\n## Jangan lakukan\n\n- Jangan memaksa anak tampil atau mencoba. Beri pilihan dan tahap bertahap.\n- Jangan menyebut anak “penakut”. Rasa takut adalah hal wajar.\n- Jangan memuji hanya hasil yang sempurna. Fokus pada persiapan dan keberanian mencoba.\n- Jangan menilai penampilan anak dengan nilai. Nilai prosesnya.\n- Jangan menyamakan berani dengan tidak takut.\n- Jangan menyuruh anak melucu atau meminta anak mengaku ketakutannya di depan kelas.\n- Jangan menyebut Bima “salah”. Bahas perbedaan nekat dan bersiap.\n- Jangan menantang anak secara fisik atau mendorong risiko berbahaya.\n- Jangan merangkum pelajaran untuk anak (“jadi kita harus berani”).\n\n## Kosakata kunci (Indonesia / Inggris)\n\ntakut / afraid, berlatih / practice, rencana / plan, mencoba / try. Tambahan untuk Tahun 2: risiko / risk, rencana cadangan / backup plan, bersiap / prepare.\n\n## Untuk sesi kalibrasi guru\n\nBahas bersama:\n\n- Seorang anak naik ke panggung hanya karena ditantang temannya. Apakah itu Risk-takers? Gunakan tiga pertanyaan penguji di Kartu Nilai.\n- Seorang anak selalu melucu ketika diminta tampil. Apa yang kita amati, dan bagaimana menanggapinya tanpa mempermalukan?\n- Seorang anak gagal lalu menyalahkan mikrofon. Apakah itu Risk-takers?\n- Seorang anak tidak mau mencoba lagi setelah gagal sekali. Apa langkah selanjutnya?\n- Bagian kartu mana yang sulit dipakai untuk anak usia ini?"
+  },
+  {
    "slug": "air",
    "title": "Air untuk Kampung",
    "en": "Water for the Kampung",
@@ -464,10 +1540,10 @@
    "fase": 4,
    "pos": "80% 50%",
    "dense": 2,
+   "lang0": "en",
    "status": "Terbit",
    "pages": [
     {
-     "main": "id",
      "id": [
       "Pagi itu Lintang berangkat sekolah lebih awal. Biasanya ia melewati jembatan bambu di atas sungai kecil dan melihat air jernih dengan batu-batu berlumut di dasarnya. Hari itu airnya berwarna cokelat susu, dan baunya seperti tanah basah yang terlalu lama dibiarkan."
      ],
@@ -480,7 +1556,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "“Sudah tiga minggu begini,” kata Nenek Ratri dari warungnya. Ia menunjukkan seember air yang didiamkannya semalam. Di dasar ember, lumpur halus menumpuk setebal jari.",
       "“Air sungai Nenek endapkan dulu, baru direbus.”"
@@ -491,7 +1566,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Di depan sumur umum, antrean ember sudah panjang. Sari, yang selalu memperhatikan hal-hal kecil, melihat bahwa kebanyakan yang antre adalah orang-orang tua. Kakek Darma, yang bahunya sudah membungkuk, mengangkat ember setengah penuh dengan dua tangan. Ia berhenti dua kali sebelum sampai di rumahnya."
      ],
@@ -500,7 +1574,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Di sekolah, Lintang tidak bisa berhenti memikirkannya. Saat istirahat, ia menceritakan semuanya kepada Bima, Sari, Doni, dan Nara di bawah pohon beringin.",
       "“Kita harus membantu!” kata Bima langsung, sambil berdiri.",
@@ -516,7 +1589,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Sore itu, Lintang membuka buku tulis baru dan menuliskan satu pertanyaan di bagian atas halaman pertama: Apa yang sebenarnya dibutuhkan warga?",
       "“Air dulu, pertanyaan nanti,” gumam Bima. Namun, ia tetap duduk. Nara punya ide.",
@@ -534,7 +1606,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Mereka membagi gang-gang kampung menjadi lima wilayah, masing-masing untuk satu anak. Bu Guru setuju untuk mendampingi mereka pada hari Sabtu. Sari mencatat cerita warga karena ia pandai menangkap hal-hal yang tidak diucapkan secara langsung."
      ],
@@ -543,7 +1614,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Menjelang malam, buku catatan itu sudah penuh. Beberapa keluarga di hulu masih mendapatkan air sungai yang lebih jernih. Keluarga lain yang tinggal dekat tikungan sungai hanya mendapatkan air berlumpur. Dua keluarga harus berjalan ke kampung sebelah untuk membeli air bersih.",
       "Pendapat warga tentang penyebabnya pun berbeda-beda.",
@@ -560,7 +1630,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Kemudian, mereka mengunjungi Kakek Darma. Bima yakin Kakek Darma akan berterima kasih atas idenya mengantarkan air. Namun, Kakek Darma justru menegakkan tubuh di kursinya.",
       "“Aku tidak perlu orang lain membawakan air untukku,” katanya.",
@@ -575,7 +1644,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Pada hari Sabtu, anak-anak menyusuri sungai ke arah hulu bersama Bu Guru dan Kakek Darma yang berjalan dengan tongkatnya. Lintang membawa peta sederhana buatan Sari, Nara membawa botol-botol bening untuk mengambil contoh air, dan Doni, yang paling gugup, membawa bekal untuk semua orang.",
       "“Kalau aku tidak bisa membantu hal lain,” katanya, “setidaknya perut kita tidak lapar.”"
@@ -590,7 +1658,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Di titik pertama, air sungai masih terlihat jernih. Di titik kedua, setelah tikungan, air mulai kecokelatan. Di titik ketiga, mereka menemukan sebagian penyebabnya: tumpukan sampah plastik dan ranting yang terbawa hujan menyumbat aliran sungai. Air yang tertahan meluap ke tepi sungai, mengikis tanah, lalu membawa lumpur kembali ke aliran air."
      ],
@@ -599,7 +1666,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Tidak jauh dari sana, mereka juga menemukan saluran bambu tua yang biasa mengalirkan air sungai ke tempat-tempat penggunaan air warga. Beberapa bambu sudah rusak, sementara bagian lainnya tersumbat lumpur dan sampah.",
       "“Jadi bukan satu penyebab,” kata Lintang pelan.",
@@ -616,7 +1682,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Di sekolah, Bu Guru membantu mereka membuat penyaring sederhana dari botol plastik: kerikil di bagian bawah, pasir di tengah, arang di atas. Air keruh yang dituang perlahan keluar lebih bening.",
       "“Berhasil!” teriak Bima."
@@ -627,7 +1692,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "“Jernih bukan berarti aman diminum,” kata Bu Guru sambil mengangkat satu jari.",
       "“Penyaring ini hanya menahan lumpur. Kuman tidak kelihatan. Air minum tetap harus direbus, dan kualitas air sumur harus diperiksa oleh petugas yang berwenang.”",
@@ -640,7 +1704,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "“Aku punya ide,” kata Doni. Kali ini, ia tidak bercanda.",
       "“Sekolah mengadakan lomba Pahlawan Kampung. Pemenangnya mendapat uang untuk proyek masyarakat. Kalau kita membuat video tentang kegiatan kita, mungkin kita bisa menang. Lalu kita bisa benar-benar memperbaiki masalah air ini.”",
@@ -663,7 +1726,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Tidak ada yang langsung menjawab.",
       "“Untuk lomba,” kata Doni.",
@@ -688,7 +1750,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Tidak ada yang tertawa. Nara yang pertama berbicara.",
       "“Bagaimana kalau video itu bukan untuk lomba? Bagaimana kalau kita menjadikannya undangan? Kita bisa mengajak seluruh warga kampung untuk ikut kerja bakti.” Doni mengangkat wajah.",
@@ -707,7 +1768,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Pada hari Minggu pagi, tepi sungai dekat tikungan penuh dengan warga. Lebih dari tiga puluh orang datang membawa cangkul, ember, karung, dan peralatan kerja. Video Doni, yang lucu dan jujur, sudah ditonton hampir seisi kampung.",
       "Sebagian warga mulai mengumpulkan sampah plastik dan ranting yang menyumbat aliran sungai. Sebagian lainnya membersihkan lumpur yang menumpuk di sekitar saluran bambu."
@@ -722,7 +1782,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Kakek Darma duduk di kursi yang teduh, tidak jauh dari saluran. Dari sana ia memberi arahan seperti seorang mandor.",
       "“Bambu lama harus diganti. Sambungannya harus rapat supaya air tidak bocor.”"
@@ -733,7 +1792,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Anak-anak tidak memimpin semuanya. Tugas mereka lebih kecil, dan justru penting. Lintang mencatat siapa mengerjakan apa agar tidak ada pekerjaan yang bertumpuk. Sari memastikan Kakek Darma dan orang-orang tua lainnya punya tempat duduk yang teduh dan air minum yang aman. Nara menerjemahkan petunjuk penyaring dari sebuah video tutorial berbahasa Inggris ke bahasa yang dimengerti semua orang. Bima membantu para bapak memindahkan karung pasir."
      ],
@@ -742,7 +1800,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Dan Doni tersandung saat mencoba membawa karung yang terlalu berat. Karungnya robek, dan pasir halus berhamburan ke tanah seperti salju cokelat. Ia terdiam sesaat. Lalu, pelan-pelan, ia tertawa,    dan    kali   ini   tawanya     tidak menyembunyikan apa-apa.",
       "“Salahku! Anggap saja ini uji coba pertama!”",
@@ -754,7 +1811,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Sementara warga memperbaiki saluran bambu, anak-anak mencoba menyaring air keruh yang mereka ambil dari sungai.",
       "Penyaring pertama tidak bekerja dengan baik. Pasirnya terlalu halus dan terlalu padat, sehingga air hampir tidak mengalir dan meluap dari sisi.",
@@ -767,7 +1823,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Menjelang sore, tumpukan sampah di tikungan sungai sudah jauh berkurang. Saluran bambu yang rusak telah diganti. Semua orang tersenyum melihat hasil kerja bersama itu.",
       "Seorang petugas dari puskesmas yang diundang Bu Guru datang untuk mengambil contoh air sungai dan air dari saluran yang telah diperbaiki.",
@@ -782,7 +1837,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Tiga minggu kemudian, air sungai belum sepenuhnya jernih, tetapi batu-batu di dasarnya sudah terlihat lagi. Saluran bambu yang telah diperbaiki mengalirkan air sungai ke tempat-tempat pengambilan air warga.Kini Kakek Darma membawa embernya sendiri, ember kecil, dengan wajah bangga.",
       "Namun, pekerjaan mereka belum selesai. Hasil pemeriksaan petugas kesehatan menunjukkan bahwa air sungai masih belum aman diminum tanpa pengolahan yang tepat. Sampah plastik mulai menumpuk lagi di tikungan sungai. Dan keluarga di ujung gang masih mendapatkan air berlumpur."
@@ -797,7 +1851,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Pada Jumat sore, kelima sahabat berkumpul mengelilingi meja kayu di tempat yang tenang dengan pemandangan pegunungan. Sebuah buku catatan baru terbuka di atas meja.",
       "Di bagian atas halaman, Lintang menulis tiga pertanyaan: Apa yang berhasil? Apa yang belum berhasil? Siapa yang kita lupakan?",
@@ -815,7 +1868,6 @@
      ]
     },
     {
-     "main": "id",
      "id": [
       "Bima, yang beberapa minggu lalu paling dulu berseru, “Kita harus membantu!”, menulis perlahan: Lain kali, aku akan bertanya apa yang warga butuhkan sebelum memutuskan apa yang akan kubawa. Nenek Ratri meletakkan nampan berisi teh.",
       "“Nenek mau tanya satu hal,” katanya.",
@@ -831,9 +1883,430 @@
     }
    ],
    "kg": "# Kartu Guru: Air untuk Kampung\n\n*Fase 4 (Grade 5-6) · Atribut utama: Caring · Pendukung: Inquirer, Thinker, Reflective · Prototipe untuk diuji*\n\n## Sekilas buku\n\nSungai kampung menjadi keruh dan orang-orang tua kesulitan mendapat air bersih. Anak-anak bertanya dulu sebelum bertindak, menyelidiki penyebabnya, hampir terjebak membuat aksi demi citra, lalu bekerja bersama warga dalam kerja bakti. Di akhir cerita masalah belum sepenuhnya selesai, dan mereka bertanya pada diri sendiri siapa yang masih terlupakan. Buku ini menunjukkan Caring sebagai proses bertanya, bertindak bersama, dan merefleksikan, bukan sekadar niat baik.\n\nBuku ini dapat dikaitkan dengan tema transdisiplin *Sharing the Planet*.\n\n## Momen kunci (tandai bersama anak)\n\n- **Bab 1:** Bima berseru “Kita harus membantu!”, lalu pertanyaan Nenek Ratri “Membantu apa, persisnya?” membuatnya sadar ia belum tahu.\n- **Bab 2:** Anak-anak bertanya dulu kepada warga. Kakek Darma menolak dikasihani (“OLD, NOT HELPLESS”).\n- **Bab 3:** Penyebabnya banyak, bukan satu. Penyaring hanya menjernihkan, belum membuat air aman diminum.\n- **Bab 4:** Sari bertanya “Video itu untuk siapa?” dan Doni mengaku takut gagal.\n- **Bab 5:** Warga memimpin kerja bakti. Peran anak-anak kecil tetapi penting. Penyaring pertama gagal, lalu diperbaiki.\n- **Bab 6:** Refleksi: apa yang berhasil, apa yang tidak, siapa yang terlupakan. Pertanyaan Nenek Ratri dibiarkan terbuka.\n\n## Sebelum membaca (5 menit)\n\n- Tanyakan secara umum: “Pernahkah kamu melihat seseorang dibantu dengan cara yang justru tidak cocok baginya?” Anak boleh tidak menjawab.\n- Waspadai kemungkinan ada anak yang keluarganya sendiri menghadapi masalah air atau ekonomi. Jangan menunjuk atau membuat anak merasa menjadi “contoh masalah”. Bingkai cerita sebagai warga yang bekerja bersama, bukan kasihan.\n\n## Tahun 1 (Grade 5): Pengenalan\n\n**Durasi:** dua sesi 30-40 menit (Bab 1-3 dan Bab 4-6).\n\n**Fokus:** memahami urutan bertanya sebelum bertindak, membedakan niat baik dan bantuan yang tepat, mengenali sudut pandang orang lain.\n\n**Pertanyaan 1:** “Mengapa Nenek Ratri bertanya 'Membantu apa, persisnya?' Apa yang terjadi pada Bima?”\n\n- Contoh jawaban anak: “Bima belum tahu apa yang dibutuhkan.”\n- Pertanyaan lanjutan: “Kapan kamu pernah bertindak dulu sebelum tahu apa yang sebenarnya dibutuhkan?”\n\n**Pertanyaan 2:** “Apa arti 'OLD, NOT HELPLESS'? Bagaimana Kakek Darma ingin dibantu?”\n\n- Contoh jawaban anak: “Dia mau memperbaiki saluran, bukan diberi air.”\n- Pertanyaan lanjutan: “Apa bedanya membantu seseorang dan melakukan sesuatu untuk orang itu?”\n\n**Pertanyaan 3:** “Apa saja penyebab air keruh? Mengapa Sari berkata 'tidak ada orang jahat di sini'?”\n\n- Contoh jawaban anak: “Hujan, sampah, saluran tidak dirawat.”\n- Pertanyaan lanjutan: “Siapa yang bertanggung jawab? Apakah hanya satu orang?”\n\n**Tugas:**\n\n- Membuat peta tiga kolom: siapa yang terdampak, apa yang mereka butuhkan, dan bagaimana kita bisa bertanya kepada mereka.\n- Menulis lima pertanyaan yang akan kamu ajukan kepada warga sebelum menawarkan bantuan.\n\n**Bilingual:** anak membaca bab bahasa Inggris sendiri dan memakai ringkasan Indonesia untuk memeriksa pemahamannya. Mereka mencatat sepuluh kosakata dari bab Inggris (misalnya *need, channel, filter, sample, contest, invitation, reflect*).\n\n## Tahun 2 (Grade 6): Pendalaman\n\n**Durasi:** tiga atau empat sesi, ditambah proyek peduli kecil yang berjalan beberapa minggu.\n\n**Fokus:** menganalisis niat, tujuan, dan dampak; merencanakan aksi kecil bersama orang yang dibantu; merefleksikan secara jujur, termasuk siapa yang terlupakan.\n\n**Pertanyaan 1:** “Di Bab 4, Sari bertanya 'Video itu untuk siapa?' Mengapa pertanyaan itu penting? Apa bedanya niat, tujuan, dan dampak?”\n\n- Contoh jawaban anak: “Untuk lomba atau untuk kampung. Itu berbeda.”\n- Pertanyaan lanjutan: “Kapan aksi yang baik bisa berubah menjadi mencari citra? Bagaimana kita memeriksanya?”\n\n**Pertanyaan 2:** “Mengapa kerja bakti dipimpin warga, bukan anak-anak? Apa peran anak-anak di sana?”\n\n- Contoh jawaban anak: “Supaya warga merasa itu milik mereka.”\n- Pertanyaan lanjutan: “Peran mana yang paling kamu hargai? Mengapa peran kecil bisa penting?”\n\n**Pertanyaan 3:** “Jawab pertanyaan Nenek Ratri: kesuksesan siapa ini? Siapa yang masih terlupakan, dan bagaimana kamu bisa tahu?”\n\n- Contoh jawaban anak: “Keluarga di ujung gang.”\n- Pertanyaan lanjutan: “Bagaimana kita memastikan tidak melupakan orang yang tidak bersuara?”\n\n**Tugas:**\n\n- Merancang proyek peduli kecil di sekolah atau sekitarnya, mengikuti siklus bertanya, menyelidiki, merencanakan, bertindak, dan merefleksikan. Orang yang akan dibantu dilibatkan sejak awal.\n- Menulis jurnal refleksi tiga pertanyaan: Apa yang berhasil? Apa yang tidak? Siapa yang kami lupakan?\n- Melakukan “uji niat”: untuk siapa aksi ini, dan apa yang akan berubah bagi mereka?\n\n**Bilingual:** anak membaca semua bab dan menulis jurnal refleksi dalam dua bahasa (satu kalimat tiap bahasa). Mereka mendiskusikan mengapa kata tertentu terasa berbeda, misalnya “membantu” dan *help*, atau “kasihan” dan *pity*.\n\n## Catatan keselamatan dan ketepatan\n\n- Penyaring pasir, kerikil, dan arang hanya menjernihkan air dari lumpur. Air hasil saringan **tidak aman diminum**. Tegaskan ini setiap kali ada percobaan di kelas, dan jangan pernah mengizinkan anak meminum air hasil percobaan.\n- Pengambilan contoh air dari sungai atau sumur nyata harus dengan izin sekolah dan orang tua, didampingi orang dewasa, dan mengikuti prosedur keselamatan sekolah.\n- Bila memungkinkan, libatkan guru sains atau petugas kesehatan untuk memeriksa ketepatan aktivitas.\n\n## Yang diamati (ringkasan; versi lengkap ada di Kartu Nilai Caring)\n\n- **Terlihat seperti:** bertanya dulu apa yang dibutuhkan orang lain, merencanakan bersama orang yang dibantu, bertindak lebih dari sekali, mengevaluasi hasil, mengakui keterbatasan.\n- **Terdengar seperti:** “Apa yang sebenarnya mereka butuhkan?”, “Apakah bantuan kita benar-benar membantu?”, “Siapa lagi yang perlu dilibatkan?”\n- **Bukan Caring:** aksi satu kali demi foto atau citra, membantu tanpa bertanya, menganggap penerima bantuan tidak berdaya, mengambil alih keputusan orang lain.\n- **Catatan usia:** di Grade 5, cukup jika anak bertanya sebelum bertindak dan mulai memahami sudut pandang orang lain. Di Grade 6, mulai amati apakah anak merencanakan bersama orang yang dibantu dan mengevaluasi dampak, termasuk siapa yang terlupakan.\n\n## Jangan lakukan\n\n- Jangan menjadikan proyek peduli sebagai kegiatan bagi-bagi bantuan atau sesi foto.\n- Jangan membawa anak ke lokasi nyata yang bermasalah (sungai, sumur) tanpa izin, pendampingan, dan prosedur keselamatan.\n- Jangan membingkai penerima bantuan sebagai orang yang kasihan atau tidak berdaya. Gunakan bingkai bekerja bersama.\n- Jangan menilai proyek hanya dari hasil yang terlihat. Nilai proses bertanya dan merefleksikan, termasuk kegagalannya.\n- Jangan menyebut Doni “cari perhatian”. Bahas niat, tujuan, dan ketakutannya.\n- Jangan merangkum pelajaran untuk anak. Biarkan pertanyaan Nenek Ratri tetap terbuka.\n- Jangan menunjuk anak yang keluarganya mungkin mengalami masalah serupa. Beri pilihan untuk berbagi atau tidak.\n\n## Kosakata kunci (Indonesia / Inggris)\n\nbertanya / ask, kebutuhan / need, penyebab / cause, saluran / channel, penyaring / filter, contoh air / sample, undangan / invitation, merefleksikan / reflect, tanggung jawab / responsibility. Tambahan untuk Tahun 2: niat / intention, dampak / impact, melibatkan / involve.\n\n## Untuk sesi kalibrasi guru\n\nBahas bersama:\n\n- Sebuah kelas mengumpulkan donasi dan memotret anak-anak berpose bersama barang bantuan. Apakah itu Caring? Gunakan tiga pertanyaan penguji dan daftar “bukan Caring” di Kartu Nilai.\n- Seorang anak menawarkan membawa air ke rumah Kakek Darma tanpa bertanya. Bagaimana guru menanggapinya tanpa mematahkan semangatnya?\n- Bagaimana kita menilai refleksi anak tanpa memberi nilai berdasarkan hasil proyek yang terlihat?\n- Bagian kartu mana yang sulit dipakai untuk anak usia ini?"
+  },
+  {
+   "slug": "kebiasaan",
+   "title": "Kebiasaan Lama, Ide Baru",
+   "en": "Old Ways, New Ideas",
+   "attr": "Open-minded",
+   "fase": 4,
+   "pos": "50% 50%",
+   "dense": 1,
+   "lang0": "bi",
+   "status": "Terbit",
+   "pages": [
+    {
+     "id": [
+      "Setiap bulan purnama, warga kampung berkumpul di bawah pohon beringin. Mereka membawa tikar, teh hangat, dan anak-anak yang sudah mengantuk. Nenek Ratri duduk di kursi kecil di tengah, tanpa buku dan tanpa catatan. Ia hanya memakai suara dan kedua tangannya.",
+      "Malam itu ia menceritakan kisah tentang seorang raja yang takut pada bayangannya sendiri. Ia berbisik di bagian yang menegangkan dan tertawa di bagian yang lucu. Anak-anak kecil di barisan depan membuka mulut lebar-lebar. Di barisan belakang, para orang tua mengangguk-angguk seperti sudah hafal."
+     ],
+     "en": [],
+     "ch": [
+      "Bab 1 — Malam Bercerita",
+      ""
+     ]
+    },
+    {
+     "id": [
+      "Nara duduk di samping Sari dengan alat perekam kecil milik ayahnya di pangkuan. Sudah dua tahun ia tinggal di kampung ini, dan Malam Bercerita adalah bagian yang paling ia sukai. Tetapi malam itu ada sesuatu yang membuat dadanya terasa berat.",
+      "“Bagaimana kalau suatu hari Nenek Ratri tidak bisa bercerita lagi?” bisiknya pada Sari. “Cerita-cerita ini hanya ada di kepalanya.”",
+      "Sari tidak menjawab. Tetapi ia juga tidak menganggap pertanyaan itu bodoh."
+     ],
+     "en": []
+    },
+    {
+     "id": [
+      "Keesokan harinya, Nara membawa idenya ke bawah pohon beringin: merekam semua cerita Nenek Ratri dan menuliskannya dalam dua bahasa, supaya tidak hilang dan bisa dibaca anak-anak lain."
+     ],
+     "en": [
+      "**Short summary:** Every full moon, the kampung gathers under the banyan tree to hear Nenek Ratri tell stories without any book. Nara loves these evenings, but worries the stories could disappear someday. She decides to propose recording them and writing them down in two languages."
+     ]
+    },
+    {
+     "id": [],
+     "en": [
+      "Nara presented her idea at the next community gathering in the school hall. She had made a small poster with a drawing of the banyan tree and a microphone.",
+      "“If we record the stories and write them in Indonesian and English,” she said, “they will never be lost. And children who cannot come on full-moon nights can still read them.”"
+     ],
+     "ch": [
+      "Chapter 2 — Nara’s Idea",
+      ""
+     ]
+    },
+    {
+     "id": [],
+     "en": [
+      "Pak RT nodded warmly. Several parents smiled. Bu Guru said the school could help with printing.",
+      "But Kakek Darma, sitting at the back, did not smile. “A story that is written down stops breathing,” he said slowly. “It stays the same. A told story changes every time, like water taking the shape of a new cup.”"
+     ]
+    },
+    {
+     "id": [],
+     "en": [
+      "Bima jumped to his feet before anyone else could speak. “Tradition shouldn’t be changed! We should protect the stories exactly the way they are!” His voice was louder than he meant it to be.",
+      "“But the stories will be lost if we do nothing!” said Nara, just as loudly."
+     ]
+    },
+    {
+     "id": [],
+     "en": [
+      "For a moment it felt like two kites pulling on the same string. Doni raised a hand. “Should I tell a joke? You both look like angry roosters.” A few people laughed, but the tension stayed.",
+      "Lintang had his notebook open. He felt the old urge to decide who was right and write it down. Then he remembered Kite Day, and the sentence he had once written under his own words. He stood up."
+     ]
+    },
+    {
+     "id": [
+      "**Ringkasan singkat:** Nara mengusulkan merekam dan menulis cerita Nenek Ratri dalam dua bahasa. Kakek Darma khawatir cerita yang ditulis berhenti hidup, dan Bima membela tradisi dengan keras. Lintang bertanya, “Siapa yang belum kita dengar?”"
+     ],
+     "en": [
+      "“Before we decide anything,” he said, “who haven’t we heard yet?”"
+     ]
+    },
+    {
+     "id": [
+      "Pada hari Sabtu, Lintang menyiapkan lingkaran mendengar di halaman sekolah. Ia mengundang bukan hanya orang-orang yang biasa berbicara di rapat. Ia mengundang anak-anak kecil, orang tua yang jarang datang, dan keluarga dari ujung gang, yang rumahnya paling jauh dari pohon beringin.",
+      "Aturannya sederhana: setiap orang berbicara sampai selesai, dan tidak ada yang boleh memotong. Sari duduk di dekat Lintang dengan buku catatan. Ia mencatat bukan hanya kata-kata, tetapi juga bagian yang diucapkan dengan pelan. Doni membawa teko teh dan membuat suasana tidak tegang."
+     ],
+     "en": [],
+     "ch": [
+      "Bab 3 — Lingkaran Mendengar",
+      ""
+     ]
+    },
+    {
+     "id": [
+      "Seorang anak kelas satu berkata, “Aku suka suara Nenek Ratri. Tapi aku selalu tidur sebelum ceritanya selesai.”",
+      "Ibu dari keluarga di ujung gang berbicara pelan. “Kami jarang datang. Jalannya gelap dan jauh. Anak kami ingin sekali mendengar ceritanya, tetapi kami tidak bisa membawanya setiap bulan.”"
+     ],
+     "en": []
+    },
+    {
+     "id": [
+      "Kakek Darma menjelaskan dengan sabar. “Waktu Nenek Ratri bercerita, ceritanya mengikuti siapa yang datang. Kalau banyak anak kecil, ceritanya lebih lucu. Kalau ada yang sedang sedih, ceritanya lebih lembut. Kalau ditulis, ia menjadi satu versi saja dan lupa pada pendengarnya.”",
+      "Nara mendengarkan tanpa membela diri. Untuk pertama kalinya, ia sadar bahwa ia sudah menyiapkan jawaban sebelum Kakek Darma selesai berbicara, lalu ia menyingkirkan jawaban itu."
+     ],
+     "en": []
+    },
+    {
+     "id": [
+      "Bima duduk diam. Ia memandang ibu dari ujung gang dan anak kelas satu itu. Ia sadar bahwa ia sudah membela tradisi dengan keras tanpa pernah bertanya kepada orang-orang yang jarang mengalaminya."
+     ],
+     "en": [
+      "**Short summary:** Lintang organizes a listening circle with people who are rarely heard: small children, a family from the end of the lane, and Kakek Darma. Nara realizes she had been preparing an answer instead of listening, and Bima realizes he had never asked those who rarely get to hear the stories."
+     ]
+    },
+    {
+     "id": [],
+     "en": [
+      "That evening, Bima walked to Nenek Ratri’s warung. He did not know what he wanted to say. He sat on the wooden bench and watched Mimi clean her paws.",
+      "“You look like you swallowed a stone,” said Nenek Ratri, pouring tea.",
+      "“I shouted at Nara,” said Bima. “I said tradition should never change. But I never asked anyone if that was true.”"
+     ],
+     "ch": [
+      "Chapter 4 — Bima Asks",
+      ""
+     ]
+    },
+    {
+     "id": [],
+     "en": [
+      "Nenek Ratri did not say whether he was right or wrong. She only waited.",
+      "“Nenek,” Bima said at last, “is your story always the same?”",
+      "“Tell me what you remember,” said Nenek Ratri.",
+      "Bima thought. He remembered the king who feared his shadow. Last year, a cat had followed the king everywhere. This year, there had been a small bird. Both versions had made him laugh."
+     ]
+    },
+    {
+     "id": [],
+     "en": [
+      "“No,” he said. “It’s never the same.”",
+      "“My grandmother told me these stories,” said Nenek Ratri. “And I’m sure she changed them a little. So did her grandmother before her.” She sipped her tea. “So what do you want to protect, Bima? The words, or the evenings?”",
+      "Bima was silent for a long time. Then he stood up and ran back to the school, where Nara was still sitting alone with her recorder."
+     ]
+    },
+    {
+     "id": [
+      "**Ringkasan singkat:** Bima bertanya kepada Nenek Ratri apakah ceritanya selalu sama, dan menyadari bahwa cerita itu berubah setiap kali dituturkan. Ia dan Nara sama-sama menyadari bahwa yang mereka bela berbeda dari yang sebenarnya penting."
+     ],
+     "en": [
+      "“I was defending the wrong thing,” he said, out of breath. “I thought I was protecting the stories. But what I love is the telling.”",
+      "Nara looked at him. “And I was trying to save the wrong thing,” she said slowly. “I wanted to save the words. Maybe what needs saving is the evenings, and the people who can’t be there.”"
+     ]
+    },
+    {
+     "id": [
+      "Nara mengubah usulannya. Ia dan Bima menuliskannya bersama, lalu membacakannya di rapat berikutnya.",
+      "“Kami tidak lagi mengusulkan untuk menggantikan Malam Bercerita,” kata Nara. “Malam Bercerita tetap dituturkan seperti biasa. Kalau Nenek Ratri setuju, kami hanya merekamnya. Setiap rekaman diberi tanggal dan disebut ‘versi bulan ini’. Tidak ada versi resmi.”"
+     ],
+     "en": [],
+     "ch": [
+      "Bab 5 — Satu Percobaan",
+      ""
+     ]
+    },
+    {
+     "id": [
+      "“Dan rekamannya bisa diputar di rumah-rumah yang jauh,” tambah Bima, “seperti rumah di ujung gang.”",
+      "Lintang menambahkan satu hal. “Kita mencoba satu bulan saja. Setelah itu, kita mendengar lagi.”",
+      "Pak RT setuju. Bu Guru setuju. Beberapa orang tua masih ragu. Seorang ibu berkata, “Aku tetap lebih suka mendengar langsung.” Anak-anak menjawab, “Itu juga boleh. Malam Bercerita tidak berubah.”"
+     ],
+     "en": []
+    },
+    {
+     "id": [
+      "Kakek Darma terdiam lama. “Satu bulan,” katanya akhirnya. “Bukan karena aku sudah yakin. Tetapi karena kalian sudah mendengarkan.”",
+      "Nenek Ratri hanya mengangguk. “Aku akan bercerita seperti biasa,” katanya, “dan aku tidak akan menghafal supaya ceritanya sama.”"
+     ],
+     "en": []
+    },
+    {
+     "id": [
+      "Pada malam purnama berikutnya, alat perekam kecil diletakkan di atas tikar dekat Nenek Ratri. Kakek Darma duduk di barisan depan dengan tangan terlipat. Ia menunggu."
+     ],
+     "en": [
+      "**Short summary:** Nara and Bima change the proposal. Malam Bercerita stays as it is, recordings are labeled as that month’s version, and the plan is tried for one month. Kakek Darma agrees to try it, not because he is convinced, but because the children listened."
+     ]
+    },
+    {
+     "id": [],
+     "en": [
+      "One month later, the kampung gathered under the banyan tree again, and the first thing they did was listen to each other.",
+      "The results were mixed. During the first two weeks, the little recorder made some people feel stiff, and Nenek Ratri admitted she had told the story more carefully than she liked. But in the last two weeks, people forgot it was there."
+     ],
+     "ch": [
+      "Chapter 6 — What We Learned",
+      ""
+     ]
+    },
+    {
+     "id": [],
+     "en": [
+      "The family at the end of the lane had played the recordings at home. And their little girl, who could not come on full-moon nights, told the story back to her mother the next day, with one difference: in her version, the king’s shadow was a dog.",
+      "“A dog!” laughed Nenek Ratri. “I have never told it with a dog.”",
+      "Kakek Darma, who had been listening quietly, laughed too, the deep, surprised laugh of someone caught off guard. “That version is still breathing,” he admitted."
+     ]
+    },
+    {
+     "id": [],
+     "en": [
+      "But when Nara brought up the written bilingual book again, he shook his head. “Not yet. Maybe never. I still disagree with you, Nara. But I understand your reason.”",
+      "Nara nodded. She did not argue. “I understand yours too,” she said. “We’ll keep the recordings, and we’ll talk again.”",
+      "Nenek Ratri set a tray of tea in front of the five of them. “I’ll ask only one question,” she said. “Whose opinion changed, and what changed it?”"
+     ]
+    },
+    {
+     "id": [
+      "**Ringkasan singkat:** Setelah sebulan, rekaman dipakai juga oleh keluarga di ujung gang, dan seorang anak menceritakan versi baru dengan seekor anjing. Kakek Darma tetap tidak setuju dengan buku tertulis, tetapi memahami alasan Nara. Pertanyaan Nenek Ratri dijawab anak-anak dengan cara yang berbeda-beda."
+     ],
+     "en": [
+      "They wrote in their notebook. Bima wrote: *Mine. A question I never asked.* Nara wrote: *Mine. Kakek Darma’s reason.* Sari wrote: *Not changed. But I understand more.* Doni wrote: *I still think everyone looks like roosters when they argue.* Lintang looked at his page for a long time. Then he wrote: *Mine, a little. I still want to hear more.*"
+     ]
+    },
+    {
+     "id": [
+      "Apa pendapatmu yang pernah berubah karena kamu mendengar orang lain?"
+     ],
+     "en": [
+      "What opinion of yours has changed because you listened to someone else?"
+     ],
+     "q": 1
+    }
+   ],
+   "kg": "# Kartu Guru: Kebiasaan Lama, Ide Baru\n\n*Fase 4 (Grade 5-6) · Atribut utama: Open-minded · Pendukung: Inquirers, Reflective · Prototipe untuk diuji*\n\n## Sekilas buku\n\nNara mengusulkan merekam dan menulis cerita Malam Bercerita Nenek Ratri dalam dua bahasa. Kakek Darma khawatir cerita yang ditulis berhenti hidup, dan Bima membela tradisi dengan keras. Lintang mengadakan lingkaran mendengar bagi orang-orang yang jarang didengar, dan Nara serta Bima mengubah pendirian mereka karena alasan, bukan karena tekanan. Hasil akhirnya hanya satu percobaan yang dilanjutkan, dan Kakek Darma tetap berbeda pendapat tetapi memahami alasan Nara. Buku ini menunjukkan Open-minded sebagai kesediaan mencari sudut pandang, menguji pendapat sendiri, dan menghormati perbedaan yang tetap ada.\n\n## Momen kunci (tandai bersama anak)\n\n- **Bab 2:** Bima dan Nara berdebat dengan keras. Lintang bertanya, “Siapa yang belum kita dengar?”\n- **Bab 3:** Lingkaran mendengar. Nara sadar bahwa ia sudah menyiapkan jawaban sebelum Kakek Darma selesai bicara, dan Bima sadar ia tidak pernah bertanya kepada yang jarang mengalaminya.\n- **Bab 4:** Bima bertanya kepada Nenek Ratri apakah ceritanya selalu sama, lalu menyadari bahwa yang ia sukai adalah “bercerita”, bukan kata-katanya.\n- **Bab 5:** Nara dan Bima mengubah usulan. Kakek Darma setuju mencoba “karena kalian sudah mendengarkan”, bukan karena yakin.\n- **Bab 6:** Kakek Darma berkata, “Aku masih tidak setuju, tapi aku paham alasanmu.” Nenek Ratri bertanya, “Pendapat siapa yang berubah, dan apa yang mengubahnya?”\n\n## Sebelum membaca (5 menit)\n\n- Tanyakan secara umum: “Pernahkah kamu berdebat dengan teman dan kemudian mengubah pendapatmu?” Anak boleh tidak menjawab.\n- Tradisi dalam buku ini fiktif. Jangan meminta anak menilai tradisi keluarga, budaya, atau agama temannya benar atau salah.\n\n## Tahun 1 (Grade 5): Pengenalan\n\n**Durasi:** dua sesi 30-40 menit (Bab 1-3 dan Bab 4-6).\n\n**Fokus:** memahami dua pendapat beserta alasannya, mengenali siapa yang belum didengar, mengidentifikasi perubahan pendapat.\n\n**Pertanyaan 1:** “Apa alasan Nara dan apa alasan Kakek Darma? Apa yang ingin dilindungi masing-masing?”\n\n- Contoh jawaban anak: “Nara ingin ceritanya tidak hilang. Kakek ingin ceritanya tetap hidup.”\n- Pertanyaan lanjutan: “Apakah salah satunya salah?”\n\n**Pertanyaan 2:** “Mengapa Lintang bertanya ‘Siapa yang belum kita dengar?’ Siapa saja yang ia undang?”\n\n- Contoh jawaban anak: “Anak kecil, orang yang jarang datang, keluarga di ujung gang.”\n- Pertanyaan lanjutan: “Siapa yang mungkin belum kita dengar di kelas atau sekolah kita?”\n\n**Pertanyaan 3:** “Apa yang berubah pada Bima setelah bertanya kepada Nenek Ratri?”\n\n- Contoh jawaban anak: “Dia sadar yang dia sukai itu bercerita.”\n- Pertanyaan lanjutan: “Apa yang mengubah pendapatnya: tekanan atau alasan?”\n\n**Tugas:**\n\n- Membuat peta dua pendapat: alasan masing-masing, apa yang ingin dilindungi, dan siapa yang belum didengar.\n- Lingkaran mendengar mini di kelas dengan satu isu kecil (misalnya aturan kelas). Aturannya: bicara sampai selesai dan tidak memotong.\n\n**Bilingual:** anak membaca bab bahasa Inggris sendiri dan memakai ringkasan Indonesia untuk memeriksa pemahamannya. Kosakata dari bab Inggris dicatat bersama.\n\n## Tahun 2 (Grade 6): Pendalaman\n\n**Durasi:** tiga atau empat sesi, ditambah perencanaan percobaan kecil.\n\n**Fokus:** menguji pendapat sendiri, membedakan berubah karena alasan dan karena tekanan, menghormati yang tetap berbeda, merancang percobaan.\n\n**Pertanyaan 1:** “Nara mengubah usulannya. Kakek Darma tidak mengubah pendapatnya, tetapi berkata ‘aku paham alasanmu’. Apakah keduanya Open-minded? Mengapa?”\n\n- Contoh jawaban anak: “Ya, mereka sama-sama mendengarkan.”\n- Pertanyaan lanjutan: “Apakah harus berubah pendapat untuk disebut Open-minded?”\n\n**Pertanyaan 2:** “Bima membela tradisi dengan keras, lalu berubah. Apa bedanya ikut-ikutan dan berubah karena alasan?”\n\n- Contoh jawaban anak: “Bima berubah setelah dia bertanya dan berpikir.”\n- Pertanyaan lanjutan: “Bagaimana kamu tahu pendapatmu berubah karena alasan, bukan karena takut atau ingin disukai?”\n\n**Pertanyaan 3:** “Apa pendapatmu yang pernah berubah karena mendengar orang lain? Apa yang mengubahnya?”\n\n- Contoh jawaban anak: “Aku dulu mengira temanku sombong, tapi ternyata dia pemalu.”\n- Pertanyaan lanjutan: “Adakah pendapatmu yang tidak berubah, tetapi kamu sekarang lebih paham alasan orang lain?”\n\n**Tugas:**\n\n- Merancang “percobaan satu bulan” untuk satu isu nyata di sekolah (bersama guru), lengkap dengan kriteria evaluasi dan siapa yang akan didengar.\n- Menulis jurnal singkat: “Pendapatku, alasanku, siapa yang belum kudengar, dan apa yang bisa membuatku salah.”\n\n**Bilingual:** anak menulis refleksi dalam dua bahasa dan membandingkan kata “tradisi” dan *tradition*, “versi” dan *version*, serta “mempertimbangkan ulang” dan *reconsider*.\n\n## Yang diamati (ringkasan; versi lengkap ada di Kartu Nilai Open-minded)\n\n- **Terlihat seperti:** mencari sumber atau orang yang berbeda dari dirinya, menanyakan siapa yang belum didengar, mengubah pendapat karena alasan yang kuat, menghormati orang yang berbeda tanpa harus setuju.\n- **Terdengar seperti:** “Siapa yang belum kita dengar?”, “Apa yang bisa membuatku salah?”, “Aku masih berbeda pendapat, tapi aku paham alasanmu.”\n- **Bukan Open-minded:** berdebat untuk menang, menganggap tradisi lama pasti salah atau ide baru pasti benar, ikut mayoritas tanpa berpikir, hanya menerima orang yang sudah mirip dengan dirinya.\n- **Catatan usia:** di Grade 5, cukup jika anak mencari tahu alasan pihak lain dan menanyakan siapa yang belum didengar. Di Grade 6, mulai amati apakah anak menguji pendapatnya, mengubahnya dengan alasan, dan menghormati yang tetap berbeda.\n\n## Jangan lakukan\n\n- Jangan menjadikan tradisi atau ide baru sebagai pihak yang benar.\n- Jangan meminta anak menilai tradisi keluarga, budaya, atau agama teman sebagai benar atau salah.\n- Jangan memaksa anak yang pendiam untuk “didengar” di depan kelas. Beri pilihan menulis atau berbicara berpasangan.\n- Jangan menyebut Bima “plin-plan” atau Nara “keras kepala”.\n- Jangan memaksa anak mengubah pendapat, dan jangan menganggap kesepakatan cepat sebagai tanda keberhasilan.\n- Jangan mengadakan lingkaran mendengar tentang konflik pribadi anak tertentu tanpa persiapan.\n- Jangan merekam suara atau gambar anak tanpa izin sekolah dan keluarga. Jaga privasi.\n- Jangan merangkum pelajaran untuk anak. Biarkan pertanyaan Nenek Ratri tetap terbuka.\n\n## Kosakata kunci (Indonesia / Inggris)\n\ntradisi / tradition, pendapat / opinion, alasan / reason, versi / version, mendengarkan / listen. Tambahan untuk Tahun 2: mempertimbangkan ulang / reconsider, sudut pandang / point of view, bukti / evidence, setuju dan tidak setuju / agree and disagree.\n\n## Untuk sesi kalibrasi guru\n\nBahas bersama:\n\n- Seorang anak mengubah pendapatnya setelah semua temannya berpihak ke satu sisi. Apakah itu Open-minded atau ikut mayoritas? Bagaimana kita membedakannya?\n- Seorang anak berkata, “Aku paham alasanmu, tapi aku tetap tidak setuju.” Apakah itu Open-minded?\n- Sebuah kelompok menyepakati sesuatu dengan cepat tanpa menanyakan pendapat anak yang pendiam. Apa yang kita amati?\n- Bagaimana kita menilai Open-minded tanpa menganggap anak yang cepat berubah pendapat lebih terbuka?\n- Bagian kartu mana yang sulit dipakai untuk anak usia ini?"
+  },
+  {
+   "slug": "kebun",
+   "title": "Kebun yang Belum Tentu Tumbuh",
+   "en": "A Garden That Might Not Grow",
+   "attr": "Risk-takers",
+   "fase": 4,
+   "pos": "50% 50%",
+   "dense": 1,
+   "lang0": "bi",
+   "status": "Terbit",
+   "pages": [
+    {
+     "id": [
+      "Di samping sekolah ada lahan kosong yang penuh batu dan rumput kering. Setiap hari Doni melewatinya, dan setiap hari ia berpikir hal yang sama: *Seandainya di sini ada kebun.*",
+      "Pada hari Senin, ia mengangkat tangan di kelas. “Bu Guru, bagaimana kalau kita menanam sayur di lahan itu untuk makan siang bersama?”",
+      "Beberapa anak bersorak. Bu Guru tersenyum, lalu bertanya, “Apa yang bisa salah, Doni?”"
+     ],
+     "en": [],
+     "ch": [
+      "Bab 1 — Lahan Berbatu",
+      ""
+     ]
+    },
+    {
+     "id": [
+      "Doni terdiam. Dulu, pertanyaan seperti itu akan membuatnya bercanda lalu mundur. Sekarang ia menarik napas. “Tanahnya berbatu dan keras,” katanya. “Mungkin sayurnya tidak tumbuh. Mungkin kita rugi benih.”",
+      "“Lalu?” tanya Bu Guru.",
+      "“Lalu kita siapkan rencana kalau gagal.”"
+     ],
+     "en": []
+    },
+    {
+     "id": [
+      "Bima langsung berdiri. “Tanam semuanya sekaligus! Satu lahan penuh!”",
+      "Lintang membuka bukunya. “Kita hitung dulu semuanya. Berapa benih, berapa air, berapa hari.”",
+      "Doni menggeleng pelan. “Aku mau kita mencoba, tapi kecil dulu.”"
+     ],
+     "en": [
+      "**Short summary:** Doni proposes turning the rocky vacant lot beside the school into a vegetable garden. When Bu Guru asks what could go wrong, he names the risks honestly and suggests starting small, while Bima wants to plant everything at once and Lintang wants to calculate everything first."
+     ]
+    },
+    {
+     "id": [],
+     "en": [
+      "The five of them sat under the banyan tree with a big sheet of paper. At the top, Doni wrote: What is the worst that could happen?",
+      "They listed it honestly. The soil might be too hard. There might not be enough water. The rain might wash the seeds away. Nobody might want to eat what grew.",
+      "“So what is Plan A?” asked Nara."
+     ],
+     "ch": [
+      "Chapter 2 — Plan A, Plan B",
+      ""
+     ]
+    },
+    {
+     "id": [],
+     "en": [
+      "“Three small beds,” said Doni. “Three kinds of soil. If one grows, we learn something. If none grows, we have not lost the whole lot.”",
+      "“And Plan B?” asked Sari.",
+      "“Pots along the school wall. If the beds fail, we grow in pots.”"
+     ]
+    },
+    {
+     "id": [],
+     "en": [
+      "Bima crossed his arms. “That’s so slow. Why not plant everything?”",
+      "“Because the seeds were donated,” said Doni. “If we waste them all, we waste other people’s gifts.”",
+      "They also needed permission. The vacant lot belonged to Ibu Lestari, who lived across the road. Doni’s voice shook when he explained the plan. She listened carefully."
+     ]
+    },
+    {
+     "id": [
+      "**Ringkasan singkat:** Kelima anak menuliskan hal terburuk yang bisa terjadi, lalu menyusun rencana A (tiga petak kecil dengan tanah berbeda) dan rencana B (pot di tembok sekolah). Doni meminta izin kepada Ibu Lestari, pemilik lahan, dan berjanji membersihkan petak bila gagal."
+     ],
+     "en": [
+      "“And if it does not grow?” she asked.",
+      "“We will clear the beds ourselves,” said Doni.",
+      "Ibu Lestari nodded slowly. “Then you may try.”"
+     ]
+    },
+    {
+     "id": [
+      "Pada hari Sabtu, mereka menggali tiga petak kecil di sudut lahan. Petak pertama diisi tanah apa adanya. Petak kedua dicampur pasir. Petak ketiga dicampur daun lapuk dan sisa dapur yang sudah membusuk dari warung Nenek Ratri.",
+      "Nara membaca petunjuk di bungkus benih yang tertulis dalam bahasa Inggris dan menerjemahkannya. “Bayam: tanam dangkal, siram setiap pagi.”"
+     ],
+     "en": [],
+     "ch": [
+      "Bab 3 — Tiga Petak",
+      ""
+     ]
+    },
+    {
+     "id": [
+      "Sari membuat jadwal menyiram. Lintang mencatat tanggal dan kondisi tiap petak. Bima menggali terlalu dalam, lalu Doni mengingatkannya dengan pelan. Bima tertawa dan memperbaikinya.",
+      "Pada hari ketiga, petak ketiga mulai menghijau. Pada hari kelima, petak kedua juga. Tetapi petak pertama tetap gundul.",
+      "Pada hari kedelapan, beberapa kecambah muncul di petak pertama, kecil, pucat, dan kekuningan. Doni memandanginya lama sekali. Ia ingin percaya bahwa kecambah itu akan baik-baik saja."
+     ],
+     "en": [
+      "**Short summary:** The children dig three small beds with different soil: plain, mixed with sand, and mixed with compost from Nenek Ratri’s warung. Beds two and three begin to turn green, but the first bed stays bare, and the few pale sprouts that appear look weak."
+     ]
+    },
+    {
+     "id": [],
+     "en": [
+      "By the twelfth day, the seedlings in the first bed had turned brown and fallen over.",
+      "Doni stared at them for a long time. His stomach felt like it had at the Class Show, heavy as a small stone. An old thought crept in: Nobody has looked at this bed yet. I could replant it tonight. I could pull out the sign. Nobody would ever know.",
+      "He stood there until the sun began to set. Then he took out his notebook and wrote: Bed 1 failed."
+     ],
+     "ch": [
+      "Chapter 4 — The Failure",
+      ""
+     ]
+    },
+    {
+     "id": [],
+     "en": [
+      "The next morning, Ibu Lestari came to see the garden, and the five of them stood in front of her. “Bed 1 did not grow,” Doni said. “Beds 2 and 3 are growing a little. I think the soil was too hard, and we gave it no compost.”",
+      "Someone sighed. Someone frowned. Bima looked at his shoes."
+     ]
+    },
+    {
+     "id": [
+      "**Ringkasan singkat:** Petak pertama gagal. Doni sempat ingin menyembunyikannya dengan menanam ulang diam-diam, tetapi memilih mengumumkannya kepada Ibu Lestari dan teman-temannya, lengkap dengan dugaan penyebabnya. Ibu Lestari menanggapinya dengan tenang."
+     ],
+     "en": [
+      "Ibu Lestari spoke first. “I have seen many gardens fail quietly,” she said. “It is rare to see one fail out loud. Now all of us can learn from it.”",
+      "Doni’s face grew warm, but his shoulders felt lighter."
+     ]
+    },
+    {
+     "id": [
+      "Mereka bertanya kepada Kakek Darma, yang sudah puluhan tahun mengolah tanah. Ia menunjukkan cara membuat kompos dari sisa dapur dan daun kering, dan tertawa membaca catatan Lintang. “Anak muda, tanah itu seperti perut. Kalau kosong, tidak ada yang tumbuh.”",
+      "Mereka membuat kompos selama dua minggu. Petak pertama digali ulang dan dicampur kompos. Mereka juga membuat petak keempat untuk membandingkan."
+     ],
+     "en": [],
+     "ch": [
+      "Bab 5 — Percobaan Kedua",
+      ""
+     ]
+    },
+    {
+     "id": [
+      "Bima ingin mempercepat dengan menyiram terlalu banyak, dan air membanjiri benih di petak keempat. Doni tidak marah. Ia hanya berkata, “Itu satu hal lagi yang kita tahu.” Lintang mencatatnya.",
+      "Sementara itu, Rencana B berjalan. Pot-pot berisi bayam berjajar di sepanjang tembok sekolah, dan semuanya tumbuh lumayan baik.",
+      "Bu Guru berhenti melihat pot-pot itu. Ia tidak berkata bagus atau jelek. Ia hanya bertanya, “Apa yang akan kamu ubah sebelum menanam lagi?”"
+     ],
+     "en": [
+      "**Short summary:** The children ask Kakek Darma, who teaches them to make compost. Bed one is dug up again and mixed with compost. A fourth bed is flooded when Bima waters too much, but Doni calmly treats it as one more thing they now know. Plan B, the pots along the wall, grows well."
+     ]
+    },
+    {
+     "id": [],
+     "en": [
+      "After six weeks, the garden was not what Doni had dreamed of. It was not enough to feed the whole school. But three beds and a row of pots gave a harvest: enough bayam to cook one big pot of soup, which they shared at lunch with the first graders.",
+      "Not everyone liked it. Bima said it tasted “like a lawn.” Doni laughed. Then Bima asked for a second bowl."
+     ],
+     "ch": [
+      "Chapter 6 — What We Learned",
+      ""
+     ]
+    },
+    {
+     "id": [],
+     "en": [
+      "That afternoon, the five of them wrote in their notebook: What worked? What did not? What will we try again?",
+      "Lintang wrote: Compost worked. We should measure how much we use. Nara wrote: Labels in two languages helped other classes join. Sari wrote: The pots by the wall were easier to water. Bima wrote: I should not water so much."
+     ]
+    },
+    {
+     "id": [
+      "**Ringkasan singkat:** Setelah enam minggu, kebun belum cukup untuk seluruh sekolah, tetapi hasil bayamnya cukup untuk satu panci sup yang dibagikan saat makan siang. Anak-anak menulis apa yang berhasil dan apa yang tidak, dan Doni menulis bahwa ia ingin tetap mencoba walau bisa gagal lagi."
+     ],
+     "en": [
+      "Doni wrote last. Bed 1 failed. I was afraid people would laugh at me. Nobody laughed. I learned that the soil needed food. Next season: a bigger bed, with compost from the start. It may fail again. I want to try anyway.",
+      "Bu Guru read it and handed the notebook back without a word."
+     ]
+    },
+    {
+     "id": [
+      "Apa idemu yang belum tentu berhasil, tetapi layak dicoba?"
+     ],
+     "en": [
+      "What is your idea that might not work, but is worth trying?"
+     ],
+     "q": 1
+    }
+   ],
+   "kg": "# Kartu Guru: Kebun yang Belum Tentu Tumbuh\n\n*Fase 4 (Grade 5-6) · Atribut utama: Risk-takers · Pendukung: Reflective, Inquirers · Prototipe untuk diuji*\n\n## Sekilas buku\n\nDoni mengusulkan mengubah lahan kosong berbatu di samping sekolah menjadi kebun sayur. Anak-anak menuliskan hal terburuk yang bisa terjadi, menyusun rencana A (tiga petak kecil) dan rencana B (pot di tembok sekolah), dan meminta izin pemilik lahan. Petak pertama gagal. Doni sempat ingin menyembunyikannya, tetapi memilih mengumumkannya dan belajar darinya. Setelah enam minggu, hasilnya belum cukup untuk seluruh sekolah, dan Doni menulis bahwa ia mungkin gagal lagi tetapi tetap ingin mencoba. Buku ini menunjukkan Risk-takers sebagai keberanian yang disertai rencana, persetujuan, dan kesediaan belajar dari kegagalan.\n\n## Momen kunci (tandai bersama anak)\n\n- **Bab 1:** Bu Guru bertanya “Apa yang bisa salah?” Doni menyebut risikonya dan mengusulkan mulai kecil. Bima ingin menanam semuanya, dan Lintang ingin menghitung semuanya lebih dulu.\n- **Bab 2:** Rencana A dan B, serta izin dari Ibu Lestari karena risiko ini juga melibatkan pemilik lahan dan benih sumbangan.\n- **Bab 4:** Petak pertama gagal. Doni tergoda menyembunyikannya, lalu mengumumkannya dengan dugaan penyebabnya.\n- **Bab 5:** Bima menyiram terlalu banyak dan Doni berkata, “Itu satu hal lagi yang kita tahu.” Bu Guru bertanya, “Apa yang akan kamu ubah?”\n- **Bab 6:** Hasil belum penuh. Doni menulis, “Mungkin gagal lagi. Aku tetap ingin mencoba.”\n\n## Sebelum membaca (5 menit)\n\n- Tanyakan secara umum: “Pernahkah kamu mencoba sesuatu yang belum pasti berhasil?” Anak boleh tidak menjawab.\n- Sepakati aturan kelas: kegagalan boleh dibagikan secara sukarela, dan kita tidak menertawakan teman yang gagal.\n\n## Tahun 1 (Grade 5): Pengenalan\n\n**Durasi:** dua sesi 30-40 menit (Bab 1-3 dan Bab 4-6).\n\n**Fokus:** memahami rencana A dan B, mulai dari skala kecil, membedakan berani dan nekat, melihat cara Doni menanggapi kegagalan.\n\n**Pertanyaan 1:** “Mengapa Doni mulai dari tiga petak kecil, bukan seluruh lahan?”\n\n- Contoh jawaban anak: “Supaya tidak rugi semua.”\n- Pertanyaan lanjutan: “Apa bedanya dengan usul Bima? Mana yang berani, mana yang nekat?”\n\n**Pertanyaan 2:** “Apa rencana A dan rencana B? Mengapa penting punya keduanya?”\n\n- Contoh jawaban anak: “A itu tiga petak, B itu pot. Kalau A gagal, masih ada B.”\n- Pertanyaan lanjutan: “Kapan kamu perlu rencana cadangan?”\n\n**Pertanyaan 3:** “Apa yang Doni lakukan ketika petak pertama gagal? Apa yang ia rasakan?”\n\n- Contoh jawaban anak: “Dia ingin menyembunyikannya, tapi dia memilih mengumumkannya.”\n- Pertanyaan lanjutan: “Apa yang terjadi setelah itu?”\n\n**Tugas:**\n\n- Membuat daftar “Apa yang terburuk bisa terjadi?” untuk satu ide kecil, lalu menulis rencana A dan B.\n- Proyek kecil di kelas: menanam benih di pot kecil (dengan izin dan kebijakan sekolah) dan mencatat perkembangannya.\n\n**Bilingual:** anak membaca bab bahasa Inggris sendiri dan memakai ringkasan Indonesia untuk memeriksa pemahamannya. Kosakata dari bab Inggris dicatat bersama (*risk, plan, failure, harvest*).\n\n## Tahun 2 (Grade 6): Pendalaman\n\n**Durasi:** tiga atau empat sesi, ditambah proyek kecil yang berjalan beberapa minggu.\n\n**Fokus:** mengelola risiko bersama orang lain, meminta persetujuan, mengakui kegagalan secara terbuka, mencoba lagi dengan pelajaran baru.\n\n**Pertanyaan 1:** “Mengapa Doni meminta izin Ibu Lestari dan berjanji membersihkan petak bila gagal? Siapa saja yang ikut menanggung risiko?”\n\n- Contoh jawaban anak: “Lahannya milik Ibu Lestari, dan benihnya sumbangan.”\n- Pertanyaan lanjutan: “Kapan risiko yang kita ambil juga ditanggung orang lain? Apa yang harus kita lakukan?”\n\n**Pertanyaan 2:** “Doni hampir menyembunyikan kegagalan. Apa untung dan ruginya menyembunyikan dibandingkan mengumumkan?”\n\n- Contoh jawaban anak: “Kalau diumumkan, orang lain bisa membantu dan kita belajar.”\n- Pertanyaan lanjutan: “Bagaimana Ibu Lestari menanggapinya, dan apa dampaknya pada proyek?”\n\n**Pertanyaan 3:** “Doni menulis ‘Mungkin gagal lagi, aku tetap ingin mencoba.’ Apa idemu yang belum tentu berhasil tetapi layak dicoba? Apa rencana A dan B-mu?”\n\n- Contoh jawaban anak: “Aku mau membuat klub membaca. Kalau tidak ada yang datang, aku buat di perpustakaan.”\n- Pertanyaan lanjutan: “Apa yang akan kamu lakukan jika rencana A dan B-mu gagal?”\n\n**Tugas:**\n\n- Merancang proyek kecil sekolah dengan daftar risiko, manfaat, persiapan, rencana A dan B, tanda gagal dan berhasil, serta izin yang diperlukan.\n- Menulis jurnal setelah mencoba: “Apa yang berhasil? Apa yang tidak? Apa yang akan kucoba lagi?”\n- “Pojok pelajaran dari gagal”: anak yang mau membagikan satu kegagalan kecil dan pelajarannya (sukarela).\n\n**Bilingual:** anak menulis refleksi dalam dua bahasa dan membandingkan kata “gagal”, *failure*, “belajar”, dan *learn*.\n\n## Catatan keselamatan dan kebersihan\n\n- Kegiatan berkebun memakai alat yang aman, sarung tangan, dan cuci tangan setelahnya.\n- Hasil tanaman hanya dimakan setelah dicuci dan sesuai kebijakan sekolah serta memperhatikan alergi.\n- Gunakan lahan hanya dengan izin pemilik dan sekolah. Jangan menggali lahan nyata tanpa persetujuan.\n\n## Yang diamati (ringkasan; versi lengkap ada di Kartu Nilai Risk-takers)\n\n- **Terlihat seperti:** menyusun rencana A dan B, mencoba dalam skala kecil dulu, meminta persetujuan orang yang ikut menanggung risiko, mengakui kegagalan secara terbuka, mencoba lagi dengan pelajaran baru.\n- **Terdengar seperti:** “Apa yang terburuk bisa terjadi, dan apa rencana kita?”, “Kita coba kecil dulu.”, “Kegagalan ini mengajarkan apa?”\n- **Bukan Risk-takers:** nekat tanpa rencana, mengambil risiko yang ditanggung orang lain tanpa persetujuan mereka, takut gagal sampai tidak pernah mencoba, menyembunyikan kegagalan.\n- **Catatan usia:** di Grade 5, cukup jika anak membuat rencana A dan B dan mulai dari skala kecil. Di Grade 6, mulai amati apakah anak meminta persetujuan, mengakui kegagalan secara terbuka, dan mencoba lagi dengan pelajaran.\n\n## Jangan lakukan\n\n- Jangan menilai proyek dari hasil panen atau keberhasilannya. Nilai prosesnya: rencana, pembelajaran, dan keberanian mencoba.\n- Jangan menghukum atau mempermalukan kegagalan.\n- Jangan memaksa anak mengaku atau membagikan kegagalannya di depan umum. Berikan pilihan.\n- Jangan menjadikan Bima contoh yang buruk. Bahas perbedaan nekat dan bersiap.\n- Jangan membiarkan anak mengambil risiko yang ditanggung orang lain (uang, lahan, barang keluarga) tanpa persetujuan.\n- Jangan menggunakan uang atau benda milik keluarga anak untuk proyek tanpa persetujuan.\n- Jangan merangkum pelajaran untuk anak (“jadi kita harus berani gagal”).\n\n## Kosakata kunci (Indonesia / Inggris)\n\nrisiko / risk, rencana / plan, gagal / failure, panen / harvest, belajar / learn. Tambahan untuk Tahun 2: persetujuan / consent, rencana cadangan / backup plan, merefleksikan / reflect.\n\n## Untuk sesi kalibrasi guru\n\nBahas bersama:\n\n- Sebuah kelompok menggali seluruh halaman sekolah untuk kebun tanpa izin karena ingin cepat berhasil. Apakah itu Risk-takers? Gunakan tiga pertanyaan penguji di Kartu Nilai.\n- Seorang anak menyembunyikan kegagalan proyeknya agar tidak diejek. Bagaimana menanggapinya tanpa mempermalukan?\n- Seorang anak tidak mau mencoba proyek apa pun karena takut gagal. Apa yang kita amati, dan apa langkah kecil berikutnya?\n- Bagaimana kita menilai proyek yang gagal tanpa menghukum keberanian mencoba?\n- Bagian kartu mana yang sulit dipakai untuk anak usia ini?"
   }
  ],
  "kn": {
-  "Caring": "# Kartu Nilai: Caring\n\n*Acuan bersama untuk guru · Fase 1-4 (EY1-Grade 6) · Prototipe untuk diuji dan dikalibrasi*\n\n## Cara memakai kartu ini\n\nKartu ini menyamakan **apa yang kita lihat dan dengar** ketika anak menunjukkan Caring, bukan menyamakan definisinya saja. Kata “peduli” mudah dibaca berbeda oleh tiap orang, sedangkan perilaku yang bisa diamati lebih mudah disepakati. Pakai kartu ini sebagai acuan saat membaca buku bersama anak, saat mengamati perilaku di kelas, dan saat sesi kalibrasi guru.\n\n## Makna Caring dalam seri ini\n\nCaring berarti anak memperhatikan perasaan dan kebutuhan orang lain, menunjukkan empati dan rasa hormat, lalu **bertindak** untuk memberi dampak baik bagi orang lain dan lingkungannya. Perasaan saja belum cukup. Perhatian yang tidak pernah menjadi tindakan masih berada di tahap awal.\n\n## Tiga pertanyaan penguji (berlaku untuk semua fase)\n\n- Apakah anak memperhatikan perasaan atau kebutuhan orang lain, bukan hanya dirinya sendiri?\n- Apakah ada tindakan, sesuai kemampuan usianya, dan bukan hanya perasaan di dalam hati?\n- Apakah ia melakukannya bukan demi pujian, hadiah, atau menghindari hukuman?\n\nKalau ketiganya “ya”, itu Caring. Kalau salah satunya “tidak”, bicarakan bersama anak dengan rasa ingin tahu, bukan dengan penilaian.\n\n## Fase 1 (EY1-EY2): Mengenali\n\n**Kedalaman:** anak mulai merasakan bahwa orang lain (dan hewan) punya perasaan. Caring masih spontan, dan itu wajar.\n\n- **Terlihat seperti:** mendekati teman atau hewan yang sedih, memeluk, menemani, mengelus, menawarkan mainan.\n- **Terdengar seperti:** “Kamu sedih?”, “Aku di sini.”, “Mau ini?”\n- **Bukan Caring:** memeluk karena disuruh lalu langsung pergi, menjawab “iya” supaya dipuji, merebut mainan dengan alasan “membantu”, memaksakan bantuan.\n- **Contoh dari buku:** *Pelukan untuk Mimi*, saat Sari duduk dan memeluk Mimi yang ketakutan.\n\n## Fase 2 (Grade 1-2): Memilih\n\n**Kedalaman:** anak mulai memahami bahwa Caring bisa punya harga kecil dan ia bisa memilihnya.\n\n- **Terlihat seperti:** berbagi walau ada yang dikorbankan (bekal, giliran main), menanyakan apa yang dibutuhkan teman, meminta maaf setelah menyakiti.\n- **Terdengar seperti:** “Ini buat kamu.”, “Mau main bareng?”, “Maaf, aku tidak sengaja.”\n- **Bukan Caring:** berbagi karena takut dimarahi atau hanya saat ada yang melihat, berbagi lalu menagih balasan.\n- **Contoh dari buku:** *Bekal Bima*, saat Doni memilih berbagi meskipun perutnya sendiri lapar.\n\n## Fase 3 (Grade 3-4): Menimbang\n\n**Kedalaman:** anak menimbang antara peduli dan keinginan untuk diterima, dan mulai melihat dari sudut pandang orang lain.\n\n- **Terlihat seperti:** mendekati teman yang dikucilkan, membela dengan tenang, mengakui kesalahan, mendengarkan sudut pandang lain sebelum menilai.\n- **Terdengar seperti:** “Mau aku temani?”, “Maaf, tadi aku tidak baik.”, “Menurutmu bagaimana rasanya?”\n- **Bukan Caring:** menolong demi dipuji, patuh tanpa peduli perasaan orang lain, menyenangkan semua orang, mengasihani dari atas, membela dengan mempermalukan pihak lain.\n- **Contoh dari buku:** *Suara Nara*, saat Bima melangkah ke Nara dan meminta maaf.\n\n## Fase 4 (Grade 5-6): Bertindak dan merefleksikan\n\n**Kedalaman:** anak menyelidiki kebutuhan nyata, merencanakan bersama, bertindak, lalu menilai dampaknya.\n\n- **Terlihat seperti:** bertanya dulu apa yang dibutuhkan orang lain sebelum bertindak, merencanakan bersama orang yang dibantu, bertindak lebih dari sekali, mengevaluasi hasilnya, mengakui keterbatasan.\n- **Terdengar seperti:** “Apa yang sebenarnya mereka butuhkan?”, “Apakah bantuan kita benar-benar membantu?”, “Siapa lagi yang perlu dilibatkan?”\n- **Bukan Caring:** aksi satu kali demi foto atau citra, membantu tanpa bertanya, menganggap penerima bantuan tidak berdaya, mengambil alih keputusan orang lain.\n- **Contoh dari buku:** *Air untuk Kampung*, saat anak-anak menyelidiki, merencanakan, dan bertindak bersama untuk air bersih.\n\n## Bagaimana Caring berkembang antar fase\n\nDari **merasakan** (Fase 1), ke **memilih** (Fase 2), ke **menimbang** (Fase 3), lalu ke **bertindak dan merefleksikan** (Fase 4). Anak yang belum mencapai kedalaman fasenya tidak “gagal”. Ia hanya sedang di tahap yang berbeda dan boleh dikuatkan tanpa dibandingkan.\n\n## Untuk sesi kalibrasi guru\n\nSiapkan 4-5 cuplikan perilaku anak (dari kelas nyata atau skenario), misalnya:\n\n- Seorang anak membagi bekalnya setelah guru berkata, “Siapa yang mau berbagi?”\n- Seorang anak membela temannya dengan menyebut anak lain “jahat”.\n- Seorang anak mengumpulkan sumbangan untuk acara sekolah dan sibuk memotret.\n\nTiap guru menandai: Caring, belum Caring, atau tidak yakin, lalu menjelaskan alasannya dengan tiga pertanyaan penguji. Perbedaan penilaian dibahas sampai ada kesepakatan, dan hasilnya dipakai untuk memperbaiki kartu ini."
+  "Communicators": "# Kartu Nilai: Communicators\n\n*Acuan bersama untuk guru · Fase 1-4 (EY1-Grade 6) · Prototipe untuk diuji dan dikalibrasi*\n\n## Cara memakai kartu ini\n\nKartu ini menyamakan **apa yang kita lihat dan dengar** ketika anak menunjukkan Communicators, bukan menyamakan definisinya saja. Pakai sebagai acuan saat membaca buku bersama anak, saat mengamati perilaku di kelas, dan saat sesi kalibrasi guru.\n\n## Makna Communicators dalam seri ini\n\nCommunicators berarti anak mampu **menyampaikan** pikiran dan perasaannya dengan cara yang bisa dipahami, dan mampu **mendengarkan** orang lain dengan sungguh-sungguh. Dua sisi ini sama berat. Menyampaikan bisa lewat kata, gambar, gerak, tulisan, atau lebih dari satu bahasa. Mendengarkan berarti memberi perhatian penuh, menunggu, bertanya untuk memahami, dan memastikan pesan diterima dengan benar.\n\nCommunicators **bukan** berarti pandai berbicara atau banyak bicara. Anak yang pendiam bisa menjadi Communicators yang baik lewat tulisan, gambar, atau pilihan kata yang tepat, dan anak yang banyak bicara belum tentu mendengarkan.\n\n## Tiga pertanyaan penguji (berlaku untuk semua fase)\n\n- Apakah anak menyampaikan pikiran atau perasaannya dengan cara yang bisa dipahami orang lain (kata, gambar, gerak, tulisan, bahasa lain)?\n- Apakah ia mendengarkan dengan perhatian: menunggu giliran, tidak memotong, dan bertanya untuk memahami?\n- Apakah ia memastikan pesan diterima dan dipahami dengan benar, misalnya dengan mengulang atau menanyakan “maksudmu ...?”\n\nKalau ketiganya “ya”, itu Communicators. Kalau salah satunya “tidak”, bicarakan bersama anak dengan rasa ingin tahu, bukan dengan penilaian.\n\n## Fase 1 (EY1-EY2): Mengenali\n\n**Kedalaman:** anak mulai menyampaikan keinginannya dengan cara yang bisa dipahami dan mulai belajar menatap serta menunggu saat orang lain berbicara.\n\n- **Terlihat seperti:** menunjuk, menggambar, atau bergerak untuk menjelaskan maksudnya, menatap orang yang berbicara, menunggu giliran, mengangguk saat mengerti.\n- **Terdengar seperti:** “Aku mau ini.”, “Giliranmu.”, “Aku dengar.”\n- **Bukan Communicators:** merengek atau berteriak tanpa menjelaskan maksudnya, memotong orang yang berbicara, berpura-pura mendengar, menutup telinga sambil terus berbicara.\n- **Contoh dari buku:** *Sari dan Kata yang Hilang*, saat Sari menggambar apa yang ia inginkan dan Bima berhenti bicara untuk melihat.\n- **Catatan usia:** bagi anak kecil, menyampaikan lewat gambar atau gerak sudah cukup. Menatap dan menunggu sebentar sudah merupakan mendengarkan.\n\n## Fase 2 (Grade 1-2): Memilih\n\n**Kedalaman:** anak memilih menunggu giliran, menyampaikan idenya dengan tenang, dan menunjukkan bahwa ia mendengar dengan mengulang apa yang ia dengar.\n\n- **Terlihat seperti:** mengangkat tangan, berbicara dengan jelas, menunggu teman selesai, mengulang apa yang didengar dengan kata sendiri.\n- **Terdengar seperti:** “Boleh aku bicara?”, “Kamu bilang ... ya?”, “Silakan selesai dulu.”\n- **Bukan Communicators:** berebut bicara atau memotong, berbicara paling keras supaya didengar, mengalah terus tanpa pernah menyampaikan idenya, menyebut “iya” tanpa benar-benar mendengar.\n- **Contoh dari buku:** *Giliran Berbicara*, saat Sari menyampaikan idenya dan temannya mengulang apa yang ia dengar.\n\n## Fase 3 (Grade 3-4): Menimbang\n\n**Kedalaman:** anak memastikan pesan sampai dengan benar, mendengarkan untuk memahami, dan menyesuaikan cara menyampaikan untuk pendengar yang berbeda.\n\n- **Terlihat seperti:** mengulang pesan dengan kata sendiri, bertanya “maksudmu ...?”, menyesuaikan kata atau bahasa untuk pendengar, memeriksa apakah pesannya dipahami, mengenali salah paham.\n- **Terdengar seperti:** “Maksudmu begini?”, “Aku sampaikan ulang ya.”, “Boleh kujelaskan dengan cara lain?”\n- **Bukan Communicators:** menganggap pesan pasti dipahami, menyalahkan pendengar yang salah paham, meneruskan pesan tanpa memeriksanya, mengangguk padahal belum mengerti.\n- **Contoh dari buku:** *Pesan Berantai*, saat anak-anak menemukan di mana pesan berubah dan membuat cara memeriksa pesan.\n\n## Fase 4 (Grade 5-6): Bertindak dan merefleksikan\n\n**Kedalaman:** anak menyampaikan pendapat dengan hormat di forum yang lebih besar, merangkum pendapat orang lain sebelum menanggapi, dan memilih cara serta bahasa sesuai pendengarnya.\n\n- **Terlihat seperti:** menyiapkan poin sebelum berbicara, menyampaikan pendapat berbeda dengan hormat, merangkum pendapat orang lain sebelum menanggapi, memilih bahasa dan cara sesuai pendengar, mengakui bila ada salah paham.\n- **Terdengar seperti:** “Kalau kudengar dengan benar, kamu berpendapat ...”, “Apakah penjelasanku sudah jelas?”, “Aku ringkas dulu ya, supaya kita sama-sama paham.”\n- **Bukan Communicators:** mendominasi pembicaraan, menyerang atau menyindir orang yang berbeda pendapat, hanya berbicara satu arah, menanggapi tanpa merangkum apa yang didengar.\n- **Contoh dari buku:** *Rapat Kampung*, saat Sari menyampaikan pendapat berbeda kepada orang dewasa dengan hormat.\n\n## Membedakan dari atribut lain\n\nAgar setiap buku tetap punya satu atribut dominan, perhatikan perbedaannya:\n\n- **Communicators dan Open-minded:** Communicators mendengarkan agar pesan diterima dan dipahami dengan benar. Open-minded mendengarkan agar bersedia menilai ulang pendapatnya.\n- **Communicators dan Caring:** Caring memperhatikan perasaan dan kebutuhan orang lain lalu bertindak. Communicators berfokus pada menyampaikan dan memahami pesan.\n- **Communicators dan Risk-takers:** keberanian tampil di depan orang adalah Risk-takers. Communicators menilai apakah pesannya dipahami dan apakah ia mendengarkan.\n- **Diam bukan berarti tidak berkomunikasi.** Jangan menilai anak hanya dari seberapa banyak ia berbicara.\n\n## Bagaimana Communicators berkembang antar fase\n\nDari **menyampaikan dengan cara apa pun dan menatap** (Fase 1), ke **menunggu giliran dan mengulang apa yang didengar** (Fase 2), ke **memastikan pesan sampai dengan benar** (Fase 3), lalu ke **menyampaikan pendapat dengan hormat dan merangkum sebelum menanggapi** (Fase 4). Anak yang belum mencapai kedalaman fasenya tidak “gagal”, ia hanya di tahap yang berbeda.\n\n## Untuk sesi kalibrasi guru\n\nSiapkan 4-5 cuplikan perilaku anak (dari kelas nyata atau skenario), misalnya:\n\n- Seorang anak berbicara paling lantang dan selalu memotong, sementara temannya yang pendiam menggambar idenya.\n- Seorang anak mengangguk saat diberi petunjuk, tetapi mengerjakan hal yang berbeda.\n- Seorang anak mengulang pesan guru dengan kata sendiri sebelum meneruskannya ke teman.\n- Seorang anak menyampaikan pendapat dengan sopan, tetapi tidak pernah mendengarkan jawaban temannya.\n\nTiap guru menandai: Communicators, belum Communicators, atau tidak yakin, lalu menjelaskan alasannya dengan tiga pertanyaan penguji. Perbedaan penilaian dibahas sampai ada kesepakatan, dan hasilnya dipakai untuk memperbaiki kartu ini.",
+  "Open-minded": "# Kartu Nilai: Open-minded\n\n*Acuan bersama untuk guru · Fase 1-4 (EY1-Grade 6) · Prototipe untuk diuji dan dikalibrasi*\n\n## Cara memakai kartu ini\n\nKartu ini menyamakan **apa yang kita lihat dan dengar** ketika anak menunjukkan Open-minded, bukan menyamakan definisinya saja. Pakai sebagai acuan saat membaca buku bersama anak, saat mengamati perilaku di kelas, dan saat sesi kalibrasi guru.\n\n## Makna Open-minded dalam seri ini\n\nOpen-minded berarti anak bersedia mengenal dan memahami cara, budaya, dan sudut pandang yang berbeda dari dirinya, serta menilai dengan adil setelah mendengar. Anak tetap menghargai budaya dan pengalamannya sendiri. Open-minded **bukan** berarti ikut-ikutan atau menyetujui semua hal. Anak tetap boleh memiliki pendapat sendiri.\n\n## Tiga pertanyaan penguji (berlaku untuk semua fase)\n\n- Apakah anak mencari tahu atau mendengarkan cara atau sudut pandang yang berbeda **sebelum** menilai?\n- Apakah ia mau mengakui bahwa caranya atau pendapatnya bisa keliru, atau bukan satu-satunya yang benar?\n- Apakah ia tetap punya pendapat sendiri, dan bukan sekadar mengikuti orang lain?\n\nKalau ketiganya “ya”, itu Open-minded. Kalau salah satunya “tidak”, bicarakan bersama anak dengan rasa ingin tahu, bukan dengan penilaian.\n\n## Fase 1 (EY1-EY2): Mengenali\n\n**Kedalaman:** anak mulai memperhatikan bahwa ada hal yang berbeda dan mau mencobanya sedikit.\n\n- **Terlihat seperti:** melihat, mencium, atau menyentuh hal baru sebelum menolak, mencoba sedikit, bertanya tentang hal yang berbeda.\n- **Terdengar seperti:** “Ini apa?”, “Aku coba sedikit ya.”, “Aku belum suka, tidak apa-apa.”\n- **Bukan Open-minded:** mencoba karena dipaksa, langsung menolak tanpa melihat, menyebut hal baru “aneh” atau “jelek”, berpura-pura suka supaya diterima.\n- **Contoh dari buku:** *Makanan Baru*, saat Bima menolak makanan yang belum pernah ia lihat, lalu mencobanya sedikit.\n- **Catatan usia:** anak boleh tidak suka setelah mencoba. Yang diamati adalah kesediaan untuk melihat dan mencoba sedikit, bukan menyukainya.\n\n## Fase 2 (Grade 1-2): Memilih\n\n**Kedalaman:** anak memilih memberi kesempatan pada cara lain.\n\n- **Terlihat seperti:** mengikuti aturan permainan teman walau berbeda, bertanya bagaimana cara teman, mengakui bahwa cara lain juga bisa berhasil.\n- **Terdengar seperti:** “Di tempatmu mainnya bagaimana?”, “Ayo coba caramu.”\n- **Bukan Open-minded:** menyebut caranya sendiri satu-satunya yang benar, ikut hanya supaya diterima lalu mengejek, mengalah terus tanpa pernah menyuarakan pendapat sendiri.\n- **Contoh dari buku:** *Cara Lain Bermain*, saat anak-anak mencoba aturan permainan yang dibawa seorang teman.\n\n## Fase 3 (Grade 3-4): Menimbang\n\n**Kedalaman:** anak mendengarkan dua sisi sebelum menilai, dan bersedia mengubah penilaiannya.\n\n- **Terlihat seperti:** meminta kedua pihak bercerita, menunda penilaian, mengubah penilaian setelah mendengar sisi lain.\n- **Terdengar seperti:** “Ceritakan versimu.”, “Aku tadi salah menilai.”, “Aku mengerti kenapa kamu berpikir begitu.”\n- **Bukan Open-minded:** berkata “terserah” tanpa mendengarkan, mendengarkan sambil menyiapkan bantahan, menganggap semua pendapat sama benarnya tanpa mempertimbangkan, memihak yang paling populer.\n- **Contoh dari buku:** *Dua Cerita, Satu Kejadian*, saat dua anak menceritakan kejadian yang sama dengan cara berbeda.\n\n## Fase 4 (Grade 5-6): Bertindak dan merefleksikan\n\n**Kedalaman:** anak mencari banyak sudut pandang secara aktif, menguji pendapatnya sendiri, dan mengubahnya dengan alasan, bukan karena tekanan.\n\n- **Terlihat seperti:** mencari sumber atau orang yang berbeda dari dirinya, menanyakan siapa yang belum didengar, mengubah pendapat karena alasan yang kuat, menghormati orang yang berbeda tanpa harus setuju.\n- **Terdengar seperti:** “Siapa yang belum kita dengar?”, “Apa yang bisa membuatku salah?”, “Aku masih berbeda pendapat, tapi aku paham alasanmu.”\n- **Bukan Open-minded:** berdebat untuk menang, menganggap tradisi lama pasti salah atau ide baru pasti benar, ikut mayoritas tanpa berpikir, hanya menerima orang yang sudah mirip dengan dirinya.\n- **Contoh dari buku:** *Kebiasaan Lama, Ide Baru*, saat anak-anak mendengarkan semua pihak dalam perdebatan di kampung.\n\n## Membedakan dari atribut lain\n\nAgar setiap buku tetap punya satu atribut dominan, perhatikan perbedaannya:\n\n- **Open-minded dan Caring:** Caring memperhatikan perasaan dan kebutuhan orang lain lalu bertindak. Open-minded bersedia memahami dan mempertimbangkan cara atau sudut pandang yang berbeda, dan siap mengubah penilaiannya.\n- **Open-minded dan Communicators:** Communicators mendengarkan agar pesan diterima dengan benar. Open-minded mendengarkan agar bersedia menilai ulang.\n- **Open-minded dan Principled:** Principled berpegang pada kejujuran dan keadilan walau ada tekanan. Open-minded bersedia mengubah pendapat karena alasan, bukan karena tekanan.\n\n## Bagaimana Open-minded berkembang antar fase\n\nDari **melihat dan mencoba** (Fase 1), ke **memberi kesempatan** (Fase 2), ke **mendengar dua sisi** (Fase 3), lalu ke **mencari sudut pandang dan mengubah pendapat dengan alasan** (Fase 4). Anak yang belum mencapai kedalaman fasenya tidak “gagal”, ia hanya di tahap yang berbeda.\n\n## Untuk sesi kalibrasi guru\n\nSiapkan 4-5 cuplikan perilaku anak (dari kelas nyata atau skenario), misalnya:\n\n- Seorang anak mencicipi makanan temannya sambil berkata, “Hiii, aneh!”\n- Dua anak bercerita berbeda tentang satu kejadian, dan anak ketiga berkata, “Terserah kalian.”\n- Seorang anak mengikuti pendapat kelompok yang lebih banyak tanpa memikirkannya.\n- Seorang anak berkata, “Aku tadi salah menilai, ternyata begini ceritanya.”\n\nTiap guru menandai: Open-minded, belum Open-minded, atau tidak yakin, lalu menjelaskan alasannya dengan tiga pertanyaan penguji. Perbedaan penilaian dibahas sampai ada kesepakatan, dan hasilnya dipakai untuk memperbaiki kartu ini.",
+  "Caring": "# Kartu Nilai: Caring\n\n*Acuan bersama untuk guru · Fase 1-4 (EY1-Grade 6) · Prototipe untuk diuji dan dikalibrasi*\n\n## Cara memakai kartu ini\n\nKartu ini menyamakan **apa yang kita lihat dan dengar** ketika anak menunjukkan Caring, bukan menyamakan definisinya saja. Kata “peduli” mudah dibaca berbeda oleh tiap orang, sedangkan perilaku yang bisa diamati lebih mudah disepakati. Pakai kartu ini sebagai acuan saat membaca buku bersama anak, saat mengamati perilaku di kelas, dan saat sesi kalibrasi guru.\n\n## Makna Caring dalam seri ini\n\nCaring berarti anak memperhatikan perasaan dan kebutuhan orang lain, menunjukkan empati dan rasa hormat, lalu **bertindak** untuk memberi dampak baik bagi orang lain dan lingkungannya. Perasaan saja belum cukup. Perhatian yang tidak pernah menjadi tindakan masih berada di tahap awal.\n\n## Tiga pertanyaan penguji (berlaku untuk semua fase)\n\n- Apakah anak memperhatikan perasaan atau kebutuhan orang lain, bukan hanya dirinya sendiri?\n- Apakah ada tindakan, sesuai kemampuan usianya, dan bukan hanya perasaan di dalam hati?\n- Apakah ia melakukannya bukan demi pujian, hadiah, atau menghindari hukuman?\n\nKalau ketiganya “ya”, itu Caring. Kalau salah satunya “tidak”, bicarakan bersama anak dengan rasa ingin tahu, bukan dengan penilaian.\n\n## Fase 1 (EY1-EY2): Mengenali\n\n**Kedalaman:** anak mulai merasakan bahwa orang lain (dan hewan) punya perasaan. Caring masih spontan, dan itu wajar.\n\n- **Terlihat seperti:** mendekati teman atau hewan yang sedih, memeluk, menemani, mengelus, menawarkan mainan.\n- **Terdengar seperti:** “Kamu sedih?”, “Aku di sini.”, “Mau ini?”\n- **Bukan Caring:** memeluk karena disuruh lalu langsung pergi, menjawab “iya” supaya dipuji, merebut mainan dengan alasan “membantu”, memaksakan bantuan.\n- **Contoh dari buku:** *Pelukan untuk Mimi*, saat Sari duduk dan memeluk Mimi yang ketakutan.\n\n## Fase 2 (Grade 1-2): Memilih\n\n**Kedalaman:** anak mulai memahami bahwa Caring bisa punya harga kecil dan ia bisa memilihnya.\n\n- **Terlihat seperti:** berbagi walau ada yang dikorbankan (bekal, giliran main), menanyakan apa yang dibutuhkan teman, meminta maaf setelah menyakiti.\n- **Terdengar seperti:** “Ini buat kamu.”, “Mau main bareng?”, “Maaf, aku tidak sengaja.”\n- **Bukan Caring:** berbagi karena takut dimarahi atau hanya saat ada yang melihat, berbagi lalu menagih balasan.\n- **Contoh dari buku:** *Bekal Bima*, saat Doni memilih berbagi meskipun perutnya sendiri lapar.\n\n## Fase 3 (Grade 3-4): Menimbang\n\n**Kedalaman:** anak menimbang antara peduli dan keinginan untuk diterima, dan mulai melihat dari sudut pandang orang lain.\n\n- **Terlihat seperti:** mendekati teman yang dikucilkan, membela dengan tenang, mengakui kesalahan, mendengarkan sudut pandang lain sebelum menilai.\n- **Terdengar seperti:** “Mau aku temani?”, “Maaf, tadi aku tidak baik.”, “Menurutmu bagaimana rasanya?”\n- **Bukan Caring:** menolong demi dipuji, patuh tanpa peduli perasaan orang lain, menyenangkan semua orang, mengasihani dari atas, membela dengan mempermalukan pihak lain.\n- **Contoh dari buku:** *Suara Nara*, saat Bima melangkah ke Nara dan meminta maaf.\n\n## Fase 4 (Grade 5-6): Bertindak dan merefleksikan\n\n**Kedalaman:** anak menyelidiki kebutuhan nyata, merencanakan bersama, bertindak, lalu menilai dampaknya.\n\n- **Terlihat seperti:** bertanya dulu apa yang dibutuhkan orang lain sebelum bertindak, merencanakan bersama orang yang dibantu, bertindak lebih dari sekali, mengevaluasi hasilnya, mengakui keterbatasan.\n- **Terdengar seperti:** “Apa yang sebenarnya mereka butuhkan?”, “Apakah bantuan kita benar-benar membantu?”, “Siapa lagi yang perlu dilibatkan?”\n- **Bukan Caring:** aksi satu kali demi foto atau citra, membantu tanpa bertanya, menganggap penerima bantuan tidak berdaya, mengambil alih keputusan orang lain.\n- **Contoh dari buku:** *Air untuk Kampung*, saat anak-anak menyelidiki, merencanakan, dan bertindak bersama untuk air bersih.\n\n## Bagaimana Caring berkembang antar fase\n\nDari **merasakan** (Fase 1), ke **memilih** (Fase 2), ke **menimbang** (Fase 3), lalu ke **bertindak dan merefleksikan** (Fase 4). Anak yang belum mencapai kedalaman fasenya tidak “gagal”. Ia hanya sedang di tahap yang berbeda dan boleh dikuatkan tanpa dibandingkan.\n\n## Untuk sesi kalibrasi guru\n\nSiapkan 4-5 cuplikan perilaku anak (dari kelas nyata atau skenario), misalnya:\n\n- Seorang anak membagi bekalnya setelah guru berkata, “Siapa yang mau berbagi?”\n- Seorang anak membela temannya dengan menyebut anak lain “jahat”.\n- Seorang anak mengumpulkan sumbangan untuk acara sekolah dan sibuk memotret.\n\nTiap guru menandai: Caring, belum Caring, atau tidak yakin, lalu menjelaskan alasannya dengan tiga pertanyaan penguji. Perbedaan penilaian dibahas sampai ada kesepakatan, dan hasilnya dipakai untuk memperbaiki kartu ini.",
+  "Risk-takers": "# Kartu Nilai: Risk-takers\n\n*Acuan bersama untuk guru · Fase 1-4 (EY1-Grade 6) · Prototipe untuk diuji dan dikalibrasi*\n\n## Cara memakai kartu ini\n\nKartu ini menyamakan **apa yang kita lihat dan dengar** ketika anak menunjukkan Risk-takers, bukan menyamakan definisinya saja. Pakai sebagai acuan saat membaca buku bersama anak, saat mengamati perilaku di kelas, dan saat sesi kalibrasi guru.\n\n## Makna Risk-takers dalam seri ini\n\nRisk-takers berarti anak berani mencoba hal yang belum pasti berhasil, dengan persiapan dan ketekunan, lalu bangkit atau belajar bila gagal. Anak boleh takut. Risk-takers **bukan** berarti nekat, sombong, atau menerima tantangan berbahaya. Keberanian di sini selalu disertai pertimbangan dan keselamatan.\n\n## Tiga pertanyaan penguji (berlaku untuk semua fase)\n\n- Apakah anak mencoba sesuatu yang belum pasti berhasil, walaupun sedikit takut?\n- Apakah ia melakukannya dengan persiapan atau memperhatikan keselamatan, bukan nekat?\n- Apakah ia bangkit atau belajar setelah gagal, bukan hanya menyerah atau menyembunyikan kegagalannya?\n\nKalau ketiganya “ya”, itu Risk-takers. Kalau salah satunya “tidak”, bicarakan bersama anak dengan rasa ingin tahu, bukan dengan penilaian.\n\n## Catatan keselamatan\n\nRisiko yang dibahas dalam seri dan di kelas selalu aman dan sesuai usia. Guru tidak boleh mendorong anak mencoba hal berbahaya atau menantang anak secara fisik. Bila ada kegiatan fisik, lakukan di tempat aman dengan pengawasan dan perlengkapan pelindung yang sesuai.\n\n## Fase 1 (EY1-EY2): Mengenali\n\n**Kedalaman:** anak mulai mencoba hal yang sedikit menakutkan, pelan-pelan, dengan ditemani. Boleh takut.\n\n- **Terlihat seperti:** mendekati hal yang sulit selangkah demi selangkah, berhenti saat butuh lalu mencoba lagi, meminta ditemani.\n- **Terdengar seperti:** “Aku coba pelan-pelan.”, “Temani aku ya.”, “Aku mau coba lagi.”\n- **Bukan Risk-takers:** mencoba karena ditantang atau diejek, melakukan hal berbahaya supaya terlihat berani, berpura-pura tidak takut.\n- **Contoh dari buku:** *Seluncuran yang Tinggi*, saat Doni naik satu anak tangga demi satu anak tangga.\n- **Catatan usia:** anak boleh berhenti dan tidak jadi. Yang diamati adalah kesediaan mencoba selangkah, bukan keberhasilan.\n\n## Fase 2 (Grade 1-2): Memilih\n\n**Kedalaman:** anak memilih mencoba walau mungkin gagal, dan menerima gagal sebagai bagian dari belajar.\n\n- **Terlihat seperti:** memilih mencoba hal baru, berlatih beberapa kali, meminta bantuan saat perlu, merayakan kemajuan kecil, memakai pelindung yang sesuai.\n- **Terdengar seperti:** “Aku belum bisa, tapi aku coba.”, “Aku jatuh, aku coba lagi.”, “Bisa tolong pegangi sebentar?”\n- **Bukan Risk-takers:** nekat tanpa memeriksa keselamatan, menolak mencoba apa pun supaya tidak terlihat gagal, mengejek teman yang gagal, menyalahkan alat atau orang lain saat gagal.\n- **Contoh dari buku:** *Sepeda Tanpa Roda Tambahan*, saat Doni jatuh dan memilih mencoba lagi dengan pelindung.\n\n## Fase 3 (Grade 3-4): Menimbang\n\n**Kedalaman:** anak menimbang risiko dan manfaat, menyiapkan diri, lalu tetap mencoba walau takut dinilai.\n\n- **Terlihat seperti:** berlatih lebih dulu, menyiapkan rencana cadangan, mengakui rasa takut dengan jujur, tetap mencoba di depan orang lain, belajar dari hasilnya.\n- **Terdengar seperti:** “Aku takut, tapi aku sudah siap.”, “Kalau lupa, aku punya rencana cadangan.”, “Itu tidak berhasil, aku coba cara lain.”\n- **Bukan Risk-takers:** mengambil risiko hanya karena ditantang atau demi dipuji, menghindari mencoba dengan terus melucu, menyalahkan keadaan setelah gagal, berani tetapi membahayakan orang lain.\n- **Contoh dari buku:** *Panggung Doni*, saat Doni berlatih, menyiapkan rencana cadangan, lalu tetap naik ke panggung.\n\n## Fase 4 (Grade 5-6): Bertindak dan merefleksikan\n\n**Kedalaman:** anak merencanakan proyek yang belum pasti berhasil, mengelola risikonya bersama orang lain, dan merefleksikan kegagalan dengan jujur.\n\n- **Terlihat seperti:** menyusun rencana A dan B, mencoba dalam skala kecil dulu, meminta persetujuan orang yang ikut menanggung risiko, mengakui kegagalan secara terbuka, mencoba lagi dengan pelajaran baru.\n- **Terdengar seperti:** “Apa yang terburuk bisa terjadi, dan apa rencana kita?”, “Kita coba kecil dulu.”, “Kegagalan ini mengajarkan apa?”\n- **Bukan Risk-takers:** nekat tanpa rencana, mengambil risiko yang ditanggung orang lain tanpa persetujuan mereka, takut gagal sampai tidak pernah mencoba, menyembunyikan kegagalan.\n- **Contoh dari buku:** *Kebun yang Belum Tentu Tumbuh*, saat anak-anak merencanakan, mencoba kecil dulu, gagal, lalu menyampaikannya secara terbuka.\n\n## Membedakan dari atribut lain\n\nAgar setiap buku tetap punya satu atribut dominan, perhatikan perbedaannya:\n\n- **Risk-takers dan Thinkers:** Thinkers menganalisis dan mencari cara kreatif. Risk-takers berani bertindak setelah menimbang, termasuk saat hasilnya belum pasti.\n- **Risk-takers dan Principled:** Principled berpegang pada kejujuran dan keadilan walau ada tekanan. Risk-takers berani mencoba sesuatu yang baru walau takut gagal.\n- **Risk-takers dan Caring:** Caring bertindak untuk orang lain. Risk-takers menyangkut keberanian anak mencoba sesuatu yang belum pasti, baik untuk dirinya maupun bersama.\n- **Nekat bukan Risk-takers:** tokoh yang bertindak sebelum berpikir (seperti Bima di beberapa buku) belum menunjukkan Risk-takers. Yang diamati adalah keberanian yang disertai persiapan.\n\n## Bagaimana Risk-takers berkembang antar fase\n\nDari **mencoba selangkah** (Fase 1), ke **memilih mencoba walau mungkin gagal** (Fase 2), ke **menimbang dan tetap mencoba** (Fase 3), lalu ke **merencanakan, mengelola risiko bersama, dan merefleksikan kegagalan** (Fase 4). Anak yang belum mencapai kedalaman fasenya tidak “gagal”, ia hanya di tahap yang berbeda.\n\n## Untuk sesi kalibrasi guru\n\nSiapkan 4-5 cuplikan perilaku anak (dari kelas nyata atau skenario), misalnya:\n\n- Seorang anak melompati batas tinggi di taman karena ditantang temannya.\n- Seorang anak menolak ikut lomba supaya tidak terlihat kalah.\n- Seorang anak jatuh saat berlatih, lalu berkata, “Aku coba lagi, tapi pelan-pelan.”\n- Seorang anak selalu melucu ketika diminta tampil di depan kelas.\n\nTiap guru menandai: Risk-takers, belum Risk-takers, atau tidak yakin, lalu menjelaskan alasannya dengan tiga pertanyaan penguji. Perbedaan penilaian dibahas sampai ada kesepakatan, dan hasilnya dipakai untuk memperbaiki kartu ini."
  }
 }
