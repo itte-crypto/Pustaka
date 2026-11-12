@@ -1,7 +1,8 @@
-const C='kt-v1';
+const C='kt-v2';   // naikkan angka ini (v3, v4, ...) setiap kali gambar diganti supaya cache lama dibuang
 self.addEventListener('install',e=>{self.skipWaiting();
   e.waitUntil(caches.open(C).then(c=>Promise.all(['./','index.html','data.json'].map(u=>c.add(u).catch(()=>{})))))});
-self.addEventListener('activate',e=>e.waitUntil(clients.claim()));
+self.addEventListener('activate',e=>e.waitUntil(
+  caches.keys().then(ks=>Promise.all(ks.filter(k=>k!==C).map(k=>caches.delete(k)))).then(()=>clients.claim())));
 self.addEventListener('fetch',e=>{
   const r=e.request;if(r.method!=='GET')return;
   const u=new URL(r.url),same=u.origin===location.origin,font=/fonts\.(googleapis|gstatic)\.com$/.test(u.hostname);
