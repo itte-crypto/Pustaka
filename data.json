@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13 20:18",
+ "updated": "2026-11-15 13:50",
  "books": [
   {
    "slug": "krayon",
@@ -18,7 +18,11 @@
       "Sari ingin menggambar langit.",
       "Langit itu biru."
      ],
-     "en": [],
+     "en": [
+      "It was drawing time in class.",
+      "Sari wanted to draw the sky.",
+      "The sky was blue."
+     ],
      "ill": "Kelas dengan meja bundar. Anak-anak menggambar. Sari duduk di dekat Bima. Bu Guru berdiri di kejauhan."
     },
     {
@@ -26,7 +30,10 @@
       "Tetapi krayon biru ada di meja Bima.",
       "Hanya satu."
      ],
-     "en": [],
+     "en": [
+      "But the only blue crayon",
+      "was on Bima’s table."
+     ],
      "ill": "Kotak krayon Sari tidak punya warna biru. Di meja Bima ada satu krayon biru."
     },
     {
@@ -35,7 +42,11 @@
       "Tetapi kata-katanya hilang.",
       "Hilang, hilang."
      ],
-     "en": [],
+     "en": [
+      "Sari wanted to say, “Can I borrow it?”",
+      "But the words were gone.",
+      "Gone, gone."
+     ],
      "ill": "Sari membuka mulut, tetapi tidak ada gelembung kata. Pipinya merona."
     },
     {
@@ -44,7 +55,11 @@
       "“Gambarku bola! Besar sekali! Bolaku menggelinding!”",
       "Bima tidak melihat Sari."
      ],
-     "en": [],
+     "en": [
+      "Bima kept talking.",
+      "“My picture is a ball! A big, big ball! My ball is rolling!”",
+      "He did not look at Sari."
+     ],
      "ill": "Bima menggambar sambil berbicara dengan banyak gelembung kata. Ia tidak melihat Sari."
     },
     {
@@ -53,7 +68,11 @@
       "Ia mengambil kertas kecil.",
       "Ia menggambar sebatang krayon. Krayon biru. *Draw.*"
      ],
-     "en": [],
+     "en": [
+      "Sari did not give up.",
+      "She took a small piece of paper.",
+      "She drew a crayon. A blue crayon. Draw."
+     ],
      "ill": "Sari mengambil kertas kecil dan menggambar sebatang krayon biru dengan hati-hati."
     },
     {
@@ -61,7 +80,10 @@
       "Sari menyentuh lengan Bima pelan.",
       "Ia menunjukkan gambarnya."
      ],
-     "en": [],
+     "en": [
+      "Sari gently touched Bima’s arm.",
+      "She showed him her drawing."
+     ],
      "ill": "Sari menyentuh lengan Bima dengan lembut sambil mengangkat kertas kecilnya."
     },
     {
@@ -69,7 +91,10 @@
       "Bima berhenti bicara.",
       "Bima melihat gambar itu. *Look.*"
      ],
-     "en": [],
+     "en": [
+      "Bima stopped talking.",
+      "He looked at the drawing. Look."
+     ],
      "ill": "Bima berhenti bicara, mulutnya tertutup, matanya menatap gambar Sari."
     },
     {
@@ -78,7 +103,11 @@
       "Bima menunggu.",
       "Bima mendengar. *Listen.*"
      ],
-     "en": [],
+     "en": [
+      "Bima was quiet.",
+      "He waited.",
+      "He listened. Listen."
+     ],
      "ill": "Bima menatap Sari dengan tenang. Gelembung kata di sekitarnya kosong dan sepi."
     },
     {
@@ -86,7 +115,10 @@
       "“Krayon biru?” tanya Bima.",
       "Sari mengangguk."
      ],
-     "en": [],
+     "en": [
+      "“A blue crayon?” asked Bima.",
+      "Sari nodded."
+     ],
      "ill": "Bima memiringkan kepala, bertanya. Sari mengangguk dengan senyum kecil."
     },
     {
@@ -95,7 +127,11 @@
       "Sari menggambar langit.",
       "Langit yang biru. *Blue.*"
      ],
-     "en": [],
+     "en": [
+      "Bima handed her the blue crayon.",
+      "Sari drew the sky.",
+      "A blue, blue sky. Blue."
+     ],
      "ill": "Sari menggambar langit biru. Bima tersenyum di sampingnya. Bu Guru tersenyum dari kejauhan."
     },
     {
@@ -103,7 +139,7 @@
       "Apa yang kamu lakukan kalau sulit mengatakannya dengan kata-kata?"
      ],
      "en": [
-      "What do you do when it is hard to say it in words?"
+      "What do you do when it is hard to find the words?"
      ],
      "q": 1,
      "ill": "Satu gambar besar langit biru dengan ruang kosong di sekitarnya untuk pertanyaan."
@@ -237,7 +273,10 @@
       "Hari itu langit berwarna abu-abu.",
       "Mimi tidur di bawah bangku."
      ],
-     "en": [],
+     "en": [
+      "That day, the sky was gray.",
+      "Mimi slept under the bench."
+     ],
      "ill": "Siang hari di kampung. Langit abu-abu. Warung Nenek Ratri kecil, bangku kayu, Mimi si kucing belang tidur di bawah bangku."
     },
     {
@@ -245,7 +284,10 @@
       "Tes, tes, tes.",
       "Hujan turun. *Rain.*"
      ],
-     "en": [],
+     "en": [
+      "Drip, drip, drip.",
+      "Rain fell. Rain."
+     ],
      "ill": "Titik hujan pertama jatuh di tanah. Sari berdiri di pintu warung dan melihat keluar."
     },
     {
@@ -253,7 +295,10 @@
       "DUAR!",
       "Mimi terbangun. Badannya gemetar."
      ],
-     "en": [],
+     "en": [
+      "BOOM!",
+      "Mimi woke up. Her body shook."
+     ],
      "ill": "Kilat besar. Kata DUAR! ditulis besar. Mimi terbangun, matanya lebar."
     },
     {
@@ -262,7 +307,11 @@
       "Mimi gemetar.",
       "Sari tidak tahu harus berkata apa."
      ],
-     "en": [],
+     "en": [
+      "Sari saw Mimi.",
+      "Mimi was trembling.",
+      "Sari did not know what to say."
+     ],
      "ill": "Sari memandang Mimi dari jauh, alisnya khawatir."
     },
     {
@@ -270,7 +319,10 @@
       "Bima datang. “Mimi, ayo main bola!”",
       "Mimi masuk lebih dalam ke bawah bangku."
      ],
-     "en": [],
+     "en": [
+      "Bima came in. “Mimi, let’s play ball!”",
+      "Mimi crept deeper under the bench."
+     ],
      "ill": "Bima berlari masuk, basah kuyup, tangannya terulur membawa bola. Mimi mundur lebih dalam ke bawah bangku."
     },
     {
@@ -278,7 +330,10 @@
       "Doni datang. “Hiii! Hantu!”",
       "Mimi gemetar lebih keras."
      ],
-     "en": [],
+     "en": [
+      "Doni came in. “Boo! A ghost!”",
+      "Mimi shook even harder."
+     ],
      "ill": "Doni membuat wajah seram dengan tangan seperti cakar, tersenyum lebar. Mimi menutup mata."
     },
     {
@@ -287,7 +342,11 @@
       "Dekat, dekat sekali.",
       "Ia tidak berkata apa-apa."
      ],
-     "en": [],
+     "en": [
+      "Sari sat down.",
+      "Close, so close.",
+      "She said nothing."
+     ],
      "ill": "Sari duduk di lantai dekat sekali dengan Mimi, tidak menyentuhnya. Suasana tenang, warna hangat."
     },
     {
@@ -295,7 +354,10 @@
       "DUAR!",
       "Sari tetap di sana."
      ],
-     "en": [],
+     "en": [
+      "BOOM!",
+      "Sari stayed right there."
+     ],
      "ill": "Kilat lagi. DUAR! dalam huruf lebih kecil. Sari tetap di tempatnya, Mimi menoleh ragu."
     },
     {
@@ -303,16 +365,23 @@
       "Pelan-pelan, Sari memeluk Mimi. *Hug.*",
       "“Aku di sini.” *I’m here.*"
      ],
-     "en": [],
+     "en": [
+      "Slowly, Sari hugged Mimi. Hug.",
+      "“I’m here.” I’m here."
+     ],
      "ill": "Mimi mendekat pelan. Sari memeluknya dengan lembut. Wajah keduanya tenang."
     },
     {
      "id": [
       "Mimi berhenti gemetar.",
       "Rrrr... rrrr...",
-      "Mimi bersuara seperti mesin kecil."
+      "Mimi mendengkur seperti mesin kecil."
      ],
-     "en": [],
+     "en": [
+      "Mimi stopped shaking.",
+      "Purr... purr...",
+      "Mimi purred like a tiny engine."
+     ],
      "ill": "Mimi memejamkan mata setengah, badannya tidak lagi gemetar. Garis kecil menunjukkan dengkurannya."
     },
     {
@@ -320,7 +389,10 @@
       "Bima duduk. Doni duduk.",
       "Mereka duduk bersama. *Together.*"
      ],
-     "en": [],
+     "en": [
+      "Bima sat down. Doni sat down.",
+      "They all sat together. Together."
+     ],
      "ill": "Bima dan Doni duduk tenang di dekat Sari dan Mimi. Tidak ada lagi bola dan cakar."
     },
     {
@@ -328,7 +400,10 @@
       "Hujan reda.",
       "Mimi tidur di pangkuan Sari."
      ],
-     "en": [],
+     "en": [
+      "The rain stopped.",
+      "Mimi fell asleep in Sari’s lap."
+     ],
      "ill": "Hujan mulai reda. Nenek Ratri meletakkan teh. Mimi tidur di pangkuan Sari."
     },
     {
@@ -475,7 +550,11 @@
       "Cangkir tanah liat. Cangkir cokelat.",
       "Mimi duduk di dekat rak."
      ],
-     "en": [],
+     "en": [
+      "Nenek Ratri’s shop was full of cups.",
+      "Clay cups. Brown cups.",
+      "Mimi sat near the shelf."
+     ],
      "ill": "Warung Nenek Ratri. Rak kayu berisi cangkir tanah liat. Mimi duduk di dekat rak. Sari dan Doni duduk di bangku."
     },
     {
@@ -484,7 +563,11 @@
       "Cepat, cepat!",
       "Ia ingin bercerita."
      ],
-     "en": [],
+     "en": [
+      "Bima ran in.",
+      "Fast, fast!",
+      "He had a story to tell."
+     ],
      "ill": "Bima berlari masuk dengan gembira, tangannya melambai tinggi."
     },
     {
@@ -493,7 +576,11 @@
       "Siku Bima menyenggol rak.",
       "Sebuah cangkir jatuh."
      ],
-     "en": [],
+     "en": [
+      "Bump!",
+      "Bima’s elbow hit the shelf.",
+      "A cup fell."
+     ],
      "ill": "Siku Bima menyenggol rak. Sebuah cangkir terguling di tepi rak."
     },
     {
@@ -503,16 +590,25 @@
       "Semua diam.",
       "Nenek Ratri sedang di belakang."
      ],
-     "en": [],
+     "en": [
+      "Crash!",
+      "The cup broke.",
+      "Everyone froze.",
+      "Nenek Ratri was in the back."
+     ],
      "ill": "Cangkir pecah di lantai. Sari, Doni, dan Mimi menatap. Nenek Ratri tidak terlihat; ada tirai ke ruang belakang."
     },
     {
      "id": [
       "Bima melihat Mimi.",
       "Mimi duduk dekat rak.",
-      "Bima berpikir, “Mimi saja yang...”"
+      "Bima berpikir, “Mungkin Mimi yang melakukannya...”"
      ],
-     "en": [],
+     "en": [
+      "Bima looked at Mimi.",
+      "Mimi sat near the shelf.",
+      "Bima thought, “Maybe Mimi did it...”"
+     ],
      "ill": "Bima menatap Mimi. Gelembung pikiran: Mimi dengan tanda tanya, lalu tanda silang."
     },
     {
@@ -521,7 +617,11 @@
       "Bima menggeleng.",
       "Bima menarik napas."
      ],
-     "en": [],
+     "en": [
+      "Bima stopped.",
+      "He shook his head.",
+      "He took a deep breath."
+     ],
      "ill": "Bima menggeleng, menarik napas, wajahnya serius tetapi tenang."
     },
     {
@@ -530,7 +630,11 @@
       "Ia berjalan ke belakang.",
       "“Nenek Ratri!” *Tell.*"
      ],
-     "en": [],
+     "en": [
+      "Bima did not touch the pieces.",
+      "He walked to the back.",
+      "“Nenek Ratri!” Tell."
+     ],
      "ill": "Bima berjalan ke arah tirai tanpa menyentuh pecahan. Tangannya di samping badan. Sari dan Doni diam."
     },
     {
@@ -538,16 +642,23 @@
       "“Aku yang menjatuhkan cangkirnya,” kata Bima.",
       "“Aku tidak sengaja. Maaf.” *Truth. Sorry.*"
      ],
-     "en": [],
+     "en": [
+      "“I broke your cup,” said Bima.",
+      "“It was an accident. I’m sorry.” Truth. Sorry."
+     ],
      "ill": "Bima berdiri di depan Nenek Ratri. Ia menunduk, jari-jarinya saling menggenggam."
     },
     {
      "id": [
-      "Nenek Ratri membersihkan pecahan.",
+      "Nenek Ratri menyapu pecahan.",
       "Ia tidak marah.",
       "“Terima kasih sudah bilang,” kata Nenek Ratri."
      ],
-     "en": [],
+     "en": [
+      "Nenek Ratri swept up the pieces.",
+      "She was not angry.",
+      "“Thank you for telling me,” she said."
+     ],
      "ill": "Nenek Ratri membersihkan pecahan dengan sapu dan pengki. Bima menunggu di jarak aman. Nenek tersenyum."
     },
     {
@@ -556,7 +667,11 @@
       "Cangkirnya tetap pecah.",
       "Tetapi hati Bima terasa ringan."
      ],
-     "en": [],
+     "en": [
+      "Bima brought the trash can. Help.",
+      "The cup was still broken.",
+      "But Bima felt light inside."
+     ],
      "ill": "Bima mencuci cangkir lain di bak bersama Nenek Ratri. Mimi menatap dari bangku."
     },
     {
@@ -698,7 +813,11 @@
       "Banyak semut.",
       "Semut berbaris."
      ],
-     "en": [],
+     "en": [
+      "Lintang saw ants.",
+      "So many ants.",
+      "The ants made a line."
+     ],
      "ill": "Halaman sekolah. Lintang jongkok dekat dinding. Di dinding, sebaris semut membawa remah roti dengan rapi. Sari duduk agak jauh."
     },
     {
@@ -706,25 +825,36 @@
       "“Kenapa berbaris?” tanya Lintang.",
       "“Kenapa? Kenapa? Kenapa?” *Why.*"
      ],
-     "en": [],
+     "en": [
+      "“Why are they in a line?” asked Lintang.",
+      "“Why? Why? Why?” Why."
+     ],
      "ill": "Lintang menunjuk, mulutnya terbuka lebar. Banyak tanda tanya melayang di atas kepalanya."
     },
     {
      "id": [
       "Lintang bertanya terus.",
       "Tetapi ia tidak melihat.",
-      "Sari duduk diam. Sari melihat."
+      "Sari berdiri diam. Sari melihat."
      ],
-     "en": [],
-     "ill": "Lintang berdiri dan melompat ke sana kemari sambil bertanya. Sari duduk diam di dekat dinding, matanya tertuju pada semut."
+     "en": [
+      "Lintang kept asking.",
+      "But she did not look.",
+      "Sari sat still. Sari looked."
+     ],
+     "ill": "Lintang berdiri dan melompat ke sana kemari sambil bertanya. Sari berdiri diam di dekat dinding, matanya tertuju pada semut."
     },
     {
      "id": [
       "Lintang berhenti bertanya.",
-      "Lintang duduk.",
-      "Lintang melihat. *Look.*"
+      "Sari menunjuk semut.",
+      "Lintang duduk. Lintang melihat. *Look.*"
      ],
-     "en": [],
+     "en": [
+      "Lintang stopped asking.",
+      "Sari pointed at the ants.",
+      "Lintang sat down. She looked. Look"
+     ],
      "ill": "Lintang berhenti dan menatap Sari. Sari menunjuk semut dengan jari. Lintang perlahan duduk."
     },
     {
@@ -733,7 +863,11 @@
       "Dua semut. Tiga semut.",
       "Semut tidak berhenti."
      ],
-     "en": [],
+     "en": [
+      "One ant carried a crumb.",
+      "Two ants. Three ants.",
+      "The ants did not stop."
+     ],
      "ill": "Close-up semut membawa remah roti. Lintang memandang dari jarak aman, wajahnya dekat tetapi tidak menyentuh."
     },
     {
@@ -741,14 +875,19 @@
       "Lintang menggambar.",
       "Garis semut. Remah roti. Titik-titik kecil."
      ],
-     "en": [],
+     "en": [
+      "Lintang drew.",
+      "A line of ants. Bread crumbs. Tiny dots."
+     ],
      "ill": "Lintang menggambar di kertas: garis barisan semut, remah roti, dan titik-titik kecil."
     },
     {
      "id": [
       "“Ke mana mereka pergi?” bisik Lintang. *Ask.*"
      ],
-     "en": [],
+     "en": [
+      "“Where are they going?” Lintang whispered. Ask."
+     ],
      "ill": "Lintang berbisik sambil menunjuk ke ujung barisan semut. Gelembung tanya baru."
     },
     {
@@ -758,7 +897,12 @@
       "Ia mengikuti barisan.",
       "Sampai di lubang kecil."
      ],
-     "en": [],
+     "en": [
+      "Lintang walked slowly.",
+      "She did not touch the ants.",
+      "She followed the line",
+      "to a tiny hole."
+     ],
      "ill": "Lintang berjalan pelan di samping barisan semut, tangannya di belakang. Di ujung dinding ada lubang kecil."
     },
     {
@@ -766,16 +910,23 @@
       "Semut masuk lubang. Satu, dua, tiga.",
       "“Di dalam ada apa?” tanya Lintang."
      ],
-     "en": [],
+     "en": [
+      "The ants went into the hole. One, two, three.",
+      "“What’s in there?” asked Lintang."
+     ],
      "ill": "Semut satu per satu masuk ke lubang. Lintang dan Sari menatapnya. Gelembung tanya baru."
     },
     {
      "id": [
       "Lintang belum tahu kenapa semut berbaris.",
       "Tetapi ia punya gambar.",
-      "Ia punya pertanyaan baru. *Ants.*"
+      "Ia punya pertanyaan baru. *Ingin tahu.*"
      ],
-     "en": [],
+     "en": [
+      "Lintang did not know yet why ants line up.",
+      "But she had a drawing.",
+      "She had a new question. Wonder."
+     ],
      "ill": "Lintang tersenyum, kertas gambar di tangannya. Sari mengangguk."
     },
     {
@@ -783,7 +934,7 @@
       "Apa yang kamu lihat kalau kamu duduk diam dan memperhatikan?"
      ],
      "en": [
-      "What do you see when you sit still and look?"
+      "What do you see when you sit still and watch?"
      ],
      "q": 1,
      "ill": "Satu gambar besar semut dan remah roti dengan ruang kosong di sekitarnya untuk pertanyaan."
@@ -793,8 +944,8 @@
   },
   {
    "slug": "hujan",
-   "title": "Hujan Datang dari Mana?",
-   "en": "Where Does Rain Come From?",
+   "title": "Ke Mana Air Hujan Pergi?",
+   "en": "Where Does Rain Go?",
    "attr": "Knowledgeable",
    "fase": 1,
    "pos": "50% 50%",
@@ -806,16 +957,22 @@
      "id": [
       "Hujan turun.",
       "Tes, tes, tes.",
-      "Sari melihat air di tanah."
+      "Sari melihat genang air di tanah."
      ],
-     "en": [],
+     "en": [
+      "Rain fell.",
+      "Drip, drip, drip.",
+      "Sari looked at the puddle."
+     ],
      "ill": "Hujan turun di halaman sekolah. Sari berdiri di bawah atap kelas dan memandang genangan air di tanah. Bima berdiri di sampingnya."
     },
     {
      "id": [
       "“Air hujan pergi ke mana?” tanya Sari."
      ],
-     "en": [],
+     "en": [
+      "“Where does the rainwater go?” asked Sari."
+     ],
      "ill": "Sari menunjuk genangan dengan jari. Tanda tanya lembut melayang di atas kepalanya."
     },
     {
@@ -823,7 +980,10 @@
       "Bu Guru tersenyum.",
       "“Ayo kita jadi setetes hujan!”"
      ],
-     "en": [],
+     "en": [
+      "Teacher smiled.",
+      "“Let’s be raindrops!”"
+     ],
      "ill": "Bu Guru tersenyum dan membuka tangannya. Anak-anak berkumpul di dalam kelas."
     },
     {
@@ -831,7 +991,10 @@
       "Mula-mula, kita ada di awan.",
       "Kecil, kecil, kecil. *Cloud.*"
      ],
-     "en": [],
+     "en": [
+      "First, we were in a cloud.",
+      "Tiny, tiny, tiny. Cloud."
+     ],
      "ill": "Anak-anak berjongkok kecil di lantai dengan tangan di atas kepala, seperti tetes air di dalam awan. Awan digambar besar di dinding."
     },
     {
@@ -839,23 +1002,34 @@
       "Kita turun.",
       "Tes, tes, tes. *Rain. Down.*"
      ],
-     "en": [],
+     "en": [
+      "We fell down.",
+      "Drip, drip, drip. Rain. Down."
+     ],
      "ill": "Anak-anak berdiri dan menggerakkan jari-jari ke bawah seperti hujan jatuh. Sari dan Bima tertawa."
     },
     {
      "id": [
       "Kita mengalir di tanah.",
-      "Mengalir, mengalir, menuju sungai. *River.*"
+      "Mengalir, mengalir, menuju sungai. *River.*",
+      "Sungai membawa kita ke laut. *Sea.*"
      ],
-     "en": [],
-     "ill": "Anak-anak berjalan pelan berbaris seperti air mengalir. Garis biru di lantai menuju gambar sungai."
+     "en": [
+      "We flowed along the ground.",
+      "Flowing, flowing, all the way to the river. River.",
+      "The river carried us to the sea. Sea."
+     ],
+     "ill": "Anak-anak berjalan pelan berbaris seperti air mengalir. Garis biru di lantai menuju sungai, lalu berlanjut ke gambar laut."
     },
     {
      "id": [
       "Matahari menghangatkan kita.",
       "Kita naik pelan-pelan, menjadi uap. *Up.*"
      ],
-     "en": [],
+     "en": [
+      "The sun warmed us.",
+      "We floated up as vapor. Up."
+     ],
      "ill": "Matahari digambar di dinding. Anak-anak berdiri pelan, tangan terangkat ke atas, seperti uap yang naik."
     },
     {
@@ -863,24 +1037,34 @@
       "Di atas, kita berkumpul lagi.",
       "Kita menjadi awan."
      ],
-     "en": [],
+     "en": [
+      "Up high, we gathered again.",
+      "We became a cloud."
+     ],
      "ill": "Anak-anak berkumpul lagi di dekat gambar awan dengan tangan di atas, tersenyum."
     },
     {
      "id": [
       "Sari menggambar.",
-      "Awan. Hujan. Sungai. Matahari.",
+      "Awan. Hujan. Sungai. Laut. Matahari.",
       "Lalu awan lagi."
      ],
-     "en": [],
-     "ill": "Sari duduk dan menggambar lingkaran dengan panah: awan, hujan, sungai, matahari, lalu awan lagi."
+     "en": [
+      "Sari drew.",
+      "Cloud. Rain. River. Sea. Sun.",
+      "Then cloud again."
+     ],
+     "ill": "Sari duduk dan menggambar lingkaran dengan panah: awan, hujan, sungai, laut, matahari, lalu awan lagi."
     },
     {
      "id": [
       "“Airnya tidak hilang,” kata Sari.",
       "“Airnya berpindah.”"
      ],
-     "en": [],
+     "en": [
+      "“The water doesn’t disappear,” said Sari.",
+      "“It moves.”"
+     ],
      "ill": "Sari menunjukkan gambarnya kepada Bima. Bima mengangguk dengan mata lebar."
     },
     {
@@ -889,15 +1073,19 @@
       "“Kenapa awan menjatuhkan hujan?”",
       "Bu Guru tersenyum. “Pertanyaan bagus. Nanti kita cari tahu.”"
      ],
-     "en": [],
+     "en": [
+      "Sari asked again.",
+      "“Why does rain fall from clouds?”",
+      "Teacher smiled. “Good question. We’ll find out later.”"
+     ],
      "ill": "Sari menengadah ke jendela dengan tanda tanya baru. Bu Guru tersenyum tanpa menjawab."
     },
     {
      "id": [
-      "Ke mana perginya air setelah hujan turun?"
+      "Kalau kamu setetes hujan, ke mana kamu pergi?"
      ],
      "en": [
-      "Where does the water go after the rain falls?"
+      "If you were a raindrop, where would you go?"
      ],
      "q": 1,
      "ill": "Satu gambar besar awan dan hujan dengan ruang kosong di sekitarnya untuk pertanyaan."
@@ -1183,7 +1371,7 @@
       "Bima ingin menyela. Bima menahan mulutnya."
      ],
      "en": [
-      "Lintang held the stone. He talked about a guessing-picture game.",
+      "Lintang held the stone. She talked about a guessing-picture game.",
       "Bima wanted to jump in. Bima held his mouth shut."
      ],
      "ill": "Lintang memegang batu dan berbicara. Bima menahan mulutnya dengan kedua tangan."
@@ -1436,7 +1624,7 @@
       "“Tidak. Cara yang benar cuma satu. Cara ini.”"
      ],
      "en": [
-      "Lintang shook his head.",
+      "Lintang shook her head.",
       "“No. There is only one right way. This way.”"
      ],
      "ill": "Lintang menggeleng, tangannya bersilang. Sari menunduk sedikit."
@@ -1471,8 +1659,8 @@
       "Ia ingin ikut. Tapi dalam hati ia masih berkata, “Caraku yang benar.”"
      ],
      "en": [
-      "Lintang watched his friends laughing.",
-      "He wanted to join. But in his head he still said, “My way is the right way.”"
+      "Lintang watched her friends laughing.",
+      "She wanted to join. But in her head she still said, “My way is the right way.”"
      ],
      "ill": "Close-up wajah Lintang. Ia melihat teman-temannya tertawa, alisnya berkerut, ada gelembung pikiran “Caraku benar” dan gambar teman tertawa."
     },
@@ -1484,7 +1672,7 @@
      ],
      "en": [
       "Lintang walked over slowly.",
-      "“Can I try Sari’s way?” he asked.",
+      "“Can I try Sari’s way?” she asked.",
       "“Of course,” said Sari."
      ],
      "ill": "Lintang berjalan pelan mendekat. Sari menoleh dengan senyum kecil."
@@ -1495,8 +1683,8 @@
       "Doni menyentuhnya. Hup! Lintang hidup lagi dan tertawa."
      ],
      "en": [
-      "Lintang got tagged. He became a statue!",
-      "Doni touched him. Whoosh! Lintang came back to life and laughed."
+      "Lintang got tagged. She became a statue!",
+      "Doni touched her. Whoosh! Lintang came back to life and laughed."
      ],
      "ill": "Lintang membeku seperti patung dengan pose lucu. Doni menyentuh bahunya. Lintang melompat dan tertawa."
     },
@@ -1648,7 +1836,7 @@
       "Lalu ia jatuh lagi, dan tertawa."
      ],
      "en": [
-      "Lintang wrote in his notebook: Today, 3 meters.",
+      "Lintang wrote in her notebook: Today, 3 meters.",
       "Doni tried again. Four meters!",
       "Then he fell again, and laughed."
      ],
@@ -2576,7 +2764,7 @@
      ],
      "en": [
       "Nara stood at the edge of the field without a kite. She had never seen a sky so busy.",
-      "Lintang ran here and there with a small notebook. “Where does the wind come from? Why do kites go up?” he asked everyone. But he was so busy asking that he never listened to anyone’s answer."
+      "Lintang ran here and there with a small notebook. “Where does the wind come from? Why do kites go up?” she asked everyone. But she was so busy asking that she never listened to anyone’s answer."
      ]
     },
     {
@@ -2586,7 +2774,7 @@
      ],
      "en": [
       "On Monday, Bu Guru said, “We are going to write one class story about Kite Day. Lintang, you are the writer.”",
-      "Lintang was happy. He opened his notebook."
+      "Lintang was happy. She opened her notebook."
      ],
      "ch": [
       "Bab 2 — Tugas Bu Guru",
@@ -2611,7 +2799,7 @@
      ],
      "en": [
       "“For me it wasn’t fun,” Sari said quietly. “The day was scary. My string snapped and my kite was gone.”",
-      "Lintang shook his head. “That’s just you being scared. Everyone else was happy. A class story has to be one story, and it has to be the right one.”",
+      "Lintang shook her head. “That’s just you being scared. Everyone else was happy. A class story has to be one story, and it has to be the right one.”",
       "Sari went quiet and looked down."
      ]
     },
@@ -2620,7 +2808,7 @@
       "“Buatku hari itu confusing,” kata Nara, “tapi juga beautiful.” Lintang hanya melambaikan tangan. “Nanti saja, Nara.”"
      ],
      "en": [
-      "“For me the day was confusing,” said Nara, “but also beautiful.” Lintang just waved his hand. “Later, Nara.”"
+      "“For me the day was confusing,” said Nara, “but also beautiful.” Lintang just waved her hand. “Later, Nara.”"
      ]
     },
     {
@@ -2629,8 +2817,8 @@
       "Keesokan paginya, Bu Guru berjalan melewatinya dan bertanya pelan, “Lintang, apakah satu kejadian boleh punya lebih dari satu cerita?” Ia tidak menunggu jawaban dan kembali menulis di papan."
      ],
      "en": [
-      "That night, Lintang read the sentence in his notebook: The day was so much fun. Somehow it did not fit, like a shoe that is a little too small.",
-      "The next morning, Bu Guru walked past him and asked softly, “Lintang, can one day have more than one story?” She did not wait for an answer and went back to writing on the board."
+      "That night, Lintang read the sentence in her notebook: The day was so much fun. Somehow it did not fit, like a shoe that is a little too small.",
+      "The next morning, Bu Guru walked past her and asked softly, “Lintang, can one day have more than one story?” She did not wait for an answer and went back to writing on the board."
      ],
      "ch": [
       "Bab 3 — Mendengarkan Sampai Selesai",
@@ -2643,8 +2831,8 @@
       "“Ceritakan versimu,” katanya. “Aku akan mendengarkan sampai selesai.”"
      ],
      "en": [
-      "Lintang thought all through break. Then he went to Sari under the banyan tree and sat down. For the first time, he did not start with a question.",
-      "“Tell me your version,” he said. “I will listen until you are done.”"
+      "Lintang thought all through break. Then she went to Sari under the banyan tree and sat down. For the first time, she did not start with a question.",
+      "“Tell me your version,” she said. “I will listen until you are done.”"
      ]
     },
     {
@@ -2654,7 +2842,7 @@
      ],
      "en": [
       "Sari spoke softly. The wind was so strong that her hand hurt from holding the string. When the string snapped, she watched her kite get smaller and smaller until it was gone. She wanted to cry, but everyone was laughing and cheering, so she felt like the only sad person.",
-      "Lintang did not interrupt. When Sari finished, he said, “I understand why you thought the day was scary.”"
+      "Lintang did not interrupt. When Sari finished, she said, “I understand why you thought the day was scary.”"
      ]
     },
     {
@@ -2662,7 +2850,7 @@
       "Lalu Nara datang, dan Lintang bertanya kepadanya. Kali ini ia menunggu jawabannya. Nara bercerita bahwa di tempat ia dulu tinggal, langit biasanya kelabu dan sepi. Di sini ia melihat begitu banyak warna naik ke langit lewat seutas benang tipis. Ia tidak mengerti bagaimana semuanya bisa terbang, dan itu membuatnya bingung sekaligus terpesona."
      ],
      "en": [
-      "Then Nara came over, and Lintang asked her. This time he waited for her answer. Nara said that where she used to live, the sky was usually gray and quiet. Here she saw so many colors rising into the sky on a thin thread. She did not understand how it all could fly, and that made her confused and amazed at the same time."
+      "Then Nara came over, and Lintang asked her. This time she waited for her answer. Nara said that where she used to live, the sky was usually gray and quiet. Here she saw so many colors rising into the sky on a thin thread. She did not understand how it all could fly, and that made her confused and amazed at the same time."
      ]
     },
     {
@@ -2670,7 +2858,7 @@
       "Lintang membuka buku catatannya dan menatap kalimat pertamanya. Ia sadar bahwa ia mendengar cerita Bima lebih dulu karena Bima yang paling keras, dan ia sudah memutuskan sebelum mendengar yang lain. Pelan-pelan ia menulis di bawahnya: *Aku tadi salah menilai.*"
      ],
      "en": [
-      "Lintang opened his notebook and looked at his first sentence. He realized he had heard Bima’s story first because Bima was the loudest, and he had decided before hearing anyone else. Slowly he wrote underneath: I judged too quickly."
+      "Lintang opened her notebook and looked at her first sentence. She realized she had heard Bima’s story first because Bima was the loudest, and she had decided before hearing anyone else. Slowly she wrote underneath: I judged too quickly."
      ]
     },
     {
@@ -2693,7 +2881,7 @@
       "Bima berpikir lama. “Benar,” katanya akhirnya. “Aku tidak tahu layangannya hilang waktu itu. Aku sibuk melihat layanganku sendiri.”"
      ],
      "en": [
-      "Lintang did not answer right away. He asked, “Do you think Sari’s story is not true?”",
+      "Lintang did not answer right away. She asked, “Do you think Sari’s story is not true?”",
       "Bima thought for a long time. “It’s true,” he finally said. “I didn’t know her kite was gone. I was too busy watching my own.”"
      ]
     },
@@ -4790,7 +4978,7 @@
      "id": [],
      "en": [
       "For a moment it felt like two kites pulling on the same string. Doni raised a hand. “Should I tell a joke? You both look like angry roosters.” A few people laughed, but the tension stayed.",
-      "Lintang had his notebook open. He felt the old urge to decide who was right and write it down. Then he remembered Kite Day, and the sentence he had once written under his own words. He stood up."
+      "Lintang had her notebook open. She felt the old urge to decide who was right and write it down. Then she remembered Kite Day, and the sentence she had once written under her own words. She stood up."
      ]
     },
     {
@@ -4798,7 +4986,7 @@
       "**Ringkasan singkat:** Nara mengusulkan merekam dan menulis cerita Nenek Ratri dalam dua bahasa. Kakek Darma khawatir cerita yang ditulis berhenti hidup, dan Bima membela tradisi dengan keras. Lintang bertanya, “Siapa yang belum kita dengar?”"
      ],
      "en": [
-      "“Before we decide anything,” he said, “who haven’t we heard yet?”"
+      "“Before we decide anything,” she said, “who haven’t we heard yet?”"
      ]
     },
     {
@@ -4938,7 +5126,7 @@
       "**Ringkasan singkat:** Setelah sebulan, rekaman dipakai juga oleh keluarga di ujung gang, dan seorang anak menceritakan versi baru dengan seekor anjing. Kakek Darma tetap tidak setuju dengan buku tertulis, tetapi memahami alasan Nara. Pertanyaan Nenek Ratri dijawab anak-anak dengan cara yang berbeda-beda."
      ],
      "en": [
-      "They wrote in their notebook. Bima wrote: *Mine. A question I never asked.* Nara wrote: *Mine. Kakek Darma’s reason.* Sari wrote: *Not changed. But I understand more.* Doni wrote: *I still think everyone looks like roosters when they argue.* Lintang looked at his page for a long time. Then he wrote: *Mine, a little. I still want to hear more.*"
+      "They wrote in their notebook. Bima wrote: *Mine. A question I never asked.* Nara wrote: *Mine. Kakek Darma’s reason.* Sari wrote: *Not changed. But I understand more.* Doni wrote: *I still think everyone looks like roosters when they argue.* Lintang looked at her page for a long time. Then she wrote: *Mine, a little. I still want to hear more.*"
      ]
     },
     {
