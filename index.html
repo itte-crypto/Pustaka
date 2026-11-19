@@ -190,12 +190,21 @@ select.ib{font:inherit;font-size:.85rem;color:inherit}
 .pgs button[aria-current="page"]{background:var(--accent);border-color:var(--accent);color:#fff}
 :fullscreen .pgs{display:none}
 @media print{.pgs{display:none!important}}
+.gt{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:.6em 0 1em}
+.gt.sub{grid-template-columns:repeat(4,minmax(0,1fr))}@media (max-width:640px){.gt.sub{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.gl2{margin:1em 0 .2em;color:var(--mute);font-size:.9rem}
+.tile{display:flex;flex-direction:column;align-items:flex-start;gap:2px;text-align:left;padding:12px 14px;border-radius:14px;border:1px solid var(--line);background:var(--card);color:var(--ink)}
+.tile:hover,.tile:focus-visible{border-color:var(--accent);transform:translateY(-1px)}
+.tile .ic{font-size:1.7rem;line-height:1.1;margin-bottom:2px}.tile b{font-family:Fredoka,Andika,sans-serif;font-size:1.02rem}.tile small{color:var(--mute)}
+#gp h2,#gp h3.grp{scroll-margin-top:12px}
+#login{display:grid;place-items:center;text-align:center;padding:24px}
+.lk{max-width:440px}.lk h1{font-family:Fredoka,Andika,sans-serif;font-size:1.8rem;margin:.2em 0}.lk p{color:var(--mute);margin:.6em 0 1.2em}#gbtn{display:flex;justify-content:center;min-height:44px}
 </style>
 </head>
 <body data-lang="en">
 
 <main id="home" class="view"><div class="hw">
- <div class="top"><button class="ib" id="hGuru"></button><button class="ib" id="hLang" aria-label="Language"></button></div>
+ <div class="top"><button class="ib" id="hOut" hidden>Keluar</button><button class="ib" id="hGuru"></button><button class="ib" id="hLang" aria-label="Language"></button></div>
  <h2>Cerita dari Kampung Teduh</h2>
  <p class="sub">Stories from Kampung Teduh</p>
  <p class="by" id="bl" hidden></p>
@@ -235,6 +244,10 @@ select.ib{font:inherit;font-size:.85rem;color:inherit}
  <article class="doc" id="doc"></article>
 </section>
 
+<section id="login" class="view" hidden>
+ <div class="lk"><h1>Pustaka Kampung Teduh</h1><p id="lmsg"></p><div id="gbtn"></div></div>
+</section>
+
 <section id="gp" class="view" hidden>
  <header class="bar"><button class="ib" id="gBack" aria-label="Kembali ke rak buku">⌂</button><span class="t">Panduan Guru</span></header>
  <div class="gpb" id="gpb"></div>
@@ -242,7 +255,11 @@ select.ib{font:inherit;font-size:.85rem;color:inherit}
 
 <div id="zoom" hidden role="dialog" aria-label="Gambar penuh"><img alt=""></div>
 <script>
-const AUTHOR='Hisainru Kai';   // <- isi namamu di sini, contoh: const AUTHOR='Nama Kamu';
+const AUTHOR='Hisainru Kai';
+/* Akses khusus guru (kosongkan semuanya = situs terbuka seperti biasa).
+   clientId = ID klien OAuth Google, api = alamat web app Apps Script (berakhiran /exec), hd = domain email sekolah. */
+const AUTH={clientId:'146239549554-7enk5bmukes6b8n3b8levu6m3c2kgadc.apps.googleusercontent.com',api:'https://script.google.com/macros/s/AKfycbx8w9b5c5_TPbt-3uTgH2oDxn_zHZYCPM-xYKpjTQsRnrfCVhsmUmcVA-2weRR6pk6e/exec',hd:''};
+const PRIV=!!(AUTH.clientId&&AUTH.api);   // <- isi namamu di sini, contoh: const AUTHOR='Nama Kamu';
 let BOOKS=[],KNS={},PROF={},ret='',GQ='',TM={at:'',kind:'kg'};
 const $=s=>document.querySelector(s);
 let B={pages:[],slug:''},N=0;
@@ -307,6 +324,7 @@ function teach(kind,at){
   d.querySelectorAll('a.pg').forEach(a=>{const f=()=>go(+a.dataset.p);a.onclick=f;a.onkeydown=e=>{if(e.key==='Enter')f()}})}
 }
 function route(){
+ if(PRIV&&!BOOKS.length)return;
  $('#zoom').hidden=true;
  const h=location.hash.slice(1);let m,r=0,g=0,p=0,n=0,k=0,b=null,at='';
  if(m=/^baca-([a-z0-9]+)-(\d+)$/.exec(h)){r=1;b=m[1];n=+m[2]}
@@ -408,22 +426,50 @@ $('#shelf').onclick=e=>{const g=e.target.closest('.tg');if(g){ret='rak';location
  const n=e.target.closest('.kn');if(n){ret='rak';location.hash='nilai-'+n.dataset.n;return}
  const k=e.target.closest('.book');if(k)location.hash='baca-'+k.dataset.s+'-0'};
 $('#hGuru').onclick=()=>{location.hash='panduan'};$('#gBack').onclick=()=>{location.hash='rak'};
+const FI=['🌱','🌿','🌳','🌸'];
+function tiles(){const T=(id,ic,t,n)=>'<button class="tile" data-sc="'+id+'"><span class="ic" aria-hidden="true">'+ic+'</span><b>'+t+'</b><small>'+n+'</small></button>';
+ return '<div class="gt">'+T('sc-profil','🌟','Profil Learner Profile',Object.keys(PROF).length+' dari '+LP.length+' atribut')+T('sc-nilai','🏅','Kartu Nilai',Object.keys(KNS).length+' dari '+LP.length+' atribut')+T('sc-guru','📘','Kartu Guru',BOOKS.length+' buku')+'</div>'
+ +'<p class="gl2">Kartu Guru per fase</p><div class="gt sub">'+[1,2,3,4].map(f=>T('sc-f'+f,FI[f-1],PH(f),GR[f]+' · '+BOOKS.filter(b=>b.fase===f).length+' buku')).join('')+'</div>'}
 function gRows(){const q=GQ.trim().toLowerCase(),li=b=>LP.indexOf(b.attr);let h='';
  [1,2,3,4].forEach(f=>{const L=BOOKS.filter(b=>b.fase===f&&(!q||(b.title+' '+b.en+' '+b.attr).toLowerCase().includes(q))).sort((a,b)=>li(a)-li(b));
-  if(L.length)h+='<h3 class="grp">'+PH(f)+' <small>'+GR[f]+'</small></h3><div class="rows">'+L.map(b=>'<button class="row" data-g="'+b.slug+'"><b>'+tt(b)[0]+'</b><small>'+tt(b)[1]+' · '+b.attr+'</small></button>').join('')+'</div>'});
+  if(L.length)h+='<h3 class="grp" id="sc-f'+f+'">'+PH(f)+' <small>'+GR[f]+'</small></h3><div class="rows">'+L.map(b=>'<button class="row" data-g="'+b.slug+'"><b>'+tt(b)[0]+'</b><small>'+tt(b)[1]+' · '+b.attr+'</small></button>').join('')+'</div>'});
  $('#gl2').innerHTML=h||'<p class="sub">'+U('none')+'</p>'}
 function panduan(){
- $('#gpb').innerHTML='<div class="hw"><h2>Profil Learner Profile</h2><p class="sub">Penjelasan tiap atribut beserta tanda-tandanya di empat fase.</p><div class="gl">'+LP.map(a=>'<button class="fb" data-p="'+a.toLowerCase()+'"'+(PROF[a]?'':' disabled')+'>'+a+'</button>').join('')+'</div><p><button class="fb" data-p="semua">Lihat semua profil (untuk dicetak)</button></p><h2 style="margin-top:1.6em">Kartu Nilai</h2><p class="sub">Satu kartu untuk setiap learner profile, berlaku untuk keempat fase.</p><div class="gl">'+LP.map(a=>'<button class="fb" data-n="'+a.toLowerCase()+'"'+(KNS[a]?'':' disabled')+'>'+a+'</button>').join('')+'</div><p><button class="fb" data-n="semua">Lihat semua Kartu Nilai (untuk dicetak)</button></p><h2 style="margin-top:1.6em">Kartu Guru</h2><p class="sub">Satu kartu untuk setiap buku. Di halaman kartu ada tombol Cetak.</p><input id="gq" type="search" placeholder="Cari judul atau learner profile…" aria-label="Cari" value="'+esc(GQ)+'"><div id="gl2"></div></div>';
+ $('#gpb').innerHTML='<div class="hw"><h2>Isi Panduan Guru</h2><p class="sub">Klik untuk langsung ke bagiannya.</p>'+tiles()+'<h2 id="sc-profil" style="margin-top:1.6em">Profil Learner Profile</h2><p class="sub">Penjelasan tiap atribut beserta tanda-tandanya di empat fase.</p><div class="gl">'+LP.map(a=>'<button class="fb" data-p="'+a.toLowerCase()+'"'+(PROF[a]?'':' disabled')+'>'+a+'</button>').join('')+'</div><p><button class="fb" data-p="semua">Lihat semua profil (untuk dicetak)</button></p><h2 id="sc-nilai" style="margin-top:1.6em">Kartu Nilai</h2><p class="sub">Satu kartu untuk setiap learner profile, berlaku untuk keempat fase.</p><div class="gl">'+LP.map(a=>'<button class="fb" data-n="'+a.toLowerCase()+'"'+(KNS[a]?'':' disabled')+'>'+a+'</button>').join('')+'</div><p><button class="fb" data-n="semua">Lihat semua Kartu Nilai (untuk dicetak)</button></p><h2 id="sc-guru" style="margin-top:1.6em">Kartu Guru</h2><p class="sub">Satu kartu untuk setiap buku. Di halaman kartu ada tombol Cetak.</p><input id="gq" type="search" placeholder="Cari judul atau learner profile…" aria-label="Cari" value="'+esc(GQ)+'"><div id="gl2"></div></div>';
  gRows()}
-$('#gpb').onclick=e=>{const pf=e.target.closest('[data-p]');if(pf&&!pf.disabled){ret='panduan';location.hash='profil-'+pf.dataset.p;return}
+$('#gpb').onclick=e=>{const sc=e.target.closest('[data-sc]');if(sc){const t=document.getElementById(sc.dataset.sc);if(t)t.scrollIntoView({behavior:'smooth',block:'start'});return}
+ const pf=e.target.closest('[data-p]');if(pf&&!pf.disabled){ret='panduan';location.hash='profil-'+pf.dataset.p;return}
  const n=e.target.closest('[data-n]');if(n&&!n.disabled){ret='panduan';location.hash='nilai-'+n.dataset.n;return}
  const g=e.target.closest('[data-g]');if(g){ret='panduan';location.hash='guru-'+g.dataset.g}};
 $('#gpb').oninput=e=>{if(e.target.id==='gq'){GQ=e.target.value;gRows()}};
 $('#hLang').onclick=()=>$('#bLang').onclick();
 if('serviceWorker' in navigator)addEventListener('load',()=>navigator.serviceWorker.register('sw.js').catch(()=>{}));
 prefs();ui();
+const jwtExp=t=>{try{return JSON.parse(atob(t.split('.')[1].replace(/-/g,'+').replace(/_/g,'/'))).exp*1000}catch(e){return 0}};
+const lockMsg=h=>{$('#home').hidden=true;$('#login').hidden=false;$('#lmsg').innerHTML=h};
+let gsi=null;
+function loadGsi(){return gsi||(gsi=new Promise((ok,no)=>{const sc=document.createElement('script');sc.src='https://accounts.google.com/gsi/client';sc.async=true;
+ sc.onload=()=>{google.accounts.id.initialize({client_id:AUTH.clientId,callback:r=>pull(r.credential),auto_select:true,hd:AUTH.hd||undefined,cancel_on_tap_outside:false});ok()};sc.onerror=no;document.head.appendChild(sc)}))}
+function showBtn(){loadGsi().then(()=>{$('#gbtn').innerHTML='';google.accounts.id.renderButton($('#gbtn'),{theme:'outline',size:'large',text:'signin_with',shape:'pill'})}).catch(()=>lockMsg('Layanan masuk Google tidak bisa dimuat. Periksa koneksi internet atau pemblokir iklan, lalu muat ulang.'))}
+async function pull(tok){
+ lockMsg('Memuat…');let r;
+ try{r=await fetch(AUTH.api,{method:'POST',headers:{'Content-Type':'text/plain;charset=utf-8'},body:JSON.stringify({t:tok})}).then(x=>x.json())}
+ catch(e){lockMsg('Tidak bisa menghubungi server. Periksa koneksi internet lalu muat ulang halaman.');return}
+ if(r&&r.ok){try{sessionStorage.setItem('kt-tok',tok);localStorage.removeItem('kt-data')}catch(e){}
+  $('#login').hidden=true;$('#hOut').hidden=false;load(r.data);return}
+ try{sessionStorage.removeItem('kt-tok')}catch(e){}
+ const er=r&&r.err;
+ lockMsg(er==='tidak-terdaftar'?'Akun <b>'+esc(r.email||'')+'</b> belum terdaftar sebagai guru. Hubungi admin sekolah, atau masuk dengan akun lain.':er==='belum-terbit'?'Data belum diterbitkan. Hubungi admin.':er==='server-belum-siap'?'Server belum siap. Hubungi admin.':'Masuk belum berhasil. Silakan masuk lagi dengan akun Google sekolah.');
+ showBtn()}
+$('#hOut').onclick=()=>{try{sessionStorage.removeItem('kt-tok')}catch(e){}if(window.google&&google.accounts)google.accounts.id.disableAutoSelect();location.hash='';location.reload()};
+if(!PRIV){
 fetch('data.json',{cache:'no-cache'}).then(r=>r.json()).then(d=>{try{localStorage.setItem('kt-data',JSON.stringify(d))}catch(e){}load(d)})
  .catch(()=>{try{load(JSON.parse(localStorage.getItem('kt-data')))}catch(e){$('#shelf').textContent='Data belum bisa dimuat. Periksa koneksi internet.'}});
+}else{
+ const st=(()=>{try{return sessionStorage.getItem('kt-tok')}catch(e){return null}})();
+ if(st&&jwtExp(st)>Date.now()+60000)pull(st);
+ else{lockMsg('Masuk dengan akun Google sekolah untuk membuka Pustaka.');showBtn();loadGsi().then(()=>google.accounts.id.prompt()).catch(()=>{})}
+}
 </script>
 </body>
 </html>
