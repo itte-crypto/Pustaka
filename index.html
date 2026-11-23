@@ -199,6 +199,15 @@ select.ib{font:inherit;font-size:.85rem;color:inherit}
 #gp h2,#gp h3.grp{scroll-margin-top:12px}
 #login{display:grid;place-items:center;text-align:center;padding:24px}
 .lk{max-width:440px}.lk h1{font-family:Fredoka,Andika,sans-serif;font-size:1.8rem;margin:.2em 0}.lk p{color:var(--mute);margin:.6em 0 1.2em}#gbtn{display:flex;justify-content:center;min-height:44px}
+.chip.im{border:1px solid transparent}.chip.ok{background:#d5ebcf;color:#27501b}.chip.part{background:#f5e3b8;color:#6b4a0c}.chip.no{background:transparent;border:1px dashed var(--mute);color:var(--mute)}
+#fI{align-items:center}.flab{color:var(--mute);font-size:.8rem;margin-right:2px}
+.mdl{position:fixed;inset:0;z-index:30;background:rgba(15,10,5,.55);display:flex;align-items:center;justify-content:center;padding:16px}.mdl[hidden]{display:none}
+.mbox{background:var(--bg);color:var(--ink);border-radius:16px;padding:20px;width:min(540px,100%);max-height:92vh;overflow:auto;box-shadow:0 10px 40px rgba(0,0,0,.3)}
+.mbox h2{margin:0 0 .2em;font-size:1.25rem}.mbox label{display:block;margin:.8em 0 .25em;font-size:.85rem;color:var(--mute)}
+.mbox select,.mbox textarea{width:100%;font:inherit;color:inherit;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:9px 11px}
+.mbox textarea{resize:vertical;min-height:130px}.mbox .sub{margin:.3em 0}#sStat{min-height:1.4em;margin:.6em 0 0;font-size:.92rem}
+.mrow{display:flex;gap:8px;justify-content:flex-end;margin-top:.8em}
+@media (max-width:640px){.sw{display:none}}
 </style>
 </head>
 <body data-lang="en">
@@ -209,7 +218,7 @@ select.ib{font:inherit;font-size:.85rem;color:inherit}
  <p class="sub">Stories from Kampung Teduh</p>
  <p class="by" id="bl" hidden></p>
  <div class="tools2"><input id="q" type="search" aria-label="Search"><div class="seg" id="by"><button data-b="fase"></button><button data-b="lp"></button></div></div>
- <div class="fl" id="fF"></div><div class="fl" id="fL"></div>
+ <div class="fl" id="fF"></div><div class="fl" id="fL"></div><div class="fl" id="fI"></div>
  <div id="shelf"></div>
  <p class="sub" id="upd" style="font-size:.8rem;margin-top:1.6em"></p>
 </div></main>
@@ -219,6 +228,7 @@ select.ib{font:inherit;font-size:.85rem;color:inherit}
   <button class="ib" id="bHome" aria-label="Kembali ke rak buku">⌂</button>
   <span class="t">Bekal Bima</span>
   <div class="tools">
+   <button class="ib" id="bSaran" aria-label="Beri saran" title="Beri saran" hidden>💬<span class="sw"> Saran</span></button>
    <button class="ib tab" id="bTeach" aria-label="Panduan guru">Guru</button>
    <button class="ib" id="bLang" aria-label="Ganti bahasa"></button>
    <button class="ib" id="bMinus" aria-label="Perkecil huruf">A−</button>
@@ -239,10 +249,21 @@ select.ib{font:inherit;font-size:.85rem;color:inherit}
  <header class="bar">
   <button class="ib" id="tBack" aria-label="Kembali ke buku">‹</button>
   <span class="t">Panduan guru</span>
-  <div class="tools"><select class="ib" id="tOpt" aria-label="Bagian yang dicetak"><option value="">Cetak: semua</option><option value="t1">Cetak: Tahun 1 saja</option><option value="t2">Cetak: Tahun 2 saja</option></select><button class="ib" id="tPrint">Cetak</button><button class="ib tab" id="tKg">Kartu Guru</button><button class="ib tab" id="tKn">Kartu Nilai</button><button class="ib tab" id="tPf">Profil</button><button class="ib" id="tLang" aria-label="Ganti bahasa"></button></div>
+  <div class="tools"><button class="ib" id="tSaran" aria-label="Beri saran" title="Beri saran" hidden>💬<span class="sw"> Saran</span></button><select class="ib" id="tOpt" aria-label="Bagian yang dicetak"><option value="">Cetak: semua</option><option value="t1">Cetak: Tahun 1 saja</option><option value="t2">Cetak: Tahun 2 saja</option></select><button class="ib" id="tPrint">Cetak</button><button class="ib tab" id="tKg">Kartu Guru</button><button class="ib tab" id="tKn">Kartu Nilai</button><button class="ib tab" id="tPf">Profil</button><button class="ib" id="tLang" aria-label="Ganti bahasa"></button></div>
  </header>
  <article class="doc" id="doc"></article>
 </section>
+
+<div id="saran" class="mdl" hidden role="dialog" aria-modal="true" aria-labelledby="sTitle">
+ <div class="mbox"><h2 id="sTitle">Beri saran</h2><p class="sub" id="sCtx"></p>
+  <label for="sJenis">Tentang</label>
+  <select id="sJenis"><option>Cerita (teks)</option><option>Gambar</option><option>Terjemahan</option><option>Kartu Guru / Nilai / Profil</option><option>Lainnya</option></select>
+  <label for="sMsg">Pesan</label>
+  <textarea id="sMsg" maxlength="1500" placeholder="Tulis saran atau komentarmu di sini…"></textarea>
+  <p class="sub" style="font-size:.8rem">Pesanmu masuk ke penulis. Nama dan emailmu ikut tercatat.</p>
+  <p id="sStat" role="status" aria-live="polite"></p>
+  <div class="mrow"><button class="fb" id="sBatal">Tutup</button><button class="fb on" id="sKirim">Kirim</button></div></div>
+</div>
 
 <section id="login" class="view" hidden>
  <div class="lk"><h1>Pustaka Kampung Teduh</h1><p id="lmsg"></p><div id="gbtn"></div></div>
@@ -356,6 +377,8 @@ $('#bPlus').onclick=()=>{fs=Math.min(1.8,fs+.15);prefs();save()};
 $('#bFull').onclick=()=>{try{document.fullscreenElement?document.exitFullscreen():document.documentElement.requestFullscreen()}catch(e){}};
 document.addEventListener('keydown',e=>{
  if(!$('#zoom').hidden){if(e.key==='Escape'||e.key==='Enter'||e.key===' ')$('#zoom').hidden=true;return}
+ if(!$('#saran').hidden){if(e.key==='Escape')closeSaran();return}
+ if(/^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName))return;
  if($('#read').hidden)return;
  if(e.key==='ArrowRight'||e.key===' '){e.preventDefault();if(cur<=N)go(cur+1)}
  else if(e.key==='ArrowLeft'){if(cur>0)go(cur-1)}
@@ -391,15 +414,17 @@ const prep=b=>{const im={cover:'img/'+b.slug+'/cover.webp'};b.pages.forEach((p,i
  return {...b,_s:(b.title+' '+(b.en||'')+' '+b.attr+' '+b.pages.map(p=>(p.id||[]).concat(p.en||[]).join(' ')).join(' ')).toLowerCase().replace(/\*/g,''),title:esc(b.title),en:esc(b.en||''),imgs:im,pages:b.pages.map(p=>({...p,ill:p.ill?esc(p.ill):'',ch:p.ch&&[esc(p.ch[0]),p.ch[1]?esc(p.ch[1]):''],id:(p.id||[]).map(x=>inl(x)),en:(p.en||[]).map(x=>inl(x))}))}};
 function load(d){ui();KNS=d.kn||{};PROF=d.profil||{};BOOKS=d.books.map(prep);$('#upd').textContent=d.updated?'Diperbarui '+d.updated:'';shelf();route()}
 const NX={en:'bi',bi:'id',id:'en'},warmed={};
-const UI={start:['Start reading ›','Mulai membaca ›'],end:['The End','Tamat'],again:['Read again','Baca lagi'],shelf:['Bookshelf','Rak buku'],cover:['Cover','Sampul'],pages:['pages','halaman'],soon:['Illustration coming soon','Gambar segera hadir'],phase:['Phase','Fase'],all:['All','Semua'],search:['Search title, story or learner profile…','Cari judul, cerita, atau learner profile…'],byP:['By phase','Per fase'],byL:['By learner profile','Per learner profile'],none:['No stories match.','Tidak ada cerita yang cocok.'],teacher:['Teacher','Guru'],pg:['Teacher guide','Panduan Guru'],kn:['Kartu Nilai','Kartu Nilai'],pf:['Profil','Profil'],by:['Written by ','Ditulis oleh '],title:['Stories from Kampung Teduh','Cerita dari Kampung Teduh'],sub:['Cerita dari Kampung Teduh','Stories from Kampung Teduh']};
+const UI={start:['Start reading ›','Mulai membaca ›'],end:['The End','Tamat'],again:['Read again','Baca lagi'],shelf:['Bookshelf','Rak buku'],cover:['Cover','Sampul'],pages:['pages','halaman'],soon:['Illustration coming soon','Gambar segera hadir'],phase:['Phase','Fase'],all:['All','Semua'],search:['Search title, story or learner profile…','Cari judul, cerita, atau learner profile…'],byP:['By phase','Per fase'],byL:['By learner profile','Per learner profile'],none:['No stories match.','Tidak ada cerita yang cocok.'],teacher:['Teacher','Guru'],pg:['Teacher guide','Panduan Guru'],kn:['Kartu Nilai','Kartu Nilai'],iok:['Images ready','Gambar siap'],ipart:['Images partial','Gambar sebagian'],ino:['No images yet','Gambar belum'],iall:['All','Semua'],ilab:['Illustrations','Gambar'],pf:['Profil','Profil'],by:['Written by ','Ditulis oleh '],title:['Stories from Kampung Teduh','Cerita dari Kampung Teduh'],sub:['Cerita dari Kampung Teduh','Stories from Kampung Teduh']};
 const U=k=>UI[k][lang==='id'?1:0];
 const LP=['Inquirers','Knowledgeable','Thinkers','Communicators','Principled','Open-minded','Caring','Risk-takers','Balanced','Reflective'];
 const GR=['','EY1–EY2','Grade 1–2','Grade 3–4','Grade 5–6'];
 const PH=n=>U('phase')+' '+n;
 const tt=b=>lang==='id'?[b.title,b.en]:[b.en||b.title,b.title];
-const chips=b=>'<div class="chips"><span class="chip a">'+PH(b.fase)+'</span><span class="chip">'+b.attr+'</span></div>';
+const imgChip=b=>{const t=imgSt(b);return '<span class="chip im '+(t==='siap'?'ok':t==='sebagian'?'part':'no')+'">'+(t==='siap'?'✓ '+U('iok'):t==='sebagian'?'◐ '+U('ipart'):'○ '+U('ino'))+'</span>'};
+const chips=(b,s)=>'<div class="chips"><span class="chip a">'+PH(b.fase)+'</span><span class="chip">'+b.attr+'</span>'+(s?imgChip(b):'')+'</div>';
 const chh=c=>{const e=lang!=='id'&&c[1],x=e?c[1]:c[0],y=e?c[0]:c[1];return '<div class="ch">'+x+(y?'<small>'+y+'</small>':'')+'</div>'};
-const F={q:'',fase:0,lp:'',by:'fase'};
+const F={q:'',fase:0,lp:'',by:'fase',img:''};
+const imgSt=b=>b.img||'belum';
 function ui(){document.documentElement.lang=lang==='id'?'id':'en';
  $('#home h2').textContent=U('title');document.title=U('title');$('#home .sub').textContent=U('sub');$('#q').placeholder=U('search');
  $('#by [data-b=fase]').textContent=U('byP');$('#by [data-b=lp]').textContent=U('byL');
@@ -408,16 +433,19 @@ function shelf(){
  const q=F.q.trim().toLowerCase(),byF=F.by==='fase',have=new Set(BOOKS.map(b=>b.attr)),li=b=>LP.indexOf(b.attr);
  $('#fF').innerHTML='<button class="fb'+(F.fase?'':' on')+'" data-f="0">'+U('all')+'</button>'+[1,2,3,4].map(n=>'<button class="fb'+(F.fase===n?' on':'')+'" data-f="'+n+'">'+PH(n)+' <small>'+GR[n]+'</small></button>').join('');
  $('#fL').innerHTML='<button class="fb'+(F.lp?'':' on')+'" data-l="">'+U('all')+'</button>'+LP.map(a=>'<button class="fb'+(F.lp===a?' on':'')+'" data-l="'+a+'"'+(have.has(a)||F.lp===a?'':' disabled')+'>'+a+'</button>').join('');
+ const cnt={siap:0,sebagian:0,belum:0};BOOKS.forEach(b=>cnt[imgSt(b)]++);
+ $('#fI').innerHTML='<span class="flab">'+U('ilab')+'</span><button class="fb'+(F.img?'':' on')+'" data-i="">'+U('iall')+'</button>'+['siap','sebagian','belum'].map(k=>'<button class="fb'+(F.img===k?' on':'')+'" data-i="'+k+'">'+U({siap:'iok',sebagian:'ipart',belum:'ino'}[k])+' <small>'+cnt[k]+'</small></button>').join('');
  document.querySelectorAll('#by button').forEach(x=>x.classList.toggle('on',x.dataset.b===F.by));
- const L=BOOKS.filter(b=>(!F.fase||b.fase===F.fase)&&(!F.lp||b.attr===F.lp)&&(!q||b._s.includes(q)))
+ const L=BOOKS.filter(b=>(!F.fase||b.fase===F.fase)&&(!F.lp||b.attr===F.lp)&&(!F.img||imgSt(b)===F.img)&&(!q||b._s.includes(q)))
   .sort(byF?(a,b)=>a.fase-b.fase||li(a)-li(b):(a,b)=>li(a)-li(b)||a.fase-b.fase);
  let h='',k0=null;
  L.forEach(b=>{const k=byF?b.fase:b.attr,t=tt(b);
   if(k!==k0){if(k0!==null)h+='</div>';h+='<h3 class="grp">'+(byF?PH(k)+' <small>'+GR[k]+'</small>':k+(PROF[k]?'<button class="fb kp" data-p="'+k.toLowerCase()+'">'+U('pf')+'</button>':'')+(KNS[k]?'<button class="fb kn" data-n="'+k.toLowerCase()+'">'+U('kn')+'</button>':''))+'</h3><div class="grid">';k0=k}
-  h+='<div class="bk"><button class="book" data-s="'+b.slug+'"><img src="'+b.imgs.cover+'" alt="'+t[0]+'" onerror="imgFail(this)"><div class="in"><b>'+t[0]+'</b><small>'+t[1]+'</small>'+chips(b)+'</div></button><button class="tg" data-g="'+b.slug+'">'+U('teacher')+'</button></div>'});
+  h+='<div class="bk"><button class="book" data-s="'+b.slug+'"><img src="'+b.imgs.cover+'" alt="'+t[0]+'" onerror="imgFail(this)"><div class="in"><b>'+t[0]+'</b><small>'+t[1]+'</small>'+chips(b,1)+'</div></button><button class="tg" data-g="'+b.slug+'">'+U('teacher')+'</button></div>'});
  if(k0!==null)h+='</div>';
  $('#shelf').innerHTML=h||'<p class="sub">'+U('none')+'</p>'}
 $('#fF').onclick=e=>{const b=e.target.closest('[data-f]');if(b){F.fase=+b.dataset.f;shelf()}};
+$('#fI').onclick=e=>{const b=e.target.closest('[data-i]');if(b){F.img=b.dataset.i;shelf()}};
 $('#fL').onclick=e=>{const b=e.target.closest('[data-l]');if(b&&!b.disabled){F.lp=b.dataset.l;shelf()}};
 $('#by').onclick=e=>{const b=e.target.closest('[data-b]');if(b){F.by=b.dataset.b;shelf()}};
 $('#q').oninput=e=>{F.q=e.target.value;shelf()};
@@ -445,6 +473,27 @@ $('#gpb').oninput=e=>{if(e.target.id==='gq'){GQ=e.target.value;gRows()}};
 $('#hLang').onclick=()=>$('#bLang').onclick();
 if('serviceWorker' in navigator)addEventListener('load',()=>navigator.serviceWorker.register('sw.js').catch(()=>{}));
 prefs();ui();
+let SC={};
+const dKey=()=>(SC.slug||'')+'|'+(SC.hal||'');
+function openSaran(c){SC=c;$('#sCtx').textContent=c.label;$('#sJenis').value=c.jenis;$('#sStat').textContent='';
+ let d=null;try{d=JSON.parse(sessionStorage.getItem('kt-draft')||'null')}catch(e){}
+ $('#sMsg').value=d&&d.k===dKey()?d.m:'';$('#saran').hidden=false;$('#sMsg').focus()}
+function closeSaran(){$('#saran').hidden=true}
+async function kirimSaran(){
+ const m=$('#sMsg').value.trim(),st=t=>{$('#sStat').textContent=t};
+ if(!m){st('Tulis pesannya dulu.');return}
+ let tok=null;try{tok=sessionStorage.getItem('kt-tok')}catch(e){}
+ if(!tok||jwtExp(tok)<Date.now()+15000){st('Sesi masukmu sudah berakhir. Muat ulang halaman dan masuk lagi. Tulisanmu tidak hilang.');return}
+ $('#sKirim').disabled=true;st('Mengirim…');
+ try{const r=await fetch(AUTH.api,{method:'POST',headers:{'Content-Type':'text/plain;charset=utf-8'},body:JSON.stringify({t:tok,a:'saran',slug:SC.slug||'',judul:SC.judul||'',hal:SC.hal||'',jenis:$('#sJenis').value,pesan:m})}).then(x=>x.json());
+  if(r&&r.ok&&r.saved===true){try{sessionStorage.removeItem('kt-draft')}catch(e){}$('#sMsg').value='';st('Terima kasih! Pesanmu sudah terkirim ✓');setTimeout(closeSaran,1300)}
+  else st(r&&r.err==='terlalu-sering'?'Terlalu banyak pesan dalam satu jam. Coba lagi nanti.':r&&r.err==='tidak-terdaftar'?'Akunmu belum terdaftar sebagai guru.':r&&r.err==='token-tidak-valid'?'Sesi masukmu bermasalah. Muat ulang halaman dan masuk lagi.':r&&r.ok?'Server belum diperbarui, jadi pesan belum tersimpan. Hubungi admin.':'Belum terkirim. Tulisanmu masih tersimpan, coba lagi.')}
+ catch(e){st('Tidak bisa menghubungi server. Tulisanmu masih tersimpan, coba kirim lagi.')}
+ $('#sKirim').disabled=false}
+$('#sMsg').oninput=()=>{try{sessionStorage.setItem('kt-draft',JSON.stringify({k:dKey(),m:$('#sMsg').value}))}catch(e){}};
+$('#sBatal').onclick=closeSaran;$('#sKirim').onclick=kirimSaran;$('#saran').onclick=e=>{if(e.target.id==='saran')closeSaran()};
+$('#bSaran').onclick=()=>{const h=cur===0?'Sampul':cur===N+1?'Tamat':String(cur);openSaran({slug:B.slug,judul:un(B.title),hal:h,jenis:'Cerita (teks)',label:un(tt(B)[0])+' · '+(cur===0?'Sampul':cur===N+1?'Tamat':'Halaman '+cur)})};
+$('#tSaran').onclick=()=>{const t=$('#teach .t').textContent,nm=TM.kind==='pf'?'Profil':TM.kind==='kn'?'Kartu Nilai':'Kartu Guru';openSaran({slug:TM.at?'':B.slug,judul:t,hal:nm,jenis:'Kartu Guru / Nilai / Profil',label:t})};
 const jwtExp=t=>{try{return JSON.parse(atob(t.split('.')[1].replace(/-/g,'+').replace(/_/g,'/'))).exp*1000}catch(e){return 0}};
 const lockMsg=h=>{$('#home').hidden=true;$('#login').hidden=false;$('#lmsg').innerHTML=h};
 let gsi=null;
@@ -456,7 +505,7 @@ async function pull(tok){
  try{r=await fetch(AUTH.api,{method:'POST',headers:{'Content-Type':'text/plain;charset=utf-8'},body:JSON.stringify({t:tok})}).then(x=>x.json())}
  catch(e){lockMsg('Tidak bisa menghubungi server. Periksa koneksi internet lalu muat ulang halaman.');return}
  if(r&&r.ok){try{sessionStorage.setItem('kt-tok',tok);localStorage.removeItem('kt-data')}catch(e){}
-  $('#login').hidden=true;$('#hOut').hidden=false;load(r.data);return}
+  $('#login').hidden=true;$('#hOut').hidden=false;$('#bSaran').hidden=false;$('#tSaran').hidden=false;load(r.data);return}
  try{sessionStorage.removeItem('kt-tok')}catch(e){}
  const er=r&&r.err;
  lockMsg(er==='tidak-terdaftar'?'Akun <b>'+esc(r.email||'')+'</b> belum terdaftar sebagai guru. Hubungi admin sekolah, atau masuk dengan akun lain.':er==='belum-terbit'?'Data belum diterbitkan. Hubungi admin.':er==='server-belum-siap'?'Server belum siap. Hubungi admin.':'Masuk belum berhasil. Silakan masuk lagi dengan akun Google sekolah.');
